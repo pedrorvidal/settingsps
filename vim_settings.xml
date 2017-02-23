@@ -56,12 +56,12 @@
         <mark key="]" line="31" column="348" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/tmp/fz3temp-1/functions.php" timestamp="1487877075502">
-        <mark key="'" line="460" column="35" />
-        <mark key="[" line="479" column="0" />
-        <mark key="]" line="479" column="0" />
-        <mark key="^" line="479" column="49" />
-        <mark key="." line="479" column="0" />
+      <file name="/tmp/fz3temp-1/functions.php" timestamp="1487878217615">
+        <mark key="'" line="483" column="37" />
+        <mark key="[" line="1031" column="1" />
+        <mark key="]" line="1032" column="0" />
+        <mark key="^" line="1032" column="0" />
+        <mark key="." line="1032" column="0" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1487707651893">
         <mark key="[" line="97" column="0" />
@@ -89,6 +89,7 @@
       <jump line="17" column="2" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="474" column="20" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="460" column="35" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="483" column="37" filename="/tmp/fz3temp-1/functions.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
