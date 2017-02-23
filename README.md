@@ -1,0 +1,2 @@
+# settingsps
+Settings do PHPStorm
