@@ -56,9 +56,9 @@
         <mark key="]" line="31" column="348" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/tmp/fz3temp-1/functions.php" timestamp="1487860300895">
-        <mark key="'" line="474" column="20" />
-        <mark key="[" line="474" column="91" />
+      <file name="/tmp/fz3temp-1/functions.php" timestamp="1487874284279">
+        <mark key="'" line="460" column="35" />
+        <mark key="[" line="474" column="112" />
         <mark key="]" line="474" column="140" />
         <mark key="^" line="474" column="167" />
         <mark key="." line="474" column="141" />
@@ -88,10 +88,11 @@
       <jump line="23" column="74" filename="$USER_HOME$/html/filmmelier/html/views/filmes/filmes.html" />
       <jump line="17" column="2" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="474" column="20" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="460" column="35" filename="/tmp/fz3temp-1/functions.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>lenita@afresp.org.br,wilsonalegretti@afresp.org.br</text>
+        <text>wilsonalegretti@afresp.org.br</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXt7Y3JpdGVyaW9EZUJ1c2NhfX0K</text>
@@ -124,21 +125,22 @@
         <text>,wilson.alegretti@gmail.com</text>
       </register>
       <register name="/" type="4">
-        <text>pedro@pluralweb.biz</text>
+        <text>wilson</text>
       </register>
     </registers>
     <search>
-      <last-search>pedro@pluralweb.biz</last-search>
+      <last-search>wilson</last-search>
       <last-offset />
-      <last-pattern>pedro@pluralweb.biz</last-pattern>
+      <last-pattern>wilson</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>autor</entry>
         <entry>pedro@</entry>
         <entry>pedro@pluralweb.biz</entry>
+        <entry>wilson</entry>
       </history-search>
       <history-cmd />
       <history-expr />
