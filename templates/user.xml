@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="cc" value="&lt;!-- $VAR$ --&gt;" description="html comment" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
