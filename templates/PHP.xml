@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="epvard" value="&lt;?php&#10;echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($VAR$);&#10;echo &quot;&lt;/pre&gt;&quot;;&#10;die('fim');&#10;?&gt;" description="pre + var_dump" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="phpi" value="&lt;?php $VAR$ ?&gt;" description="php inline declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
