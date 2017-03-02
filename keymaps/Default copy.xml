@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="EditorSelectWord" />
