@@ -11,4 +11,15 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="pendif" value="&lt;?php endif; ?&gt;" description="php inline endif" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="pelse" value="&lt;?php else $VAR$: ?&gt;" description="php inline else" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
