@@ -61,6 +61,9 @@
         <mark key="]" line="31" column="348" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes-lista.php" timestamp="1488463349729">
+        <mark key="'" line="41" column="24" />
+      </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-home.php" timestamp="1488462425143">
         <mark key="'" line="125" column="17" />
         <mark key="[" line="203" column="0" />
@@ -112,6 +115,7 @@
       <jump line="125" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-home.php" />
       <jump line="23" column="25" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes.php" />
       <jump line="0" column="1" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes.php" />
+      <jump line="41" column="24" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes-lista.php" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -148,13 +152,13 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>Autoria</text>
+        <text>lotacao</text>
       </register>
     </registers>
     <search>
-      <last-search>Autoria</last-search>
+      <last-search>lotacao</last-search>
       <last-offset />
-      <last-pattern>Autoria</last-pattern>
+      <last-pattern>lotacao</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -165,6 +169,7 @@
         <entry>pedro@pluralweb.biz</entry>
         <entry>wilson</entry>
         <entry>Autoria</entry>
+        <entry>lotacao</entry>
       </history-search>
       <history-cmd />
       <history-expr />
