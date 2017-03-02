@@ -48,6 +48,12 @@
         <mark key="^" line="77" column="5" />
         <mark key="." line="77" column="5" />
       </file>
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/partials/contribuicao-content.php" timestamp="1488465576074">
+        <mark key="[" line="25" column="92" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+      </file>
       <file name="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" timestamp="1487708726753">
         <mark key="'" line="31" column="48" />
         <mark key="[" line="53" column="0" />
@@ -119,46 +125,46 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCTw/cGhwIGlmICggaXNfYXJyYXkoJGFub25pbW8pICYmICRhbm9uaW1vWzBdID09PSAnc2ltJyApIDogPz4K</text>
+        <text encoding="base64">CQkJPD9waHAgaWYgKCBpc19hcnJheSgkYW5vbmltbykgJiYgJGFub25pbW9bMF0gPT09ICdzaW0nICkgOiA/Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW5kcmVpYUBwbHVyYWx3ZWIuYml6JywK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbGVuaXRhQGFmcmVzcC5vcmcuYnInLAogICAgICAgICAgICAgICAgICAgICd3aWxzb25hbGVncmV0dGlAYWZyZXNwLm9yZy5icicsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29udGF0b0Btb3ZpbWVudG92aXZhLm9yZy5icicsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXt7Y3JpdGVyaW9EZUJ1c2NhfX0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl7e2NyaXRlcmlvRGVCdXNjYX19Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXt7Y3JpdGVyaW9EZUJ1c2NhfX0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW5kcmVpYUBwbHVyYWx3ZWIuYml6JywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbGVuaXRhQGFmcmVzcC5vcmcuYnInLAogICAgICAgICAgICAgICAgICAgICd3aWxzb25hbGVncmV0dGlAYWZyZXNwLm9yZy5icicsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29udGF0b0Btb3ZpbWVudG92aXZhLm9yZy5icicsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXt7Y3JpdGVyaW9EZUJ1c2NhfX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQl7e2NyaXRlcmlvRGVCdXNjYX19Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXt7Y3JpdGVyaW9EZUJ1c2NhfX0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTwhLS08ZGl2IGNsYXNzPSJvd2wtY2Fyb3VzZWwtbGlzdGFzIj4tLT4KCQkJCQk8IS0tPHVpLW93bC1saXN0YXMgbmctcmVwZWF0PSJsaXN0YSBpbiBsaXN0YXMgfCBvcmRlckJ5OidkYXRhX3Bvc3QnOnJldmVyc2UiIGxpc3Rhcz0ibGlzdGEiPi0tPgoJCQkJCTwhLS08L3VpLW93bC1saXN0YXM+LS0+CgkJCQk8IS0tPC9kaXY+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>lotacao</text>
+        <text>autoria</text>
       </register>
     </registers>
     <search>
-      <last-search>lotacao</last-search>
+      <last-search>autoria</last-search>
       <last-offset />
-      <last-pattern>lotacao</last-pattern>
+      <last-pattern>autoria</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -170,6 +176,7 @@
         <entry>wilson</entry>
         <entry>Autoria</entry>
         <entry>lotacao</entry>
+        <entry>autoria</entry>
       </history-search>
       <history-cmd />
       <history-expr />
