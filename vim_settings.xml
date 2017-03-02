@@ -46,9 +46,11 @@
       <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488483181916">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="35" />
+      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488486447310">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" timestamp="1488044899611">
         <mark key="]" line="77" column="5" />
@@ -164,7 +166,7 @@
         <text encoding="base64">CXt7Y3JpdGVyaW9EZUJ1c2NhfX0K</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>f');</text>
       </register>
       <register name="/" type="4">
         <text>setTimeout</text>
