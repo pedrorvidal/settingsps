@@ -35,7 +35,7 @@
         <mark key="." line="27" column="55" />
         <mark key="^" line="15" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1487707162768">
+      <file name="/a.dummy" timestamp="1488475235154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/html/htct/index.php" timestamp="1487627001709">
@@ -43,6 +43,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488475270284" />
       <file name="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" timestamp="1488044899611">
         <mark key="]" line="77" column="5" />
         <mark key="^" line="77" column="5" />
@@ -166,7 +167,7 @@
       <last-offset />
       <last-pattern>autoria</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
