@@ -46,11 +46,17 @@
       <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488486447310">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="40" />
-        <mark key="^" line="28" column="40" />
+      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488487465035">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/html/mundoverde/bigdump/bigdump.php" timestamp="1488487475472">
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="53" column="30" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" timestamp="1488044899611">
         <mark key="]" line="77" column="5" />
@@ -136,7 +142,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>MV1133mv2244#</text>
+        <text>munDO9797</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJPHN2ZyBjbGFzcz0iaWNvbiI+PHVzZSB4bGluazpocmVmPSI8P3BocCBlY2hvIGVzY191cmwoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vYXNzZXRzL2ltZy9pY29ucy5zdmcjYnVpbGRpbmciPjwvdXNlPjwvc3ZnPgo=</text>
@@ -166,7 +172,7 @@
         <text encoding="base64">CXt7Y3JpdGVyaW9EZUJ1c2NhfX0K</text>
       </register>
       <register name="-" type="4">
-        <text>f');</text>
+        <text>munDO9797</text>
       </register>
       <register name="/" type="4">
         <text>setTimeout</text>
