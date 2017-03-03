@@ -28,9 +28,12 @@
       <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488552945316">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="31" />
+      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488583765925">
+        <mark key="'" line="71" column="30" />
+        <mark key="[" line="96" column="37" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" timestamp="1488044899611">
         <mark key="]" line="77" column="5" />
@@ -101,6 +104,9 @@
         <mark key="]" line="378" column="0" />
         <mark key="." line="378" column="0" />
       </file>
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" timestamp="1488583809027">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes-lista.php" timestamp="1488463349729">
         <mark key="'" line="41" column="24" />
       </file>
@@ -167,6 +173,11 @@
       <jump line="3" column="1" filename="$USER_HOME$/html/mundoverde/header.php" />
       <jump line="373" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="70" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="1" column="7" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
+      <jump line="97" column="0" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
+      <jump line="71" column="30" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
+      <jump line="173" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -200,18 +211,18 @@
         <text encoding="base64">ICAgICAgICAgICAgICR0aGlzLm9uKCdzdWJtaXQnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICBfZ2FxLnB1c2goWydfdHJhY2tFdmVudCcsICdjbGlxdWUnLCAnZW52aWFyJywgJ2hvbWUnXSk7CiAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>setTimeout</text>
+        <text>debug</text>
       </register>
     </registers>
     <search>
-      <last-search>setTimeout</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>setTimeout</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -223,6 +234,7 @@
         <entry>lotacao</entry>
         <entry>autoria</entry>
         <entry>setTimeout</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd />
       <history-expr />
