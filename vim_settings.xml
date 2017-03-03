@@ -68,8 +68,8 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488509455961">
-        <mark key="'" line="73" column="28" />
+      <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488510634335">
+        <mark key="'" line="85" column="25" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
@@ -150,6 +150,7 @@
       <jump line="96" column="0" filename="$USER_HOME$/html/quiz/wp-config.php" />
       <jump line="84" column="2" filename="$USER_HOME$/html/quiz/wp-config.php" />
       <jump line="73" column="28" filename="$USER_HOME$/html/quiz/wp-config.php" />
+      <jump line="85" column="25" filename="$USER_HOME$/html/quiz/wp-config.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
