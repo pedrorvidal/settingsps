@@ -95,11 +95,12 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488567147305">
-        <mark key="[" line="377" column="13" />
-        <mark key="]" line="377" column="11" />
-        <mark key="." line="377" column="11" />
-        <mark key="^" line="377" column="11" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488577861079">
+        <mark key="'" line="71" column="79" />
+        <mark key="[" line="377" column="12" />
+        <mark key="]" line="378" column="11" />
+        <mark key="." line="378" column="11" />
+        <mark key="^" line="378" column="11" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes-lista.php" timestamp="1488463349729">
         <mark key="'" line="41" column="24" />
@@ -161,6 +162,7 @@
       <jump line="10" column="26" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="1" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-sucesso.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-sucesso.php" />
+      <jump line="71" column="79" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
     </jumps>
     <registers>
       <register name="0" type="2">
