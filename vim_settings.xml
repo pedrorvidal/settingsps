@@ -46,6 +46,10 @@
       <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
         <mark key="'" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488552945316">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="31" />
+      </file>
       <file name="$USER_HOME$/html/mundoverde/bigdump/bigdump.php" timestamp="1488489946119">
         <mark key="[" line="43" column="16" />
         <mark key="]" line="43" column="20" />
@@ -150,8 +154,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-sucesso.php" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxoMz5NZW5zYWdlbSBlbnZpYWRhIGNvbSBzdWNlc3NvPC9oMz4K</text>
+      <register name="0" type="4">
+        <text>munDO9797</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
