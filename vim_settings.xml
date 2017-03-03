@@ -95,12 +95,11 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488577861079">
-        <mark key="'" line="71" column="79" />
-        <mark key="[" line="377" column="12" />
-        <mark key="]" line="378" column="11" />
-        <mark key="." line="378" column="11" />
-        <mark key="^" line="378" column="11" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488582012933">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="378" column="0" />
+        <mark key="]" line="378" column="0" />
+        <mark key="." line="378" column="0" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes-lista.php" timestamp="1488463349729">
         <mark key="'" line="41" column="24" />
@@ -126,7 +125,8 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/header.php" timestamp="1488572473400">
+      <file name="$USER_HOME$/html/mundoverde/header.php" timestamp="1488581939773">
+        <mark key="'" line="3" column="1" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -163,37 +163,41 @@
       <jump line="1" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-sucesso.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-sucesso.php" />
       <jump line="71" column="79" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="33" column="73" filename="$USER_HOME$/html/mundoverde/header.php" />
+      <jump line="3" column="1" filename="$USER_HOME$/html/mundoverde/header.php" />
+      <jump line="373" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">CTxzY3JpcHQ+d2luZG93LmFqYXh1cmwgPSAnPD9waHAgZWNobyBhZG1pbl91cmwoImFkbWluLWFqYXgucGhwIik7ID8+Jzs8L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGFkb3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBsb29wIGVudHJlIG9zIGNoZWNrZWQsIHBlZ2Egb3MgdmFsb3JlcyBlIGJvdGEgbnVtIGFycmF5Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+d2luZG93LmFqYXh1cmwgPSAnPD9waHAgZWNobyBhZG1pbl91cmwoImFkbWluLWFqYXgucGhwIik7ID8+Jzs8L3NjcmlwdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NsaWNrIG5vIGVudmlhcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICR0aGlzLm9uKCdzdWJtaXQnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICBfZ2FxLnB1c2goWydfdHJhY2tFdmVudCcsICdjbGlxdWUnLCAnZW52aWFyJywgJ2hvbWUnXSk7CiAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">CQkvLyBsb29wIGVudHJlIG9zIGNoZWNrZWQsIHBlZ2Egb3MgdmFsb3JlcyBlIGJvdGEgbnVtIGFycmF5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2NsaWNrIG5vIGVudmlhcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG9uY2xpY2s9Il9nYXEucHVzaChbJ190cmFja0V2ZW50JywgJ2NsaXF1ZScsICdlbnZpYXInLCAnaG9tZSddKTsiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBZb3UgaGF2ZSBhIGNoZWNrZWQgcmFkaW8gYnV0dG9uIGhlcmUuLi4KICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygkKHRoaXMpLnZhbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICR0aGlzLm9uKCdzdWJtaXQnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICBfZ2FxLnB1c2goWydfdHJhY2tFdmVudCcsICdjbGlxdWUnLCAnZW52aWFyJywgJ2hvbWUnXSk7CiAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
