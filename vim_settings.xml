@@ -68,12 +68,11 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488509041131">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="96" column="29" />
-        <mark key="]" line="96" column="29" />
-        <mark key="." line="96" column="29" />
-        <mark key="^" line="96" column="29" />
+      <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488509455961">
+        <mark key="'" line="73" column="28" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/staticpages/static_page_lista.php" timestamp="1487686271519">
         <mark key="[" line="27" column="55" />
@@ -149,13 +148,15 @@
       <jump line="31" column="28" filename="$USER_HOME$/html/quiz/wp-config.php" />
       <jump line="86" column="0" filename="$USER_HOME$/html/quiz/wp-config.php" />
       <jump line="96" column="0" filename="$USER_HOME$/html/quiz/wp-config.php" />
+      <jump line="84" column="2" filename="$USER_HOME$/html/quiz/wp-config.php" />
+      <jump line="73" column="28" filename="$USER_HOME$/html/quiz/wp-config.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>munDO9797</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
@@ -170,19 +171,19 @@
         <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCdkaXJlY3QnKTsK</text>
+        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCdkaXJlY3QnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPHN2ZyBjbGFzcz0iaWNvbiI+PHVzZSB4bGluazpocmVmPSI8P3BocCBlY2hvIGVzY191cmwoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vYXNzZXRzL2ltZy9pY29ucy5zdmcjYnVpbGRpbmciPjwvdXNlPjwvc3ZnPgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJPHN2ZyBjbGFzcz0iaWNvbiI+PHVzZSB4bGluazpocmVmPSI8P3BocCBlY2hvIGVzY191cmwoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vYXNzZXRzL2ltZy9pY29ucy5zdmcjYnVpbGRpbmciPjwvdXNlPjwvc3ZnPgo=</text>
+      </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>#teste</text>
       </register>
       <register name="/" type="4">
         <text>setTimeout</text>
