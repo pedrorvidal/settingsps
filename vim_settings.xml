@@ -3,82 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/html/htct/application/config/config.php" timestamp="1487627108907">
-        <mark key="[" line="36" column="30" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="36" column="30" />
-        <mark key="^" line="36" column="30" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-home.php" timestamp="1488462425143">
+        <mark key="'" line="125" column="17" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="44" />
+        <mark key="." line="203" column="44" />
+        <mark key="^" line="204" column="54" />
       </file>
-      <file name="$USER_HOME$/html/quizz/wp-config.php" timestamp="1487717586039">
-        <mark key="'" line="76" column="60" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/html/staticpages/static_page_lista.php" timestamp="1487686271519">
-        <mark key="[" line="27" column="55" />
-        <mark key="]" line="27" column="55" />
-        <mark key="." line="27" column="55" />
-        <mark key="^" line="15" column="67" />
-      </file>
-      <file name="/a.dummy" timestamp="1488475235154">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
-        <mark key="'" line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488583765925">
-        <mark key="'" line="71" column="30" />
-        <mark key="[" line="96" column="37" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="97" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" timestamp="1488044899611">
-        <mark key="]" line="77" column="5" />
-        <mark key="^" line="77" column="5" />
-        <mark key="." line="77" column="5" />
-      </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/partials/contribuicao-content.php" timestamp="1488466951017">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
-        <mark key="^" line="26" column="26" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" timestamp="1487708726753">
-        <mark key="'" line="31" column="48" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="63" column="16" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/filmes/filmes.html" timestamp="1487868635003">
-        <mark key="'" line="23" column="74" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="348" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" timestamp="1488572411723">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="83" />
-      </file>
-      <file name="/tmp/fz3temp-1/functions.php" timestamp="1487879396160">
-        <mark key="'" line="483" column="37" />
-        <mark key="[" line="1017" column="5" />
-        <mark key="]" line="1018" column="3" />
-        <mark key="^" line="1018" column="3" />
-        <mark key="." line="1018" column="3" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1487707651893">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="105" column="13" />
-      </file>
-      <file name="$USER_HOME$/html/htct/application/config/database.php" timestamp="1487626793001">
-        <mark key="[" line="72" column="17" />
-        <mark key="]" line="72" column="23" />
-        <mark key="." line="72" column="23" />
-        <mark key="^" line="72" column="23" />
+      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488487465035">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="/tmp/fz3temp-1/.htaccess" timestamp="1487622698350">
         <mark key="'" line="0" column="0" />
@@ -87,10 +23,90 @@
         <mark key="^" line="23" column="46" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes-lista.php" timestamp="1488463349729">
+        <mark key="'" line="41" column="24" />
+      </file>
+      <file name="/a.dummy" timestamp="1488475235154">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" timestamp="1487708726753">
+        <mark key="'" line="31" column="48" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="63" column="16" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/html/htct/application/config/config.php" timestamp="1487627108907">
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+        <mark key="^" line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/html/views/filmes/filmes.html" timestamp="1487868635003">
+        <mark key="'" line="23" column="74" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="348" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" timestamp="1488044899611">
+        <mark key="]" line="77" column="5" />
+        <mark key="^" line="77" column="5" />
+        <mark key="." line="77" column="5" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1487707651893">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="105" column="13" />
+      </file>
       <file name="$USER_HOME$/html/htct/index.php" timestamp="1487627001709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/partials/contribuicao-content.php" timestamp="1488466951017">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="26" column="26" />
+      </file>
+      <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488510634335">
+        <mark key="'" line="85" column="25" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/html/staticpages/static_page_lista.php" timestamp="1487686271519">
+        <mark key="[" line="27" column="55" />
+        <mark key="]" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+        <mark key="^" line="15" column="67" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/html/views/home/home.html" timestamp="1487868647132">
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="352" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
+        <mark key="'" line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/html/htct/application/config/database.php" timestamp="1487626793001">
+        <mark key="[" line="72" column="17" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
+        <mark key="^" line="72" column="23" />
+      </file>
+      <file name="/tmp/fz3temp-1/functions.php" timestamp="1487879396160">
+        <mark key="'" line="483" column="37" />
+        <mark key="[" line="1017" column="5" />
+        <mark key="]" line="1018" column="3" />
+        <mark key="^" line="1018" column="3" />
+        <mark key="." line="1018" column="3" />
+      </file>
+      <file name="$USER_HOME$/html/quizz/wp-config.php" timestamp="1487717586039">
+        <mark key="'" line="76" column="60" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/bigdump/bigdump.php" timestamp="1488489946119">
         <mark key="[" line="43" column="16" />
@@ -98,31 +114,11 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488582012933">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="." line="378" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" timestamp="1488583809027">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes-lista.php" timestamp="1488463349729">
-        <mark key="'" line="41" column="24" />
-      </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-sucesso.php" timestamp="1488549917000">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-home.php" timestamp="1488462425143">
-        <mark key="'" line="125" column="17" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="44" />
-        <mark key="." line="203" column="44" />
-        <mark key="^" line="204" column="54" />
+      <file name="$USER_HOME$/html/filmmelier/html/staticpages/static_page_filme.php" timestamp="1487686004169">
+        <mark key="[" line="15" column="67" />
+        <mark key="]" line="15" column="67" />
+        <mark key="." line="15" column="67" />
+        <mark key="^" line="15" column="67" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes.php" timestamp="1488462721217">
         <mark key="'" line="0" column="1" />
@@ -130,23 +126,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/html/mundoverde/header.php" timestamp="1488581939773">
-        <mark key="'" line="3" column="1" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/home/home.html" timestamp="1487868647132">
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="48" column="352" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/html/staticpages/static_page_filme.php" timestamp="1487686004169">
-        <mark key="[" line="15" column="67" />
-        <mark key="]" line="15" column="67" />
-        <mark key="." line="15" column="67" />
-        <mark key="^" line="15" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -166,63 +145,57 @@
       <jump line="41" column="24" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes-lista.php" />
       <jump line="0" column="6" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="10" column="26" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-sucesso.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-sucesso.php" />
-      <jump line="71" column="79" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="33" column="73" filename="$USER_HOME$/html/mundoverde/header.php" />
-      <jump line="3" column="1" filename="$USER_HOME$/html/mundoverde/header.php" />
-      <jump line="373" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="1" column="7" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
-      <jump line="97" column="0" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
-      <jump line="71" column="30" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
-      <jump line="173" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" />
+      <jump line="31" column="28" filename="$USER_HOME$/html/quiz/wp-config.php" />
+      <jump line="86" column="0" filename="$USER_HOME$/html/quiz/wp-config.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/html/quiz/wp-config.php" />
+      <jump line="84" column="2" filename="$USER_HOME$/html/quiz/wp-config.php" />
+      <jump line="73" column="28" filename="$USER_HOME$/html/quiz/wp-config.php" />
+      <jump line="85" column="25" filename="$USER_HOME$/html/quiz/wp-config.php" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">CTxzY3JpcHQ+d2luZG93LmFqYXh1cmwgPSAnPD9waHAgZWNobyBhZG1pbl91cmwoImFkbWluLWFqYXgucGhwIik7ID8+Jzs8L3NjcmlwdD4K</text>
+      <register name="0" type="4">
+        <text>munDO9797</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGFkb3MpOwo=</text>
+        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+d2luZG93LmFqYXh1cmwgPSAnPD9waHAgZWNobyBhZG1pbl91cmwoImFkbWluLWFqYXgucGhwIik7ID8+Jzs8L3NjcmlwdD4K</text>
+        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBsb29wIGVudHJlIG9zIGNoZWNrZWQsIHBlZ2Egb3MgdmFsb3JlcyBlIGJvdGEgbnVtIGFycmF5Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NsaWNrIG5vIGVudmlhcgo=</text>
+        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCdkaXJlY3QnKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICR0aGlzLm9uKCdzdWJtaXQnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICBfZ2FxLnB1c2goWydfdHJhY2tFdmVudCcsICdjbGlxdWUnLCAnZW52aWFyJywgJ2hvbWUnXSk7CiAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">CQkJPHN2ZyBjbGFzcz0iaWNvbiI+PHVzZSB4bGluazpocmVmPSI8P3BocCBlY2hvIGVzY191cmwoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vYXNzZXRzL2ltZy9pY29ucy5zdmcjYnVpbGRpbmciPjwvdXNlPjwvc3ZnPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>#teste</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>setTimeout</text>
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>setTimeout</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>setTimeout</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -234,7 +207,6 @@
         <entry>lotacao</entry>
         <entry>autoria</entry>
         <entry>setTimeout</entry>
-        <entry>debug</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -264,9 +236,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
