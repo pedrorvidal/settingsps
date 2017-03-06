@@ -105,8 +105,8 @@
         <mark key="[" line="339" column="0" />
         <mark key="]" line="377" column="54" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488834404633">
-        <mark key="'" line="446" column="22" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488840566006">
+        <mark key="'" line="390" column="22" />
         <mark key="[" line="394" column="0" />
         <mark key="]" line="394" column="0" />
         <mark key="^" line="365" column="11" />
@@ -137,8 +137,8 @@
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488833434594">
-        <mark key="'" line="1406" column="40" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488840562318">
+        <mark key="'" line="1470" column="0" />
         <mark key="[" line="1414" column="0" />
         <mark key="]" line="1414" column="0" />
         <mark key="^" line="1456" column="38" />
@@ -203,6 +203,9 @@
       <jump line="394" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="447" column="16" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="446" column="22" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="1414" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1470" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="390" column="22" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
