@@ -105,12 +105,12 @@
         <mark key="[" line="339" column="0" />
         <mark key="]" line="377" column="54" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488828144339">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="35" />
-        <mark key="^" line="406" column="12" />
-        <mark key="." line="406" column="0" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488830207323">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="0" />
+        <mark key="^" line="405" column="58" />
+        <mark key="." line="404" column="0" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" timestamp="1488804090923">
         <mark key="'" line="133" column="0" />
@@ -119,7 +119,7 @@
         <mark key="." line="107" column="3" />
         <mark key="^" line="107" column="3" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1488827527207" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1488828262697" />
       <file name="$USER_HOME$/html/mundoverde/wp-includes/functions.php" timestamp="1488803615932">
         <mark key="'" line="0" column="0" />
       </file>
@@ -137,12 +137,12 @@
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488828238063">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488829992487">
         <mark key="'" line="1406" column="40" />
-        <mark key="[" line="1414" column="0" />
-        <mark key="]" line="1414" column="0" />
-        <mark key="^" line="1412" column="14" />
-        <mark key="." line="1414" column="0" />
+        <mark key="[" line="1412" column="26" />
+        <mark key="]" line="1412" column="30" />
+        <mark key="." line="1412" column="30" />
+        <mark key="^" line="1412" column="30" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes.php" timestamp="1488462721217">
         <mark key="'" line="0" column="1" />
@@ -191,52 +191,57 @@
       <jump line="40" column="8" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" />
       <jump line="70" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" />
       <jump line="1" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="394" column="41" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="327" column="53" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="399" column="23" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="411" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="9" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_r</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>ajax</text>
+        <text>beauty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIXJlc3BvbnNlLnZvdG9zLm9wdGlvbjEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uudm90b3Mub3B0aW9uMSA9IDA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpZSgnZmltJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIXJlc3BvbnNlLnZvdG9zLm9wdGlvbjUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uudm90b3Mub3B0aW9uNSA9IDA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRpbnNjcmljYW8gPSAkX1BPU1RbJ251bV9hc3NvY2lhZG8nXTsKICAgICRjcGYgPSAkX1BPU1RbJ2NwZiddOwogICAgJHVzZXIgPSBnZXRfdXNlcl9ieSgnbG9naW4nLCAkaW5zY3JpY2FvKTsKCiAgICBpZiAoIWVtcHR5KCR1c2VyKSkgewogICAgICAgICRjcGZfdXNlciA9IGdldF91c2VyX21ldGEoJHVzZXItPklELCAnY3BmJywgdHJ1ZSk7CgogICAgICAgICRjcGYgPSB0cmltKCRjcGYpOwogICAgICAgICRjcGYgPSBzdHJfcmVwbGFjZSgiLiIsICIiLCAkY3BmKTsKICAgICAgICAkY3BmID0gc3RyX3JlcGxhY2UoIiwiLCAiIiwgJGNwZik7CiAgICAgICAgJGNwZiA9IHN0cl9yZXBsYWNlKCItIiwgIiIsICRjcGYpOwogICAgICAgICRjcGYgPSBzdHJfcmVwbGFjZSgiLyIsICIiLCAkY3BmKTsKCiAgICAgICAgaWYgKCRjcGZfdXNlciA9PSAkY3BmKSB7CiAgICAgICAgICAgIGVjaG8gJHVzZXItPmRpc3BsYXlfbmFtZTsKICAgICAgICAgICAgd3BfcmVzZXRfcG9zdGRhdGEoKTsKICAgICAgICAgICAgd3BfZGllKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZWNobyAiZXJyb2NwZiI7CiAgICAgICAgICAgIHdwX3Jlc2V0X3Bvc3RkYXRhKCk7CiAgICAgICAgICAgIHdwX2RpZSgpOwogICAgICAgIH0KICAgIH0gZWxzZSB7CiAgICAgICAgZWNobyAiZXJyb3VzZXIiOwogICAgICAgIHdwX3Jlc2V0X3Bvc3RkYXRhKCk7CiAgICAgICAgd3BfZGllKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWydTbGltJywgMV0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWydCZWF1dHknLCAxXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIjxwcmU+IjsKICAgIHZhcl9kdW1wKCRjaGF2ZXMpOwogICAgZWNobyAiPC9wcmU+IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIjxwcmU+IjsKICAgIHZhcl9kdW1wKCRfUE9TVCk7CiAgICBlY2hvICI8L3ByZT4iOwogICAgZGllKCdmaW0nKTsK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkZm9ybURhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRhMSA9ICRfUE9TVFsnYW5zd2VyMSddOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25fZW5jb2RlKCdzbGltJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDw/cGhwCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25fZW5jb2RlKCd2aXRhJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpZSgkX1BPU1QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25fZW5jb2RlKCd2aXRhJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ajax</last-search>
+      <last-search>beauty</last-search>
       <last-offset />
-      <last-pattern>ajax</last-pattern>
+      <last-pattern>beauty</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -253,6 +258,7 @@
         <entry>====</entry>
         <entry>Updated</entry>
         <entry>ajax</entry>
+        <entry>beauty</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -284,6 +290,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
