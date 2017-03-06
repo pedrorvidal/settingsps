@@ -95,11 +95,10 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488809525144">
-        <mark key="[" line="378" column="12" />
-        <mark key="]" line="378" column="11" />
-        <mark key="^" line="378" column="11" />
-        <mark key="." line="378" column="11" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488812338138">
+        <mark key="[" line="378" column="0" />
+        <mark key="]" line="378" column="0" />
+        <mark key="." line="378" column="0" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" timestamp="1488804090923">
         <mark key="'" line="133" column="0" />
@@ -121,9 +120,9 @@
         <mark key="." line="203" column="44" />
         <mark key="^" line="204" column="54" />
       </file>
-      <file name="/tmp/fz3temp-1/wp-config.php" timestamp="1488806318922">
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="46" />
+      <file name="/tmp/fz3temp-1/wp-config.php" timestamp="1488810287252">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488803578154">
         <mark key="'" line="0" column="0" />
@@ -176,37 +175,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>afrespbid.mysql.dbaas.com.br</text>
+        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5OiBub25lOyI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJHRoaXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyICR0aGlzID0gJCh0aGlzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAkdGhpcyA9ICQodGhpcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAkdGhpcyA9ICQodGhpcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gYWxsIHF1ZXN0aW9ucyBhbnN3ZXJlZAogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3RvZG9zIHJlc3BvbmRpZG9zJyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wZWdhbmRvIGRhZG9zCi8vICAgICAgICAgICAgdmFyICR0aGlzID0gJCh0aGlzKTsKLy8gICAgICAgICAgICB2YXIgZGFkb3MgPSBbXTsKLy8gICAgICAgICAgICAkKCdpbnB1dDpyYWRpbycpLmVhY2goZnVuY3Rpb24oKSB7Ci8vICAgICAgICAgICAgICAgIGlmKCR0aGlzLmlzKCc6Y2hlY2tlZCcpKSB7Ci8vICAgICAgICAgICAgICAgICAgICBkYWRvcy5wdXNoKHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBuYW1lIDogJHRoaXMuYXR0cignbmFtZScpLAovLyAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlIDogJHRoaXMudmFsKCkKLy8gICAgICAgICAgICAgICAgICAgIH0pOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgY29uc29sZS5sb2coZGFkb3MpOwovLyAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text>setTimeout</text>
