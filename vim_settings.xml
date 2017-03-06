@@ -25,11 +25,11 @@
       <file name="/a.dummy" timestamp="1488475235154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488803756188">
-        <mark key="[" line="81" column="27" />
-        <mark key="]" line="81" column="30" />
-        <mark key="^" line="81" column="30" />
-        <mark key="." line="81" column="30" />
+      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488843613273">
+        <mark key="[" line="101" column="59" />
+        <mark key="]" line="101" column="101" />
+        <mark key="^" line="103" column="0" />
+        <mark key="." line="101" column="59" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
         <mark key="'" line="10" column="26" />
@@ -82,6 +82,11 @@
         <mark key="^" line="1018" column="3" />
         <mark key="." line="1018" column="3" />
       </file>
+      <file name="$USER_HOME$/html/afresp/wp-config.php" timestamp="1488843551640">
+        <mark key="'" line="32" column="23" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/html/htct/application/config/database.php" timestamp="1487626793001">
         <mark key="[" line="72" column="17" />
         <mark key="]" line="72" column="23" />
@@ -119,7 +124,7 @@
         <mark key="." line="107" column="3" />
         <mark key="^" line="107" column="3" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1488828262697" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1488843024202" />
       <file name="$USER_HOME$/html/mundoverde/wp-includes/functions.php" timestamp="1488803615932">
         <mark key="'" line="0" column="0" />
       </file>
@@ -206,16 +211,17 @@
       <jump line="1414" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="1470" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="390" column="22" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="32" column="23" filename="$USER_HOME$/html/afresp/wp-config.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>/projetos/pluralweb/afresp/000744web/</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="4">
-        <text>#1e8330</text>
+        <text>/projetos/aktuellmix/mundoverde/000829web/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
