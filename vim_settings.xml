@@ -28,8 +28,8 @@
       <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1488827447036">
-        <mark key="'" line="71" column="0" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1488903913534">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="87" />
         <mark key="^" line="45" column="7" />
@@ -206,13 +206,14 @@
       <jump line="22" column="32" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
       <jump line="182" column="54" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>/projetos/pluralweb/afresp/000744web/</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>og:description</text>
       </register>
       <register name="0" type="4">
         <text>munDO9797</text>
@@ -249,9 +250,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>og:description</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>og:description</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -271,6 +272,7 @@
         <entry>beauty</entry>
         <entry>asdf</entry>
         <entry>console.log</entry>
+        <entry>og:description</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
