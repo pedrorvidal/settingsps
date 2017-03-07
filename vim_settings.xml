@@ -25,11 +25,12 @@
       <file name="/a.dummy" timestamp="1488475235154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488843613273">
-        <mark key="[" line="101" column="59" />
-        <mark key="]" line="101" column="101" />
-        <mark key="^" line="103" column="0" />
-        <mark key="." line="101" column="59" />
+      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1488844270604">
+        <mark key="'" line="22" column="32" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
         <mark key="'" line="10" column="26" />
@@ -212,6 +213,8 @@
       <jump line="1470" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="390" column="22" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="32" column="23" filename="$USER_HOME$/html/afresp/wp-config.php" />
+      <jump line="39" column="0" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
+      <jump line="22" column="32" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
