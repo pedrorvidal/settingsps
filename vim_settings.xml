@@ -138,11 +138,12 @@
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488986024485">
-        <mark key="'" line="182" column="54" />
-        <mark key="[" line="1489" column="4" />
-        <mark key="]" line="1489" column="11" />
-        <mark key="." line="1488" column="0" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488987329689">
+        <mark key="'" line="1503" column="32" />
+        <mark key="[" line="1497" column="58" />
+        <mark key="]" line="1497" column="59" />
+        <mark key="." line="1497" column="59" />
+        <mark key="^" line="1497" column="59" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes.php" timestamp="1488462721217">
         <mark key="'" line="0" column="1" />
@@ -215,52 +216,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/style.css" />
       <jump line="831" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/style.css" />
       <jump line="713" column="20" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/style.css" />
+      <jump line="1503" column="32" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>created</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>og:description</text>
+        <text>Populares</text>
       </register>
       <register name="0" type="4">
         <text>munDO9797</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaSA9IDE7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICR3cGRiLT5pbnNlcnQoJ3F1aXpfcmVzdWx0cycsICRkYXRhKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkaSA9IDE7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBnbG9iYWwgJHdwZGI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCAkd3BkYjsK</text>
+        <text encoding="base64">ICAgICR3cGRiLT5pbnNlcnQoJ3F1aXpfcmVzdWx0cycsICRkYXRhKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
+        <text encoding="base64">CiAgICBnbG9iYWwgJHdwZGI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>og:description</last-search>
+      <last-search>Populares</last-search>
       <last-offset />
-      <last-pattern>og:description</last-pattern>
+      <last-pattern>Populares</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -281,6 +283,8 @@
         <entry>asdf</entry>
         <entry>console.log</entry>
         <entry>og:description</entry>
+        <entry>Downloads</entry>
+        <entry>Populares</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
