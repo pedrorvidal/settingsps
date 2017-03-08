@@ -22,6 +22,12 @@
         <mark key="." line="27" column="55" />
         <mark key="^" line="15" column="67" />
       </file>
+      <file name="$USER_HOME$/htdocs/dm9/backend/application/config/database.php" timestamp="1488998523671">
+        <mark key="[" line="79" column="19" />
+        <mark key="]" line="79" column="23" />
+        <mark key="." line="79" column="23" />
+        <mark key="^" line="79" column="23" />
+      </file>
       <file name="/a.dummy" timestamp="1488988367900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -222,7 +228,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>a</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>Populares</text>
