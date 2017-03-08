@@ -22,8 +22,10 @@
         <mark key="." line="27" column="55" />
         <mark key="^" line="15" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1488475235154">
+      <file name="/a.dummy" timestamp="1488988367900">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1488476113059">
         <mark key="'" line="10" column="26" />
@@ -138,12 +140,12 @@
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488987329689">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488989797749">
         <mark key="'" line="1503" column="32" />
-        <mark key="[" line="1497" column="58" />
-        <mark key="]" line="1497" column="59" />
-        <mark key="." line="1497" column="59" />
-        <mark key="^" line="1497" column="59" />
+        <mark key="[" line="1520" column="64" />
+        <mark key="]" line="1520" column="63" />
+        <mark key="." line="1520" column="63" />
+        <mark key="^" line="1520" column="63" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes.php" timestamp="1488462721217">
         <mark key="'" line="0" column="1" />
@@ -220,7 +222,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>control</text>
       </register>
       <register name="/" type="4">
         <text>Populares</text>
@@ -229,7 +231,7 @@
         <text>munDO9797</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly93cF9hZGRfZGFzaGJvYXJkX3dpZGdldCgkd2lkZ2V0X2lkLCAkd2lkZ2V0X25hbWUsICRjYWxsYmFjaywgJGNvbnRyb2xfY2FsbGJhY2ssICRjYWxsYmFja19hcmdzICk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -238,22 +240,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaSA9IDE7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICR3cGRiLT5pbnNlcnQoJ3F1aXpfcmVzdWx0cycsICRkYXRhKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkaSA9IDE7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBnbG9iYWwgJHdwZGI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
