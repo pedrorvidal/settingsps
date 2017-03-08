@@ -138,8 +138,11 @@
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488892290896">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488986024485">
         <mark key="'" line="182" column="54" />
+        <mark key="[" line="1489" column="4" />
+        <mark key="]" line="1489" column="11" />
+        <mark key="." line="1488" column="0" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes.php" timestamp="1488462721217">
         <mark key="'" line="0" column="1" />
@@ -215,7 +218,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/projetos/pluralweb/afresp/000744web/</text>
+        <text>created</text>
       </register>
       <register name="/" type="4">
         <text>og:description</text>
@@ -224,31 +227,31 @@
         <text>munDO9797</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRjaGF2ZXMgYXMgJGNoYXZlKSA6CiAgICAgICAgaWYgJGNoYXZlIAogICAgZW5kZm9yZWFjaDsK</text>
+        <text encoding="base64">ICAgICAgICAkaSA9IDE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8L3ByZT4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICR3cGRiLT5pbnNlcnQoJ3F1aXpfcmVzdWx0cycsICRkYXRhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJ2ZpbScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA/Pgo=</text>
+        <text encoding="base64">CiAgICBnbG9iYWwgJHdwZGI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocAo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCAkd3BkYjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDw/cGhwCiAgICBlY2hvICI8cHJlPiI7CiAgICB2YXJfZHVtcCgkdm90b3MpOwogICAgZWNobyAiPC9wcmU+IjsKICAgIGRpZSgnZmltJyk7CiAgICA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkd3BkYi0+aW5zZXJ0KCdxdWl6X3Jlc3VsdHMnLCAkZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
