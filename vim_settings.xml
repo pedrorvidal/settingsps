@@ -156,7 +156,6 @@
         <mark key="." line="107" column="3" />
         <mark key="^" line="107" column="3" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1488843024202" />
       <file name="$USER_HOME$/html/dm9/backend/application/config/config.php" timestamp="1489004808565">
         <mark key="[" line="37" column="30" />
         <mark key="]" line="37" column="42" />
@@ -173,6 +172,12 @@
       <file name="/tmp/fz3temp-1/wp-config.php" timestamp="1488810287252">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="34" />
+      </file>
+      <file name="$USER_HOME$/html/museudaimigracao/application/config/database.php" timestamp="1489414589511">
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="23" />
+        <mark key="." line="68" column="23" />
+        <mark key="^" line="68" column="23" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488994183877">
         <mark key="'" line="1503" column="32" />
@@ -267,7 +272,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>eventos</text>
@@ -311,7 +316,7 @@
       <last-offset />
       <last-pattern>eventos</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
