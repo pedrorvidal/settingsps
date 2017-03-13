@@ -107,6 +107,12 @@
         <mark key="]" line="24" column="44" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/html/museudaimigracao/application/config/config.php" timestamp="1489415362433">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+      </file>
       <file name="$USER_HOME$/html/htct/application/config/database.php" timestamp="1487626793001">
         <mark key="[" line="72" column="17" />
         <mark key="]" line="72" column="23" />
@@ -272,7 +278,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>j</text>
+        <text>http://localhost/000534web-plural-web-museu-da-imigracao/</text>
       </register>
       <register name="/" type="4">
         <text>eventos</text>
