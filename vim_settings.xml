@@ -28,7 +28,7 @@
         <mark key="." line="90" column="14" />
         <mark key="^" line="90" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1488988367900">
+      <file name="/a.dummy" timestamp="1489602642943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -58,6 +58,9 @@
         <mark key="]" line="25" column="16" />
         <mark key="." line="25" column="16" />
         <mark key="^" line="26" column="26" />
+      </file>
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/footer.php" timestamp="1489602903491">
+        <mark key="'" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" timestamp="1487708726753">
         <mark key="'" line="31" column="48" />
@@ -91,11 +94,6 @@
         <mark key="]" line="1018" column="3" />
         <mark key="^" line="1018" column="3" />
         <mark key="." line="1018" column="3" />
-      </file>
-      <file name="$USER_HOME$/html/afresp/wp-config.php" timestamp="1488843551640">
-        <mark key="'" line="32" column="23" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="103" column="0" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" timestamp="1489530340965">
         <mark key="'" line="408" column="31" />
@@ -153,12 +151,11 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1488892465043">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489602954659">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="394" column="0" />
-        <mark key="]" line="394" column="0" />
-        <mark key="^" line="365" column="11" />
-        <mark key="." line="394" column="0" />
+        <mark key="[" line="422" column="6" />
+        <mark key="]" line="422" column="6" />
+        <mark key="." line="422" column="6" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1489004748222">
         <mark key="[" line="79" column="19" />
@@ -198,12 +195,15 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/elixir.php" timestamp="1489602742330">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1488994183877">
-        <mark key="'" line="1503" column="32" />
-        <mark key="[" line="1525" column="20" />
-        <mark key="]" line="1525" column="41" />
-        <mark key="^" line="1525" column="19" />
-        <mark key="." line="1525" column="20" />
+        <mark key="'" line="1511" column="32" />
+        <mark key="[" line="1533" column="20" />
+        <mark key="]" line="1533" column="41" />
+        <mark key="^" line="1533" column="19" />
+        <mark key="." line="1533" column="20" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-contribuicoes.php" timestamp="1488462721217">
         <mark key="'" line="0" column="1" />
@@ -278,7 +278,6 @@
       <jump line="39" column="0" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
       <jump line="22" column="32" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
       <jump line="182" column="54" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="26" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/style.css" />
       <jump line="831" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/style.css" />
@@ -292,13 +291,18 @@
       <jump line="361" column="28" filename="$USER_HOME$/html/dm9/backend/assets/front/js/dev.js" />
       <jump line="354" column="0" filename="$USER_HOME$/html/dm9/backend/assets/front/js/dev.js" />
       <jump line="217" column="13" filename="$USER_HOME$/html/dm9/backend/application/controllers/Evento.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/elixir.php" />
+      <jump line="258" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/footer.php" />
+      <jump line="392" column="46" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="19" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/footer.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$id_busca</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>eventos</text>
+        <text>newsletter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmUoJ25pdmVsJywgJGlkX2J1c2NhKQo=</text>
@@ -335,11 +339,11 @@
       </register>
     </registers>
     <search>
-      <last-search>eventos</last-search>
+      <last-search>newsletter</last-search>
       <last-offset />
-      <last-pattern>eventos</last-pattern>
+      <last-pattern>newsletter</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -361,6 +365,7 @@
         <entry>Downloads</entry>
         <entry>Populares</entry>
         <entry>eventos</entry>
+        <entry>newsletter</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
