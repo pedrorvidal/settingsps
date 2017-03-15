@@ -151,11 +151,12 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489602954659">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489605419659">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="422" column="6" />
-        <mark key="]" line="422" column="6" />
-        <mark key="." line="422" column="6" />
+        <mark key="[" line="228" column="12" />
+        <mark key="]" line="229" column="35" />
+        <mark key="." line="229" column="35" />
+        <mark key="^" line="229" column="35" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1489004748222">
         <mark key="[" line="79" column="19" />
@@ -225,6 +226,13 @@
         <mark key="." line="15" column="67" />
         <mark key="^" line="15" column="67" />
       </file>
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" timestamp="1489605620107">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="346" column="0" />
+        <mark key="]" line="347" column="21" />
+        <mark key="^" line="346" column="3" />
+        <mark key="." line="346" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="13" column="46" filename="/tmp/fz3temp-1/.htaccess" />
@@ -262,7 +270,6 @@
       <jump line="327" column="53" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="399" column="23" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="411" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="9" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="428" column="53" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="363" column="71" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="364" column="9" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
@@ -295,17 +302,27 @@
       <jump line="258" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/footer.php" />
       <jump line="392" column="46" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="19" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/footer.php" />
+      <jump line="151" column="51" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="328" column="16" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="224" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="246" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="268" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="290" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="368" column="31" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2xhc3MiPjwvZGl2Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>newsletter</text>
+        <text>chart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmUoJ25pdmVsJywgJGlkX2J1c2NhKQo=</text>
+        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTggcmVzdWx0cyByZXN1bHQtYW50aW94IiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+b3Jfd2hlcmUoJ25pdmVsJywgMCkK</text>
@@ -339,9 +356,9 @@
       </register>
     </registers>
     <search>
-      <last-search>newsletter</last-search>
+      <last-search>chart</last-search>
       <last-offset />
-      <last-pattern>newsletter</last-pattern>
+      <last-pattern>chart</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -366,6 +383,7 @@
         <entry>Populares</entry>
         <entry>eventos</entry>
         <entry>newsletter</entry>
+        <entry>chart</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -395,7 +413,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
