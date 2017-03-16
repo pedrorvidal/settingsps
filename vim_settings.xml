@@ -164,12 +164,12 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489674167124">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489685684664">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="152" />
-        <mark key="." line="22" column="15" />
-        <mark key="^" line="22" column="123" />
+        <mark key="[" line="87" column="76" />
+        <mark key="]" line="87" column="83" />
+        <mark key="." line="87" column="83" />
+        <mark key="^" line="87" column="83" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1489004748222">
         <mark key="[" line="79" column="19" />
@@ -248,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-includes/functions.php" />
       <jump line="133" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" />
       <jump line="1404" column="20" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
@@ -347,11 +346,12 @@
       <jump line="372" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="224" column="52" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="22" column="151" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">U3VhcyBlc2NvbGhhcyBuYSBob3JhIGRlIHNlIGN1aWRhciBkaXplbSBtdWl0byBzb2JyZSBhIHN1YSBwZXJzb25hbGlkYWRlLiBTZXLDoSBxdWUgRWxpeGlyIGNvbnNlZ3VlIGFkaXZpbmhhciA=</text>
+        <text>stress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">UXVhbCA=</text>
