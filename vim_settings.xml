@@ -121,6 +121,12 @@
         <mark key="]" line="362" column="0" />
         <mark key="." line="362" column="0" />
       </file>
+      <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1489627332728">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
+      </file>
       <file name="$USER_HOME$/html/dm9/backend/application/models/Eventos_model.php" timestamp="1489530643549">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="17" column="36" />
@@ -351,7 +357,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>true</text>
+        <text>10.15.62.12</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
