@@ -46,12 +46,11 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="41" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1488903913534">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="87" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="8" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1489688304920">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="89" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="23" column="59" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1489668167987">
         <mark key="'" line="42" column="0" />
@@ -60,11 +59,12 @@
         <mark key="." line="81" column="30" />
         <mark key="^" line="81" column="30" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1489612413290">
-        <mark key="'" line="31" column="42" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1489688004351">
+        <mark key="'" line="7" column="316" />
+        <mark key="[" line="17" column="269" />
+        <mark key="]" line="17" column="326" />
+        <mark key="." line="17" column="269" />
+        <mark key="^" line="7" column="315" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/partials/contribuicao-content.php" timestamp="1488466951017">
         <mark key="[" line="25" column="0" />
@@ -164,12 +164,12 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489686425764">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489688309857">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="87" column="83" />
+        <mark key="[" line="354" column="71" />
+        <mark key="]" line="354" column="128" />
+        <mark key="." line="354" column="71" />
+        <mark key="^" line="315" column="134" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1489004748222">
         <mark key="[" line="79" column="19" />
@@ -248,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-includes/functions.php" />
       <jump line="133" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/home.php" />
       <jump line="1404" column="20" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="1405" column="40" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
@@ -348,58 +347,58 @@
       <jump line="224" column="52" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="22" column="151" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="7" column="316" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>stress</text>
+        <text>Até o espelho me xaveca!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">UXVhbCA=</text>
+        <text encoding="base64">ZGVwb2lzIGRvcyA=</text>
       </register>
       <register name="0" type="4">
-        <text>”</text>
+        <text>Até o espelho me xaveca, e você? Faça o teste e descubra.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJPCEtLSBFeGVtcGxvIGRlIGFsZXJ0YSAtLT4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgkJPG1ldGEgY2hhcnNldD0iPD9waHAgYmxvZ2luZm8oICdjaGFyc2V0JyApOyA/PiI+CgkJPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIj4KCQk8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgoKCQk8P3BocCBpZiAoaXNfcGFnZSgncXVpeicpKTogPz4KCQkJPD9waHAKCQkJCSRkZXNjcmlwdGlvbnMgPSBhcnJheSgKCQkJCQknYW50aW94JyA9PiAnUXVhbmRvIGV1IHNhaW8sIGFpbmRhIG1lIHBlZGVtIG8gUkchJywKCQkJCQknYmVhdXR5JyA9PiAnQXTDqSBvIGVzcGVsaG8gbWUgeGF2ZWNhIScsCgkJCQkJJ3ZpdGEnICAgPT4gJ01ldSBub21lIMOpIHZpZGEsIHNvYnJlbm9tZSBhdGl0dWRlIScsCgkJCQkJJ3NsaW0nICAgPT4gJ1PDsyB2b3UgcHJvIGPDqXUgc2UgdGl2ZXIgZGV0b3guJwoJCQkJKTsKCgkJCQlpZiAoIGlzc2V0KCRfR0VUWydwcm9kdXRvJ10pICYmIGlzc2V0KCRkZXNjcmlwdGlvbnNbJF9HRVRbJ3Byb2R1dG8nXV0pICkgewoJCQkJCSRwcm9kX2Rlc2NyaXB0aW9uID0gJGRlc2NyaXB0aW9uc1skX0dFVFsncHJvZHV0byddXTsKCQkJCX0gZWxzZSB7CgkJCQkJJHByb2RfZGVzY3JpcHRpb24gPSAnJzsKCQkJCX0KCQkJPz4KCQkJPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cDovL211bmRvdmVyZGUuY29tLmJyL3F1aXovIj4KCQkJPG1ldGEgcHJvcGVydHk9Im9nOnR5cGUiIGNvbnRlbnQ9IndlYnNpdGUiPgoJCQk8bWV0YSBwcm9wZXJ0eT0ib2c6dGl0bGUiIGNvbnRlbnQ9IkZhw6dhIG8gdGVzdGUgZSBkZXNjdWJyYSBxdWVtIMOpIHZvY8OqIGRlcG9pcyBkb3MgMzAuIj4KCQkJPG1ldGEgcHJvcGVydHk9Im9nOmRlc2NyaXB0aW9uIiBjb250ZW50PSI8P3BocCBlY2hvICRwcm9kX2Rlc2NyaXB0aW9uOyA/PiI+CgkJCTxtZXRhIHByb3BlcnR5PSJvZzppbWFnZSIgY29udGVudD0iPD9waHAgZWNobyBlc2NfdXJsKCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpICk7ID8+L2ltYWdlbnMvc2hhcmVfcXVpel92Mi5qcGciPgoJCTw/cGhwIGVsc2U6ID8+CgkJCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9Imh0dHA6Ly9tdW5kb3ZlcmRlLmNvbS5ici8iPgoJCQk8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSI+CgkJCTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iTXVuZG8gVmVyZGUiPgoJCQk8bWV0YSBwcm9wZXJ0eT0ib2c6ZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkEgbWFpb3IgcmVkZSBkZSBsb2phcyBlc3BlY2lhbGl6YWRhcyBlbSBwcm9kdXRvcyBuYXR1cmFpcywgb3Jnw6JuaWNvcyBlIHBhcmEgbyBiZW0tZXN0YXIuIj4KCQkJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJodHRwOi8vbXVuZG92ZXJkZS5jb20uYnIvd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDIvaW1nX3NoYXJlLnBuZyI+CgkJPD9waHAgZW5kaWY7ID8+CgoJCTxtZXRhIHByb3BlcnR5PSJmYjphcHBfaWQiIGNvbnRlbnQ9IjE3NTc5OTAxOTQ1MjA3MzMiPgoJCTxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSc8P3BocCAkbXlFeGNlcnB0ID0gc3RyaXBfdGFncyhnZXRfdGhlX2V4Y2VycHQoKSk7IGVjaG8gJG15RXhjZXJwdDsgPz4nPgoKCQk8bGluayByZWw9InByb2ZpbGUiIGhyZWY9Imh0dHA6Ly9nbXBnLm9yZy94Zm4vMTEiPgoJCTw/cGhwIGlmICggaXNfc2luZ3VsYXIoKSAmJiBwaW5nc19vcGVuKCBnZXRfcXVlcmllZF9vYmplY3QoKSApICkgOiA/PgoJCTxsaW5rIHJlbD0icGluZ2JhY2siIGhyZWY9Ijw/cGhwIGJsb2dpbmZvKCAncGluZ2JhY2tfdXJsJyApOyA/PiI+CgkJPD9waHAgZW5kaWY7ID8+CgkJPCEtLUNPTUVDQS0tPgoJCTw/cGhwIHdwX2hlYWQoKTsgPz4KCQk8IS0tVEVSTUlOQS0tPgoJCTxsaW5rIGhyZWY9Ijw/cGhwIGJsb2dpbmZvKCAndGVtcGxhdGVfdXJsJyApOyA/Pi9jc3MvYm9vdHN0cmFwLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4KCQk8bGluayBocmVmPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vY3NzL3N0eWxlLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4KCQk8IS0tIEhUTUw1IHNoaW0gYW5kIFJlc3BvbmQuanMgZm9yIElFOCBzdXBwb3J0IG9mIEhUTUw1IGVsZW1lbnRzIGFuZCBtZWRpYSBxdWVyaWVzIC0tPgoJCTwhLS0gV0FSTklORzogUmVzcG9uZC5qcyBkb2Vzbid0IHdvcmsgaWYgeW91IHZpZXcgdGhlIHBhZ2UgdmlhIGZpbGU6Ly8gLS0+CgkJPCEtLVtpZiBsdCBJRSA5XT4KCQk8c2NyaXB0IHNyYz0iaHR0cHM6Ly9vc3MubWF4Y2RuLmNvbS9odG1sNXNoaXYvMy43LjIvaHRtbDVzaGl2Lm1pbi5qcyI+PC9zY3JpcHQ+CgkJPHNjcmlwdCBzcmM9Imh0dHBzOi8vb3NzLm1heGNkbi5jb20vcmVzcG9uZC8xLjQuMi9yZXNwb25kLm1pbi5qcyI+PC9zY3JpcHQ+CgkJPCFbZW5kaWZdLS0+CgkJPHNjcmlwdD53aW5kb3cuYWpheHVybCA9ICc8P3BocCBlY2hvIGFkbWluX3VybCgiYWRtaW4tYWpheC5waHAiKTsgPz4nOzwvc2NyaXB0PgoJ</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTggcmVzdWx0cyByZXN1bHQtYmVhdXR5Ij4K</text>
+        <text encoding="base64">CQkJPCEtLSBFeGVtcGxvIGRlIGFsZXJ0YSAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTggcmVzdWx0cyByZXN1bHQtYmVhdXR5Ij4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz5Db21wYXJ0aWxoZSBzZXUgRWxpeGlyOjwvaDM+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJPGRpdiBjbGFzcz0ic2hhcmUiPgoJCQkJPGgzPkNvbXBhcnRpbGhlIHNldSBFbGl4aXI6PC9oMz4KCQkJCTw/cGhwICRzaGFyZV9wcm9kdXRvID0gJ2JlYXV0eSc7ICRzaGFyZV9kZXNjcmlwdGlvbiA9ICdBdMOpIG8gZXNwZWxobyBtZSB4YXZlY2EhJzsgPz4KCQkJCTw/cGhwIGdldF90ZW1wbGF0ZV9wYXJ0KCd0ZW1wbGF0ZS1wYXJ0cy9zaGFyZS1xdWl6Jyk7ID8+CgkJCTwvZGl2Pgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTggcmVzdWx0cyByZXN1bHQtdml0YSI+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz5Db21wYXJ0aWxoZSBzZXUgRWxpeGlyOjwvaDM+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJPGRpdiBjbGFzcz0ic2hhcmUiPgoJCQkJPGgzPkNvbXBhcnRpbGhlIHNldSBFbGl4aXI6PC9oMz4KCQkJCTw/cGhwICRzaGFyZV9wcm9kdXRvID0gJ2JlYXV0eSc7ICRzaGFyZV9kZXNjcmlwdGlvbiA9ICdBdMOpIG8gZXNwZWxobyBtZSB4YXZlY2EhJzsgPz4KCQkJCTw/cGhwIGdldF90ZW1wbGF0ZV9wYXJ0KCd0ZW1wbGF0ZS1wYXJ0cy9zaGFyZS1xdWl6Jyk7ID8+CgkJCTwvZGl2Pgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTggcmVzdWx0cyByZXN1bHQtdml0YSI+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz48L2gzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">UXVhbCA=</last-search>
+      <last-search encoding="base64">ZGVwb2lzIGRvcyA=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">UXVhbCA=</last-pattern>
+      <last-pattern encoding="base64">ZGVwb2lzIGRvcyA=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>asdf</entry>
         <entry>console.log</entry>
         <entry>og:description</entry>
         <entry>Downloads</entry>
@@ -419,6 +418,7 @@
         <entry>antiox</entry>
         <entry>quiz .results p strong</entry>
         <entry encoding="base64">UXVhbCA=</entry>
+        <entry encoding="base64">ZGVwb2lzIGRvcyA=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
