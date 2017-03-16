@@ -157,11 +157,12 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489664986297">
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="." line="342" column="0" />
-        <mark key="^" line="369" column="11" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489666301908">
+        <mark key="'" line="32" column="59" />
+        <mark key="[" line="428" column="21" />
+        <mark key="]" line="428" column="26" />
+        <mark key="." line="428" column="26" />
+        <mark key="^" line="428" column="26" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1489004748222">
         <mark key="[" line="79" column="19" />
@@ -240,8 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="48" filename="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" />
-      <jump line="76" column="60" filename="$USER_HOME$/html/quizz/wp-config.php" />
       <jump line="23" column="74" filename="$USER_HOME$/html/filmmelier/html/views/filmes/filmes.html" />
       <jump line="17" column="2" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="474" column="20" filename="/tmp/fz3temp-1/functions.php" />
@@ -340,16 +339,18 @@
       <jump line="375" column="25" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="382" column="33" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="26" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
+      <jump line="442" column="29" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="32" column="59" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Clique aqui para saber mais.</text>
+        <text>('.fundo-produtos-quiz-wrapper')</text>
       </register>
       <register name="/" type="4">
-        <text>template</text>
+        <text>asd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icG9udGlsaGFkbyI+PC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJxdWl6LXRvZG9zLXByb2R1dG9zIj4KICAgICAgICAgICAgICAgIDxoMj5NYXMgYSBnZW50ZSBzYWJlIHF1ZSBzdWEgYmVsZXphIMOpIG11aXRvIG1haXMgcXVlIHVtIHRlc3RlIGRlIGludGVybmV0LjwvaDI+CiAgICAgICAgICAgICAgICA8cD5Qb3IgaXNzbyA8YSBocmVmPSI8P3BocCBlY2hvIHNpdGVfdXJsKCcvZWxpeGlyJyk7ID8+Ij5jbGlxdWUgYXF1aTwvYT4gZSBkw6ogdW1hIG9saGFkYSB0YW1iw6ltIG5hcyBvdXRyYXMgbGluaGFzIEVsaXhpciBwcmEgc2UgY3VpZGFyIGRlIGRlbnRybyBwcmEgZm9yYS48L3A+CiAgICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJ0b2Rvcy1wcm9kdXRvcyIgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L3RvZG9zLXByb2R1dG9zLnBuZyI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbGVhcmZpeCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">CQkJCQkkcmVzdWx0cy5oaWRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTggcmVzdWx0cyByZXN1bHQtYmVhdXR5Ij4K</text>
@@ -383,16 +384,14 @@
       </register>
     </registers>
     <search>
-      <last-search>template</last-search>
+      <last-search>asd</last-search>
       <last-offset />
-      <last-pattern>template</last-pattern>
+      <last-pattern>asd</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lotacao</entry>
-        <entry>autoria</entry>
         <entry>setTimeout</entry>
         <entry>====</entry>
         <entry>Updated</entry>
@@ -411,6 +410,8 @@
         <entry>quiz .results p</entry>
         <entry>padding</entry>
         <entry>template</entry>
+        <entry>fundo_results</entry>
+        <entry>asd</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
