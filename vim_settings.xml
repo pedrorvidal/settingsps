@@ -28,7 +28,7 @@
         <mark key="." line="90" column="14" />
         <mark key="^" line="90" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1489602642943">
+      <file name="/a.dummy" timestamp="1489692654236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -46,11 +46,11 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="41" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1489690818759">
-        <mark key="[" line="35" column="109" />
-        <mark key="]" line="35" column="109" />
-        <mark key="." line="35" column="109" />
-        <mark key="^" line="35" column="109" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1489692681152">
+        <mark key="[" line="39" column="121" />
+        <mark key="]" line="39" column="123" />
+        <mark key="." line="39" column="123" />
+        <mark key="^" line="39" column="123" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1489668167987">
         <mark key="'" line="42" column="0" />
@@ -59,8 +59,8 @@
         <mark key="." line="81" column="30" />
         <mark key="^" line="81" column="30" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1489689319786">
-        <mark key="'" line="17" column="269" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1489692622059">
+        <mark key="'" line="27" column="237" />
         <mark key="[" line="1" column="45" />
         <mark key="]" line="1" column="72" />
         <mark key="." line="1" column="72" />
@@ -248,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1405" column="40" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="385" column="21" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="367" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="40" column="8" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" />
@@ -348,13 +347,14 @@
       <jump line="7" column="316" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
       <jump line="17" column="269" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
       <jump line="349" column="36" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
+      <jump line="27" column="237" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>get_bloginfo('url').'/quiz/?'</text>
+        <text>v2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ZGVwb2lzIGRvcyA=</text>
+        <text>share_quiz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cDovL211bmRvdmVyZGUuY29tLmJyL3F1aXovIj4K</text>
@@ -391,15 +391,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ZGVwb2lzIGRvcyA=</last-search>
+      <last-search>share_quiz</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ZGVwb2lzIGRvcyA=</last-pattern>
+      <last-pattern>share_quiz</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
         <entry>og:description</entry>
         <entry>Downloads</entry>
         <entry>Populares</entry>
@@ -419,6 +418,7 @@
         <entry>quiz .results p strong</entry>
         <entry encoding="base64">UXVhbCA=</entry>
         <entry encoding="base64">ZGVwb2lzIGRvcyA=</entry>
+        <entry>share_quiz</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
