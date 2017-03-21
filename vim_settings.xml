@@ -88,13 +88,6 @@
         <mark key="]" line="31" column="348" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/server.js" timestamp="1489781732166">
-        <mark key="'" line="277" column="0" />
-        <mark key="[" line="276" column="19" />
-        <mark key="]" line="276" column="19" />
-        <mark key="^" line="276" column="19" />
-        <mark key="." line="276" column="19" />
-      </file>
       <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488510634335">
         <mark key="'" line="85" column="25" />
         <mark key="[" line="97" column="0" />
@@ -410,7 +403,7 @@
       <last-offset />
       <last-pattern>mural\/mentorado</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
