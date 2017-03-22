@@ -72,6 +72,11 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="26" column="26" />
       </file>
+      <file name="/var/www/html/museudaimigracao/application/views/site/home.php" timestamp="1490216700593">
+        <mark key="[" line="1" column="74" />
+        <mark key="]" line="1" column="74" />
+        <mark key="." line="1" column="74" />
+      </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/footer.php" timestamp="1489602903491">
         <mark key="'" line="19" column="28" />
       </file>
@@ -81,6 +86,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="63" column="16" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="/var/www/html/museudaimigracao/application/views/site/conteudo.php" timestamp="1490216847892">
+        <mark key="[" line="2" column="791" />
+        <mark key="]" line="2" column="791" />
+        <mark key="." line="2" column="791" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/views/filmes/filmes.html" timestamp="1487868635003">
         <mark key="'" line="23" column="74" />
@@ -365,40 +376,41 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>lg</text>
+        <text encoding="base64">PGEgaHJlZj0ibWFpbHRvOiI+PC9hPg==</text>
       </register>
       <register name="/" type="4">
         <text>mural\/mentorado</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCTxhIGhyZWY9Ii9maWxtZS97e2ZpbG1lLnBlcm1hbGlua319IiBjbGFzcz0iYnRuLWFzc2lzdGEgcHVsbC1yaWdodCI+QXNzaXN0YTwvYT4K</text>
+      <register name="0" type="4">
+        <text>midiasimigrantes@gmail.com</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPGRpdiBjbGFzcz0iY2xlYXJmaXggdmlzaWJsZS14cyI+PC9kaXY+LS0+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2ZpbG1lL3t7ZmlsbWUucGVybWFsaW5rfX0iIGNsYXNzPSJidG4tYXNzaXN0YSBwdWxsLWxlZnQgdmlzaWJsZS14cyI+QXNzaXN0YTwvYT4K</text>
+      <register name="1" type="4">
+        <text>Plataforma &quot;Mídias de Migrantes de São Paulo&quot; visa a reunir e disponibilizar um acervo digital de mídias produzidas por migrantes no estado de São Paulo. No acervo, dentre outros dados de cadastro, estão inseridos os endereços (links) de acesso para as mídias e/ou disponibilizados arquivos digitais com uma imagem de referência de cada mídia, capturada na data de registro dessa mídia na Plataforma.
+A equipe da Plataforma buscou autorização e atribuição de autoria de toda e qualquer inclusão de conteúdo em seu acervo online. Entretanto, por se tratar de conteúdo diverso, cujos créditos nem sempre são identificáveis, solicitamos o contato dos respectivos detentores dos direitos das mídias aqui inclusas, por meio do e-mail midiasimigrantes@gmail.com, para que nossa equipe faça a regularização da disponibilização das mídias na Plataforma, por meio da obtenção de autorização junto aos titulares de direito, e/ou inclusão dos respectivos créditos referentes às pessoas e instituições produtoras e/ou responsáveis pelos conteúdos.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJ3RyZXN0ZWprakE7Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPGRpdiBjbGFzcz0iY2xlYXJmaXggdmlzaWJsZS14cyI+PC9kaXY+LS0+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2ZpbG1lL3t7ZmlsbWUucGVybWFsaW5rfX0iIGNsYXNzPSJidG4tYXNzaXN0YSBwdWxsLWxlZnQgdmlzaWJsZS14cyI+QXNzaXN0YTwvYT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iPD9waHAgZWNobyBob21lX3VybCgnL3F1aXovJyk7ID8+Ij4K</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJ3RyZXN0ZWprakE7Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iPD9waHAgZWNobyBob21lX3VybCgnL3F1aXovJyk7ID8+Ij4K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cDovL211bmRvdmVyZGUuY29tLmJyL3F1aXovIj4K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgkJPG1ldGEgY2hhcnNldD0iPD9waHAgYmxvZ2luZm8oICdjaGFyc2V0JyApOyA/PiI+CgkJPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIj4KCQk8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgoKCQk8P3BocCBpZiAoaXNfcGFnZSgncXVpeicpKTogPz4KCQkJPD9waHAKCQkJCSRkZXNjcmlwdGlvbnMgPSBhcnJheSgKCQkJCQknYW50aW94JyA9PiAnUXVhbmRvIGV1IHNhaW8sIGFpbmRhIG1lIHBlZGVtIG8gUkchJywKCQkJCQknYmVhdXR5JyA9PiAnQXTDqSBvIGVzcGVsaG8gbWUgeGF2ZWNhIScsCgkJCQkJJ3ZpdGEnICAgPT4gJ01ldSBub21lIMOpIHZpZGEsIHNvYnJlbm9tZSBhdGl0dWRlIScsCgkJCQkJJ3NsaW0nICAgPT4gJ1PDsyB2b3UgcHJvIGPDqXUgc2UgdGl2ZXIgZGV0b3guJwoJCQkJKTsKCgkJCQlpZiAoIGlzc2V0KCRfR0VUWydwcm9kdXRvJ10pICYmIGlzc2V0KCRkZXNjcmlwdGlvbnNbJF9HRVRbJ3Byb2R1dG8nXV0pICkgewoJCQkJCSRwcm9kX2Rlc2NyaXB0aW9uID0gJGRlc2NyaXB0aW9uc1skX0dFVFsncHJvZHV0byddXTsKCQkJCX0gZWxzZSB7CgkJCQkJJHByb2RfZGVzY3JpcHRpb24gPSAnJzsKCQkJCX0KCQkJPz4KCQkJPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cDovL211bmRvdmVyZGUuY29tLmJyL3F1aXovIj4KCQkJPG1ldGEgcHJvcGVydHk9Im9nOnR5cGUiIGNvbnRlbnQ9IndlYnNpdGUiPgoJCQk8bWV0YSBwcm9wZXJ0eT0ib2c6dGl0bGUiIGNvbnRlbnQ9IkZhw6dhIG8gdGVzdGUgZSBkZXNjdWJyYSBxdWVtIMOpIHZvY8OqIGRlcG9pcyBkb3MgMzAuIj4KCQkJPG1ldGEgcHJvcGVydHk9Im9nOmRlc2NyaXB0aW9uIiBjb250ZW50PSI8P3BocCBlY2hvICRwcm9kX2Rlc2NyaXB0aW9uOyA/PiI+CgkJCTxtZXRhIHByb3BlcnR5PSJvZzppbWFnZSIgY29udGVudD0iPD9waHAgZWNobyBlc2NfdXJsKCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpICk7ID8+L2ltYWdlbnMvc2hhcmVfcXVpel92Mi5qcGciPgoJCTw/cGhwIGVsc2U6ID8+CgkJCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9Imh0dHA6Ly9tdW5kb3ZlcmRlLmNvbS5ici8iPgoJCQk8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSI+CgkJCTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iTXVuZG8gVmVyZGUiPgoJCQk8bWV0YSBwcm9wZXJ0eT0ib2c6ZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkEgbWFpb3IgcmVkZSBkZSBsb2phcyBlc3BlY2lhbGl6YWRhcyBlbSBwcm9kdXRvcyBuYXR1cmFpcywgb3Jnw6JuaWNvcyBlIHBhcmEgbyBiZW0tZXN0YXIuIj4KCQkJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJodHRwOi8vbXVuZG92ZXJkZS5jb20uYnIvd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDIvaW1nX3NoYXJlLnBuZyI+CgkJPD9waHAgZW5kaWY7ID8+CgoJCTxtZXRhIHByb3BlcnR5PSJmYjphcHBfaWQiIGNvbnRlbnQ9IjE3NTc5OTAxOTQ1MjA3MzMiPgoJCTxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSc8P3BocCAkbXlFeGNlcnB0ID0gc3RyaXBfdGFncyhnZXRfdGhlX2V4Y2VycHQoKSk7IGVjaG8gJG15RXhjZXJwdDsgPz4nPgoKCQk8bGluayByZWw9InByb2ZpbGUiIGhyZWY9Imh0dHA6Ly9nbXBnLm9yZy94Zm4vMTEiPgoJCTw/cGhwIGlmICggaXNfc2luZ3VsYXIoKSAmJiBwaW5nc19vcGVuKCBnZXRfcXVlcmllZF9vYmplY3QoKSApICkgOiA/PgoJCTxsaW5rIHJlbD0icGluZ2JhY2siIGhyZWY9Ijw/cGhwIGJsb2dpbmZvKCAncGluZ2JhY2tfdXJsJyApOyA/PiI+CgkJPD9waHAgZW5kaWY7ID8+CgkJPCEtLUNPTUVDQS0tPgoJCTw/cGhwIHdwX2hlYWQoKTsgPz4KCQk8IS0tVEVSTUlOQS0tPgoJCTxsaW5rIGhyZWY9Ijw/cGhwIGJsb2dpbmZvKCAndGVtcGxhdGVfdXJsJyApOyA/Pi9jc3MvYm9vdHN0cmFwLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4KCQk8bGluayBocmVmPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vY3NzL3N0eWxlLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4KCQk8IS0tIEhUTUw1IHNoaW0gYW5kIFJlc3BvbmQuanMgZm9yIElFOCBzdXBwb3J0IG9mIEhUTUw1IGVsZW1lbnRzIGFuZCBtZWRpYSBxdWVyaWVzIC0tPgoJCTwhLS0gV0FSTklORzogUmVzcG9uZC5qcyBkb2Vzbid0IHdvcmsgaWYgeW91IHZpZXcgdGhlIHBhZ2UgdmlhIGZpbGU6Ly8gLS0+CgkJPCEtLVtpZiBsdCBJRSA5XT4KCQk8c2NyaXB0IHNyYz0iaHR0cHM6Ly9vc3MubWF4Y2RuLmNvbS9odG1sNXNoaXYvMy43LjIvaHRtbDVzaGl2Lm1pbi5qcyI+PC9zY3JpcHQ+CgkJPHNjcmlwdCBzcmM9Imh0dHBzOi8vb3NzLm1heGNkbi5jb20vcmVzcG9uZC8xLjQuMi9yZXNwb25kLm1pbi5qcyI+PC9zY3JpcHQ+CgkJPCFbZW5kaWZdLS0+CgkJPHNjcmlwdD53aW5kb3cuYWpheHVybCA9ICc8P3BocCBlY2hvIGFkbWluX3VybCgiYWRtaW4tYWpheC5waHAiKTsgPz4nOzwvc2NyaXB0PgoJ</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJPCEtLSBFeGVtcGxvIGRlIGFsZXJ0YSAtLT4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTggcmVzdWx0cyByZXN1bHQtYmVhdXR5Ij4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
