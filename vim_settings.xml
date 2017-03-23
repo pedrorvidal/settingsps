@@ -275,11 +275,12 @@
         <mark key="." line="134" column="19" />
         <mark key="^" line="134" column="19" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" timestamp="1490287738479">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" timestamp="1490289020293">
         <mark key="'" line="364" column="39" />
-        <mark key="[" line="196" column="58" />
-        <mark key="]" line="196" column="58" />
-        <mark key="." line="196" column="58" />
+        <mark key="[" line="226" column="62" />
+        <mark key="]" line="226" column="251" />
+        <mark key="." line="226" column="251" />
+        <mark key="^" line="226" column="251" />
       </file>
     </filemarks>
     <jumps>
@@ -386,7 +387,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>quiz</text>
+        <text>Sua frase favorita é “ou soma, ou some” e, por isso, você vive atrás de todos os tipos de antioxidantes, seja pro corpo, pra alma ou pra vida. Tira da frente o que não presta e viva la vida!</text>
       </register>
       <register name="/" type="4">
         <text>quiz.css</text>
