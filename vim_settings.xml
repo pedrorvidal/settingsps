@@ -60,7 +60,7 @@
         <mark key="." line="81" column="30" />
         <mark key="^" line="81" column="30" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1490293578821">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1490295458064">
         <mark key="'" line="7" column="172" />
         <mark key="[" line="7" column="316" />
         <mark key="]" line="7" column="350" />
@@ -232,8 +232,8 @@
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/elixir.php" timestamp="1489602742330">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1490287795306">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1490295786879">
+        <mark key="'" line="1550" column="26" />
         <mark key="[" line="1404" column="54" />
         <mark key="]" line="1404" column="58" />
         <mark key="^" line="1404" column="58" />
@@ -275,29 +275,15 @@
         <mark key="." line="216" column="16" />
         <mark key="^" line="216" column="16" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" timestamp="1490294116152">
-        <mark key="'" line="244" column="50" />
-        <mark key="[" line="284" column="183" />
-        <mark key="]" line="284" column="315" />
-        <mark key="." line="284" column="315" />
-        <mark key="^" line="284" column="315" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" timestamp="1490295621565">
+        <mark key="'" line="79" column="68" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="21" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="237" column="5" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="129" column="1" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="234" column="19" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="132" column="1" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="130" column="20" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="6" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="44" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="108" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="121" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="137" column="4" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="213" column="37" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="211" column="20" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="31" column="42" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
       <jump line="257" column="25" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="375" column="25" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="382" column="33" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
@@ -371,9 +357,7 @@
       <jump line="364" column="39" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="33" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="1530" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="370" column="15" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="79" column="68" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="222" column="60" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="324" column="39" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="243" column="48" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
@@ -382,15 +366,31 @@
       <jump line="357" column="50" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="5" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="259" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
+      <jump line="244" column="40" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
+      <jump line="140" column="49" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="244" column="50" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
+      <jump line="21" column="47" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
+      <jump line="79" column="68" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1403" column="13" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1405" column="67" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1409" column="39" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1412" column="17" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1508" column="23" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1518" column="52" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1519" column="45" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1525" column="115" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1527" column="26" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1535" column="55" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1536" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1550" column="26" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>Só vou pro céu se tiver detox, e você? Faça o teste e descubra quem é você na frente do espelho!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">c2hhcmVfZGVzY3JpcHRpb24g</text>
+        <text>quiz</text>
       </register>
       <register name="0" type="4">
         <text>Se seu espelho falasse... o que ele diria? O meu diria “Você quebra tudo, gata!” Faça o teste e #descubraseuElixir mundoverde.com.br/teste</text>
@@ -427,15 +427,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">c2hhcmVfZGVzY3JpcHRpb24g</last-search>
+      <last-search>quiz</last-search>
       <last-offset />
-      <last-pattern encoding="base64">c2hhcmVfZGVzY3JpcHRpb24g</last-pattern>
+      <last-pattern>quiz</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
         <entry>fundo_results</entry>
         <entry>asd</entry>
         <entry>clique aqui</entry>
@@ -448,13 +447,14 @@
         <entry>mural</entry>
         <entry>mural\/mentorado</entry>
         <entry>show</entry>
-        <entry>quiz</entry>
         <entry>options</entry>
         <entry>quiz.css</entry>
         <entry>porra</entry>
-        <entry>antiox</entry>
         <entry>share_description</entry>
         <entry encoding="base64">c2hhcmVfZGVzY3JpcHRpb24g</entry>
+        <entry>se o espelho</entry>
+        <entry>antiox</entry>
+        <entry>quiz</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
