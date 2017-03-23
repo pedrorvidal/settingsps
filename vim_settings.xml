@@ -60,12 +60,12 @@
         <mark key="." line="81" column="30" />
         <mark key="^" line="81" column="30" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1490295458064">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1490296784015">
         <mark key="'" line="7" column="172" />
-        <mark key="[" line="7" column="316" />
-        <mark key="]" line="7" column="350" />
-        <mark key="." line="7" column="316" />
-        <mark key="^" line="17" column="220" />
+        <mark key="[" line="27" column="276" />
+        <mark key="]" line="27" column="286" />
+        <mark key="." line="27" column="286" />
+        <mark key="^" line="27" column="286" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/partials/contribuicao-content.php" timestamp="1488466951017">
         <mark key="[" line="25" column="0" />
@@ -387,7 +387,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Só vou pro céu se tiver detox, e você? Faça o teste e descubra quem é você na frente do espelho!</text>
+        <text>produto</text>
       </register>
       <register name="/" type="4">
         <text>quiz</text>
