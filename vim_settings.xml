@@ -174,12 +174,12 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1489689484895">
-        <mark key="'" line="349" column="36" />
-        <mark key="[" line="354" column="252" />
-        <mark key="]" line="354" column="253" />
-        <mark key="." line="354" column="253" />
-        <mark key="^" line="354" column="253" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1490277723100">
+        <mark key="'" line="193" column="51" />
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1489004748222">
         <mark key="[" line="79" column="19" />
@@ -273,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="9" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="2" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="16" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="394" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
@@ -373,10 +372,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
       <jump line="20" column="25" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
       <jump line="277" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
+      <jump line="193" column="51" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">PGEgaHJlZj0ibWFpbHRvOiI+PC9hPg==</text>
+        <text>Quiz</text>
       </register>
       <register name="/" type="4">
         <text>mural\/mentorado</text>
