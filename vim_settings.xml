@@ -113,8 +113,8 @@
         <mark key="^" line="833" column="0" />
         <mark key="." line="833" column="0" />
       </file>
-      <file name="/tmp/fz3temp-1/functions.php" timestamp="1487879396160">
-        <mark key="'" line="483" column="37" />
+      <file name="/tmp/fz3temp-1/functions.php" timestamp="1490623053478">
+        <mark key="'" line="341" column="16" />
         <mark key="[" line="1017" column="5" />
         <mark key="]" line="1018" column="3" />
         <mark key="^" line="1018" column="3" />
@@ -232,10 +232,10 @@
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/elixir.php" timestamp="1489602742330">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1490295786879">
-        <mark key="'" line="1550" column="26" />
-        <mark key="[" line="1404" column="54" />
-        <mark key="]" line="1404" column="58" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1490623131301">
+        <mark key="'" line="1544" column="0" />
+        <mark key="[" line="1402" column="0" />
+        <mark key="]" line="1409" column="54" />
         <mark key="^" line="1404" column="58" />
         <mark key="." line="1404" column="58" />
       </file>
@@ -270,37 +270,12 @@
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" timestamp="1490290215933">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="216" column="16" />
-        <mark key="]" line="216" column="16" />
-        <mark key="." line="216" column="16" />
-        <mark key="^" line="216" column="16" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" timestamp="1490304900232">
         <mark key="'" line="79" column="68" />
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="343" column="18" />
-        <mark key="^" line="338" column="32" />
-        <mark key="." line="341" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/html/mundoverde/wp-config.php" />
-      <jump line="381" column="37" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="47" column="68" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="380" column="17" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="357" column="17" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="332" column="39" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="348" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="31" column="57" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="345" column="60" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="79" column="68" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="225" column="44" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="372" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="224" column="52" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="22" column="151" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
-      <jump line="349" column="36" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" />
       <jump line="27" column="237" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
       <jump line="97" column="0" filename="$USER_HOME$/html/dm9/backend/application/controllers/Post.php" />
       <jump line="360" column="27" filename="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" />
@@ -384,16 +359,33 @@
       <jump line="72" column="35" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="79" column="68" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="17" column="310" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
+      <jump line="1421" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="8" column="0" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="1543" column="19" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1549" column="16" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="300" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="303" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="306" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="309" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="313" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="317" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="321" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="324" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="327" column="11" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="331" column="11" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="334" column="7" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="341" column="16" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="1544" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>col-md-6</text>
       </register>
       <register name="/" type="4">
-        <text>antiox</text>
+        <text>add_quiz_scripts</text>
       </register>
-      <register name="0" type="4">
-        <text>col-xs-12</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gUXVpegpmdW5jdGlvbiBhZGRfcXVpel9zY3JpcHRzKCkgewogIGlmICggaXNfcGFnZV90ZW1wbGF0ZSgncGFnZS10ZXN0ZS5waHAnKSB8fCBpc19wYWdlKCd0ZXN0ZScpICkgewogICAgd3BfZW5xdWV1ZV9zdHlsZSggJ3F1aXonLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9jc3MvcXVpei5jc3MnICk7CiAgICB3cF9lbnF1ZXVlX3NjcmlwdCggJ2dvb2dsZS1jaGFydCcsICdodHRwczovL3d3dy5nc3RhdGljLmNvbS9jaGFydHMvbG9hZGVyLmpzJyk7CiAgfQp9CmFkZF9hY3Rpb24oICd3cF9lbnF1ZXVlX3NjcmlwdHMnLCAnYWRkX3F1aXpfc2NyaXB0cycgKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2JlYXV0eS5wbmciPgogICAgICAgICAgICA8L2Rpdj4K</text>
@@ -427,16 +419,14 @@
       </register>
     </registers>
     <search>
-      <last-search>antiox</last-search>
+      <last-search>add_quiz_scripts</last-search>
       <last-offset />
-      <last-pattern>antiox</last-pattern>
+      <last-pattern>add_quiz_scripts</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>submit</entry>
-        <entry>quiz .results p strong</entry>
         <entry encoding="base64">UXVhbCA=</entry>
         <entry encoding="base64">ZGVwb2lzIGRvcyA=</entry>
         <entry>share_quiz</entry>
@@ -455,6 +445,8 @@
         <entry>Faça o teste</entry>
         <entry>col-md-6</entry>
         <entry>antiox</entry>
+        <entry>enqueue</entry>
+        <entry>add_quiz_scripts</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
