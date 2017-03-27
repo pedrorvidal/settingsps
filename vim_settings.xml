@@ -113,12 +113,12 @@
         <mark key="^" line="833" column="0" />
         <mark key="." line="833" column="0" />
       </file>
-      <file name="/tmp/fz3temp-1/functions.php" timestamp="1490623053478">
+      <file name="/tmp/fz3temp-1/functions.php" timestamp="1490624049585">
         <mark key="'" line="341" column="16" />
-        <mark key="[" line="1017" column="5" />
-        <mark key="]" line="1018" column="3" />
+        <mark key="[" line="1402" column="0" />
+        <mark key="]" line="1409" column="55" />
         <mark key="^" line="1018" column="3" />
-        <mark key="." line="1018" column="3" />
+        <mark key="." line="1402" column="0" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" timestamp="1489761308147">
         <mark key="'" line="0" column="0" />
@@ -232,8 +232,8 @@
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/elixir.php" timestamp="1489602742330">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1490623131301">
-        <mark key="'" line="1544" column="0" />
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" timestamp="1490624040337">
+        <mark key="'" line="1402" column="5" />
         <mark key="[" line="1402" column="0" />
         <mark key="]" line="1409" column="54" />
         <mark key="^" line="1404" column="58" />
@@ -276,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="237" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
       <jump line="97" column="0" filename="$USER_HOME$/html/dm9/backend/application/controllers/Post.php" />
       <jump line="360" column="27" filename="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" />
       <jump line="85" column="8" filename="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" />
@@ -376,58 +375,58 @@
       <jump line="334" column="7" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="341" column="16" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="1544" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
+      <jump line="1402" column="5" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>col-md-6</text>
       </register>
       <register name="/" type="4">
-        <text>add_quiz_scripts</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gUXVpegpmdW5jdGlvbiBhZGRfcXVpel9zY3JpcHRzKCkgewogIGlmICggaXNfcGFnZV90ZW1wbGF0ZSgncGFnZS10ZXN0ZS5waHAnKSB8fCBpc19wYWdlKCd0ZXN0ZScpICkgewogICAgd3BfZW5xdWV1ZV9zdHlsZSggJ3F1aXonLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9jc3MvcXVpei5jc3MnICk7CiAgICB3cF9lbnF1ZXVlX3NjcmlwdCggJ2dvb2dsZS1jaGFydCcsICdodHRwczovL3d3dy5nc3RhdGljLmNvbS9jaGFydHMvbG9hZGVyLmpzJyk7CiAgfQp9CmFkZF9hY3Rpb24oICd3cF9lbnF1ZXVlX3NjcmlwdHMnLCAnYWRkX3F1aXpfc2NyaXB0cycgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2JlYXV0eS5wbmciPgogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Ly8gUXVpegpmdW5jdGlvbiBhZGRfcXVpel9zY3JpcHRzKCkgewogIGlmICggaXNfcGFnZV90ZW1wbGF0ZSgncGFnZS1xdWl6LnBocCcpIHx8IGlzX3BhZ2UoJ3F1aXonKSApIHsKICAgIHdwX2VucXVldWVfc3R5bGUoICdxdWl6JywgZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKSAuICcvY3NzL3F1aXouY3NzJyApOwogICAgd3BfZW5xdWV1ZV9zY3JpcHQoICdnb29nbGUtY2hhcnQnLCAnaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vY2hhcnRzL2xvYWRlci5qcycpOwogIH0KfQphZGRfYWN0aW9uKCAnd3BfZW5xdWV1ZV9zY3JpcHRzJywgJ2FkZF9xdWl6X3NjcmlwdHMnICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2JlYXV0eS5wbmciPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2JlYXV0eS5wbmciPgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2xvZ28tZWxpeGlyLnBuZyI+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2JlYXV0eS5wbmciPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2xvZ28tZWxpeGlyLnBuZyI+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L3NsaW0ucG5nIj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L3NsaW0ucG5nIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L3NsaW0ucG5nIj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2FudGlveC5wbmciPgogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L3NsaW0ucG5nIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGgzIGNsYXNzPSJ0ZXh0by1saW5oYSI+RSBhIGxpbmhhIHF1ZSBtZWxob3IgY3VpZGEgZGEgc3VhIGJlbGV6YSDDqTo8L2gzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBibG9naW5mbyggJ3RlbXBsYXRlX3VybCcgKTsgPz4vaW1hZ2Vucy9xdWl6L2FudGlveC5wbmciPgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>add_quiz_scripts</last-search>
+      <last-search>r</last-search>
       <last-offset />
-      <last-pattern>add_quiz_scripts</last-pattern>
+      <last-pattern>r</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">UXVhbCA=</entry>
         <entry encoding="base64">ZGVwb2lzIGRvcyA=</entry>
         <entry>share_quiz</entry>
         <entry>muralMentorado</entry>
@@ -447,9 +446,11 @@
         <entry>antiox</entry>
         <entry>enqueue</entry>
         <entry>add_quiz_scripts</entry>
+        <entry>r</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
