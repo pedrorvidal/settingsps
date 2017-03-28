@@ -20,4 +20,14 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="opening php tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rphp" value="?&gt; $END &lt;?php" description="reverse php opening tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
