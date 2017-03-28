@@ -161,12 +161,11 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1490647556806">
+      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1490713768528">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="120" column="35" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1490287512044">
         <mark key="'" line="57" column="53" />
@@ -256,7 +255,7 @@
         <mark key="." line="203" column="44" />
         <mark key="^" line="204" column="54" />
       </file>
-      <file name="/tmp/fz3temp-1/wp-config.php" timestamp="1490639626671">
+      <file name="/tmp/fz3temp-1/wp-config.php" timestamp="1490714317096">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="35" />
       </file>
@@ -398,34 +397,34 @@
         <text>quiz</text>
       </register>
       <register name="0" type="4">
-        <text>rel_canonical_with_custom_tag_override</text>
+        <text>MV1133mv2244#</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpbmsgcmVsPSJjYW5vbmljYWwiIGhyZWY9Imh0dHA6Ly93d3cubXVuZG92ZXJkZS5jb20uYnIvdGVzdGUvP3Byb2R1dG89PD9waHAgZWNobyAkcHJvZHV0b19zbHVnOyA/PiIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZSBzZSBldSBlc2NyZXZlciB1bSB0ZXh0byBhcXVpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpbmsgcmVsPSJjYW5vbmljYWwiIGhyZWY9Imh0dHA6Ly93d3cubXVuZG92ZXJkZS5jb20uYnIvdGVzdGUvP3Byb2R1dG89PD9waHAgZWNobyAkcHJvZHV0b19zbHVnOyA/PiIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gcmVtb3ZlIHRoZSBkZWZhdWx0IFdvcmRQcmVzcyBjYW5vbmljYWwgVVJMIGZ1bmN0aW9uCmZ1bmN0aW9uIHJlbF9jYW5vbmljYWxfd2l0aF9jdXN0b21fdGFnX292ZXJyaWRlKCkgewogICAgaWYgKCBpc19wYWdlX3RlbXBsYXRlKCdwYWdlLXRlc3RlLnBocCcpIHx8IGlzX3BhZ2UoJ3Rlc3RlJykgKSB7CiAgICAgICAgaWYgKGZ1bmN0aW9uX2V4aXN0cygncmVsX2Nhbm9uaWNhbCcpKSB7CiAgICAgICAgICAgIHJlbW92ZV9hY3Rpb24oJ3dwX2hlYWQnLCAncmVsX2Nhbm9uaWNhbCcpOwogICAgICAgIH0KICAgICAgICBhZGRfZmlsdGVyKCAnd3BzZW9fY2Fub25pY2FsJywgJ19fcmV0dXJuX2ZhbHNlJyApOwogICAgfQp9Ci8vIHJlcGxhY2UgdGhlIGRlZmF1bHQgV29yZFByZXNzIGNhbm9uaWNhbCBVUkwgZnVuY3Rpb24gd2l0aCB5b3VyIG93bgphZGRfYWN0aW9uKCAnd3BfaGVhZCcsICdyZWxfY2Fub25pY2FsX3dpdGhfY3VzdG9tX3RhZ19vdmVycmlkZScgKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICggaXNfcGFnZV90ZW1wbGF0ZSgncGFnZS10ZXN0ZS5waHAnKSB8fCBpc19wYWdlKCd0ZXN0ZScpICkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gcmVtb3ZlIHRoZSBkZWZhdWx0IFdvcmRQcmVzcyBjYW5vbmljYWwgVVJMIGZ1bmN0aW9uCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gcmVtb3ZlIHRoZSBkZWZhdWx0IFdvcmRQcmVzcyBjYW5vbmljYWwgVVJMIGZ1bmN0aW9uCmZ1bmN0aW9uIHJlbF9jYW5vbmljYWxfd2l0aF9jdXN0b21fdGFnX292ZXJyaWRlKCkgewogICAgaWYgKCBpc19wYWdlX3RlbXBsYXRlKCdwYWdlLXRlc3RlLnBocCcpIHx8IGlzX3BhZ2UoJ3Rlc3RlJykgKSB7CiAgICAgICAgaWYgKGZ1bmN0aW9uX2V4aXN0cygncmVsX2Nhbm9uaWNhbCcpKSB7CiAgICAgICAgICAgIHJlbW92ZV9hY3Rpb24oJ3dwX2hlYWQnLCAncmVsX2Nhbm9uaWNhbCcpOwogICAgICAgIH0KICAgICAgICBhZGRfZmlsdGVyKCAnd3BzZW9fY2Fub25pY2FsJywgJ19fcmV0dXJuX2ZhbHNlJyApOwogICAgfQp9Ci8vIHJlcGxhY2UgdGhlIGRlZmF1bHQgV29yZFByZXNzIGNhbm9uaWNhbCBVUkwgZnVuY3Rpb24gd2l0aCB5b3VyIG93bgphZGRfYWN0aW9uKCAnd3BfaGVhZCcsICdyZWxfY2Fub25pY2FsX3dpdGhfY3VzdG9tX3RhZ19vdmVycmlkZScgKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICggaXNfcGFnZV90ZW1wbGF0ZSgncGFnZS10ZXN0ZS5waHAnKSB8fCBpc19wYWdlKCd0ZXN0ZScpICkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gcmVtb3ZlIHRoZSBkZWZhdWx0IFdvcmRQcmVzcyBjYW5vbmljYWwgVVJMIGZ1bmN0aW9uCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgKCBpc19wYWdlX3RlbXBsYXRlKCdwYWdlLXRlc3RlLnBocCcpIHx8IGlzX3BhZ2UoJ3Rlc3RlJykgKSB7CiAgICBpZiAoZnVuY3Rpb25fZXhpc3RzKCdyZWxfY2Fub25pY2FsJykpIHsKICAgICAgICByZW1vdmVfYWN0aW9uKCd3cF9oZWFkJywgJ3JlbF9jYW5vbmljYWwnKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -436,7 +435,7 @@
       <last-offset />
       <last-pattern>quiz</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
