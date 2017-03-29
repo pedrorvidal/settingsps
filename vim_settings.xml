@@ -29,6 +29,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1490824237755">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="/var/www/html/museudaimigracao/application/views/site/home.php" timestamp="1490216700593">
         <mark key="[" line="1" column="74" />
         <mark key="]" line="1" column="74" />
@@ -212,8 +218,10 @@
       <file name="$USER_HOME$/html/filmmelier/html/serverfront.js" timestamp="1490817288238">
         <mark key="'" line="11" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490287431960">
+      <file name="/Dummy.txt" timestamp="1490821915544">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/tmp/fz3temp-1/header.php" timestamp="1490796788421">
         <mark key="'" line="113" column="16" />
@@ -280,11 +288,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/templates/menu-home.html" timestamp="1490816685418">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="42" />
+      <file name="$USER_HOME$/html/filmmelier/html/views/templates/menu-home.html" timestamp="1490823634886">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+        <mark key="^" line="20" column="51" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/controllers/Post.php" timestamp="1490728055048">
         <mark key="[" line="116" column="0" />
@@ -299,12 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="47" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="1525" column="115" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="1527" column="26" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="1535" column="55" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="1536" column="28" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="1550" column="26" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="221" column="47" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="210" column="20" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="228" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
@@ -399,6 +401,12 @@
       <jump line="10" column="46" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
       <jump line="12" column="19" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
       <jump line="11" column="28" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
+      <jump line="119" column="17" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
+      <jump line="112" column="22" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
+      <jump line="15" column="15" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
+      <jump line="114" column="4" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
+      <jump line="118" column="7" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,55 +416,54 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5nLWNsYXNzPSIi</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text>#modalNewsLetter</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNsYXNzPSI8Pz1ib2R5X2NsYXNzKCk/PiI=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcjcmV3cml0ZS1lbGVtZW50JykuaHRtbCgnPGEgaHJlZj0iIyIgaWQ9Imxvc3RGb2N1cyIgZGF0YS10b2dnbGU9Im1vZGFsIiBkYXRhLXRhcmdldD0iI21vZGFsTmV3c0xldHRlciI+YXNzaW5lIG5vc3NhIG5ld3NsZXR0ZXI8L2E+Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgJHRlc3RlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcqJykuYmx1cigpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">CSAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>uma frase louca qualquer</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcjbG9zdEZvY3VzJykuYmx1cigpOwogICAgICAgICQoJyNsb3N0Rm9jdXMnKS5mb2N1c291dCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjbG9zdEZvY3VzJykuYmx1cigpOwogICAgICAgICQoJyNsb3N0Rm9jdXMnKS5mb2N1c291dCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgJHRlc3RlID0gInVtYSBmcmFzZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjbG9zdEZvY3VzJykuYmx1cigpOwogICAgICAgICQoJyNsb3N0Rm9jdXMnKS5mb2N1c291dCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAkKCcjbG9zdEZvY3VzJykuaGlkZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD9waHAgJFZBUiQgPz4K</text>
+        <text encoding="base64">CQkkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IVtDREFUQVsKICAgICAgICAKICAgICAgICBdXT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search>#modalNewsLetter</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern>#modalNewsLetter</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>show</entry>
         <entry>options</entry>
         <entry>quiz.css</entry>
         <entry>porra</entry>
@@ -476,12 +483,13 @@
         <entry>after</entry>
         <entry>quiz</entry>
         <entry>redis</entry>
+        <entry>#modalNewsLetter</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>noh</entry>
-        <entry>nohlsearch</entry>
         <entry>SW&quot;</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
