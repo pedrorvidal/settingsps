@@ -276,6 +276,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/html/filmmelier/html/views/templates/menu-home.html" timestamp="1490815897043">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+      </file>
       <file name="$USER_HOME$/html/dm9/backend/application/controllers/Post.php" timestamp="1490728055048">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -398,7 +404,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>uma frase louca qualquer;</text>
+        <text>active-link</text>
       </register>
       <register name="/" type="4">
         <text>quiz</text>
