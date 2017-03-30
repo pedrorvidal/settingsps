@@ -1,12 +1,10 @@
 <templateSet group="PHP">
-  <template name="epvard" value="&lt;?php&#10;echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($VAR$);&#10;echo &quot;&lt;/pre&gt;&quot;;&#10;die('fim');&#10;?&gt;" description="pre + var_dump" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="epvard" value="&lt;?php&#10;echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($END$);&#10;echo &quot;&lt;/pre&gt;&quot;;&#10;die('fim');&#10;?&gt;" description="pre + var_dump" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="phpi" value="&lt;?php $VAR$ ?&gt;" description="php inline declaration" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="phpi" value="&lt;?php $END$ ?&gt;" description="php inline declaration" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
@@ -18,6 +16,16 @@
   </template>
   <template name="pelse" value="&lt;?php else $VAR$: ?&gt;" description="php inline else" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="opening php tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rphp" value="?&gt; $END &lt;?php" description="reverse php opening tag" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
