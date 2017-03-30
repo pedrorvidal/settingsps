@@ -11,6 +11,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/html/trajanoleiloes/application/views/template/sidebar.php" timestamp="1490839751552">
+        <mark key="'" line="29" column="20" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="11" />
+      </file>
       <file name="/var/www/html/museudaimigracao/application/views/site/home.php" timestamp="1490216700593">
         <mark key="[" line="1" column="74" />
         <mark key="]" line="1" column="74" />
@@ -143,6 +150,13 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="23" />
       </file>
+      <file name="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" timestamp="1490839570717">
+        <mark key="'" line="193" column="24" />
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="61" column="19" />
+        <mark key="." line="61" column="19" />
+        <mark key="^" line="61" column="19" />
+      </file>
       <file name="$USER_HOME$/html/quizz/wp-config.php" timestamp="1487717586039">
         <mark key="'" line="76" column="60" />
         <mark key="[" line="30" column="0" />
@@ -157,6 +171,11 @@
         <mark key="." line="27" column="282" />
         <mark key="^" line="27" column="282" />
       </file>
+      <file name="$USER_HOME$/html/trajanoleiloes/application/views/v_leiloes.php" timestamp="1490839594194">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-home.php" timestamp="1488462425143">
         <mark key="'" line="125" column="17" />
         <mark key="[" line="203" column="0" />
@@ -167,6 +186,7 @@
       <file name="/tmp/fz3temp-1/style.css" timestamp="1490627850424">
         <mark key="'" line="578" column="3" />
       </file>
+      <file name="$USER_HOME$/html/trajanoleiloes/application/views/template/content-previsao-sidebar.php" timestamp="1490840363594" />
       <file name="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" timestamp="1489761308147">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="388" column="0" />
@@ -220,6 +240,12 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/html/trajanoleiloes/application/views/template/footer.php" timestamp="1490838737909">
+        <mark key="'" line="540" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/htdocs/dm9/backend/application/config/database.php" timestamp="1489004653867">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="95" column="1" />
@@ -232,10 +258,10 @@
         <mark key="]" line="362" column="0" />
         <mark key="." line="362" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490821915544">
+      <file name="/Dummy.txt" timestamp="1490840368672">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/elixir.php" timestamp="1489602742330">
         <mark key="'" line="9" column="0" />
@@ -285,12 +311,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/html/trajanoleiloes/application/controllers/pre_leiloes.php" timestamp="1490837110314">
-        <mark key="'" line="9" column="43" />
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="21" column="4" />
+      <file name="$USER_HOME$/html/trajanoleiloes/application/controllers/pre_leiloes.php" timestamp="1490837889098">
+        <mark key="'" line="22" column="32" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="42" column="35" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/bigdump/bigdump.php" timestamp="1488489946119">
         <mark key="[" line="43" column="16" />
@@ -313,20 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="20" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="228" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="303" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="334" column="43" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="282" column="285" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="318" column="311" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="353" column="255" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="243" column="275" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="267" column="24" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="324" column="12" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="337" column="12" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="24" column="37" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="72" column="35" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="79" column="68" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="17" column="310" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
       <jump line="1421" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
@@ -413,6 +425,20 @@
       <jump line="118" column="7" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="16" column="0" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="9" column="43" filename="$USER_HOME$/html/trajanoleiloes/application/controllers/pre_leiloes.php" />
+      <jump line="22" column="32" filename="$USER_HOME$/html/trajanoleiloes/application/controllers/pre_leiloes.php" />
+      <jump line="174" column="13" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="177" column="87" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="8" column="31" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="58" column="18" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="204" column="24" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/footer.php" />
+      <jump line="540" column="0" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/footer.php" />
+      <jump line="1" column="14" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="45" column="58" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="160" column="57" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="193" column="24" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
+      <jump line="28" column="20" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/sidebar.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -422,56 +448,54 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>*.js</text>
       </register>
       <register name="/" type="4">
-        <text>listar_pre_leilao</text>
+        <text>\.inc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjcmV3cml0ZS1lbGVtZW50JykuaHRtbCgnPGEgaHJlZj0iIyIgaWQ9Imxvc3RGb2N1cyIgZGF0YS10b2dnbGU9Im1vZGFsIiBkYXRhLXRhcmdldD0iI21vZGFsTmV3c0xldHRlciI+YXNzaW5lIG5vc3NhIG5ld3NsZXR0ZXI8L2E+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBkaWUoJ21hbnV0ZW5jYW8uJyk7ID8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGxpc3Rhcl9wcmVfbGVpbGFvKCkgeyAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcqJykuYmx1cigpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjbG9zdEZvY3VzJykuYmx1cigpOwogICAgICAgICQoJyNsb3N0Rm9jdXMnKS5mb2N1c291dCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjbG9zdEZvY3VzJykuYmx1cigpOwogICAgICAgICQoJyNsb3N0Rm9jdXMnKS5mb2N1c291dCgpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIlNpc3RlbWEgZW0gbWFudXRlbsOnw6NvIjsKICAgIGRpZSgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PCEtLSB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4IC0tPjwhLS0geCAgICAgICAgICAgICAgICAgICAgICAgICAgU0lERUJBUiAtLT48IS0tIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHggLS0+PGRpdiBpZD0ic2lkZWJhciIgY2xhc3M9ImdyaWRfNCBhbHBoYSI+ICAgIDwhLS0geHh4eHh4eHh4eHh4eHh4ICBQVUJMSUNJREFERSB4eHh4eHh4eHh4eHh4eHh4eHh4IC0tPiAgICA8ZGl2IGlkPSJwdWJsaWNpZGFkZS1zaWRlYmFyIiBjbGFzcz0iZ3JpZF80IGFscGhhIiBzdHlsZT0iYm9yZGVyLXRvcDowOyBwYWRkaW5nLXRvcDowOyI+ICAgICAgICA8aWZyYW1lIHNyYz0iPD9waHAgZWNobyAkdGhpcy0+Y29uZmlnLT5pdGVtKCdiYXNlX3VybF93cCcpOyA/Pi9iYW5uZXItc2t5c2NyYXBwZXIvIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjYwMiI+PC9pZnJhbWU+ICAgIDwvZGl2PiA8IS0tICNwdWJsaWNpZGFkZS1zaWRlYmFyIC0tPiAgICA8IS0tIHh4eHh4eHh4eHh4eHh4eCAgU0VMTyB4eHh4eHh4eHh4eHh4eHh4eHh4IC0tPiAgICA8ZGl2IGlkPSJzZWxvLXNpZGViYXIiIGNsYXNzPSJncmlkXzQgYWxwaGEiIHN0eWxlPSJib3JkZXItdG9wOjA7IHBhZGRpbmctdG9wOjA7IHRleHQtYWxpZ246Y2VudGVyOyI+ICAgICAgICA8aWZyYW1lIHNyYz0iPD9waHAgZWNobyAkdGhpcy0+Y29uZmlnLT5pdGVtKCdiYXNlX3VybF93cCcpOyA/Pi9zdXBlci1zZWxvLyIgd2lkdGg9IjIwMCIgaGVpZ2h0PSI5MiI+PC9pZnJhbWU+ICAgIDwvZGl2PiA8IS0tICNwdWJsaWNpZGFkZS1zaWRlYmFyIC0tPiAgICA8IS0tIHh4eHh4eHh4eHh4eHh4eCAgQ0xVQkUgVkFOVEFHRU5TIHh4eHh4eHh4eHh4eHh4eHh4eHggLS0+ICAgIDwhLS0gPGRpdiBpZD0iY2x1YmUtdmFudGFnZW5zIiBjbGFzcz0iZ3JpZF80IGFscGhhIj4gLS0+ICAgIDwhLS0gICAgIDxkaXYgaWQ9ImNsdWJlLWNvbnRlbnQiPiAtLT4gICAgPCEtLSAgICAgICAgIDxhIGhyZWY9IiIgY2xhc3M9ImxpbmstdmFudGFnZW5zIj4gLS0+ICAgIDwhLS0gICAgICAgICAgICAgPGltZyBzcmM9Ijw/cGhwIC8vZWNobyAkdGhpcy0+Y29uZmlnLT5pdGVtKCdiYXNlX3VybCcpOyA/Pi9hc3NldHMvaW1hZ2VzL2FkMy5qcGciIGFsdD0idHJhamFubyIgLz4gLS0+ICAgIDwhLS0gICAgICAgICA8L2E+IC0tPiAgICA8IS0tICAgICA8L2Rpdj4gLS0+IDwhLS0gI2NsdWJlLWNvbnRlbnQgLS0+ICAgIDwhLS0gPC9kaXY+IC0tPiA8IS0tICNjbHViZS12YW50YWdlbnMgLS0+ICAgICA8ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZGllKCdtYW51dGVuY2FvLicpOyA/Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZGllKCdtYW51dGVuY2FvLicpOyA/Pgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjbG9zdEZvY3VzJykuYmx1cigpOwogICAgICAgICQoJyNsb3N0Rm9jdXMnKS5mb2N1c291dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZGllKCdtYW51dGVuY2FvLicpOyA/Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjbG9zdEZvY3VzJykuaGlkZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBkaWUoJ21hbnV0ZW5jYW8uJyk7ID8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBkaWUoJ21hbnV0ZW5jYW8uJyk7ID8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>listar_pre_leilao</last-search>
+      <last-search>\.inc</last-search>
       <last-offset />
-      <last-pattern>listar_pre_leilao</last-pattern>
+      <last-pattern>\.inc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>quiz.css</entry>
-        <entry>porra</entry>
         <entry>share_description</entry>
         <entry encoding="base64">c2hhcmVfZGVzY3JpcHRpb24g</entry>
         <entry>se o espelho</entry>
@@ -490,6 +514,8 @@
         <entry>redis</entry>
         <entry>#modalNewsLetter</entry>
         <entry>listar_pre_leilao</entry>
+        <entry>new</entry>
+        <entry>\.inc</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
