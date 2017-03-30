@@ -124,12 +124,12 @@
         <mark key="^" line="23" column="46" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/html/dm9/backend/assets/front/js/dev.js" timestamp="1490886288670">
-        <mark key="'" line="540" column="6" />
-        <mark key="[" line="508" column="68" />
-        <mark key="]" line="509" column="19" />
-        <mark key="." line="509" column="19" />
-        <mark key="^" line="509" column="19" />
+      <file name="$USER_HOME$/html/dm9/backend/assets/front/js/dev.js" timestamp="1490894400097">
+        <mark key="'" line="541" column="6" />
+        <mark key="[" line="507" column="0" />
+        <mark key="]" line="507" column="114" />
+        <mark key="^" line="507" column="71" />
+        <mark key="." line="507" column="71" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/models/Posts_model.php" timestamp="1489088951619">
         <mark key="[" line="95" column="43" />
@@ -458,13 +458,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>formPost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHJvdXRlWydtdXJhbC9tZW50b3JhZG8nXSA9ICdob21lL211cmFsTWVudG9yYWRvJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdXJsID0gd2luZG93LmxvY2F0aW9uLmhyZWYucmVwbGFjZSgvXjpcLysvLCAnLycpLnJlcGxhY2UoL1wvXGQrJC8sICcnKSArICcvJyArIGRhdGEubXVyYWw7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbG9jYWwgMTogJyt1cmwpOwo=</text>
@@ -569,6 +569,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
