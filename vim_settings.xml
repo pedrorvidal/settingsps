@@ -144,6 +144,11 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
+      <file name="$USER_HOME$/html/tri/wp-config.php" timestamp="1490972569182">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/html/filmmelier/html/views/templates/lista-filmes.html" timestamp="1490195836875">
         <mark key="[" line="17" column="40" />
         <mark key="]" line="17" column="48" />
@@ -466,19 +471,19 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>70px</text>
+        <text>/projetos/pluralweb/afresp/000744web/</text>
       </register>
       <register name="/" type="4">
-        <text>Filtro</text>
+        <text>METHOD</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJPHNwYW4+RmlsdHJvOjwvc3Bhbj4KCQkJCQkJPHNlbGVjdCBpZD0iZmlsdHJvUG9zdHMiPgoJCQkJCQkJPG9wdGlvbiB2YWx1ZT0iMCIgPD9waHAgaWYgKGlzc2V0KCRuaXZlbCkgJiYgJG5pdmVsID09IDApIHsgZWNobyAic2VsZWN0ZWQiOyB9ID8+PlDDumJsaWNvPC9vcHRpb24+CgkJCQkJCQk8b3B0aW9uIHZhbHVlPSIxIiA8P3BocCBpZiAoaXNzZXQoJG5pdmVsKSAmJiAkbml2ZWwgPiAwKSB7IGVjaG8gInNlbGVjdGVkIjsgfSA/Pj5HcnVwbzwvb3B0aW9uPgoJCQkJCQk8L3NlbGVjdD4K</text>
+      <register name="0" type="4">
+        <text>/projetos/pluralweb/tri/site/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJPHNwYW4+RmlsdHJvOjwvc3Bhbj4KCQkJCQkJPHNlbGVjdCBpZD0iZmlsdHJvUG9zdHMiPgoJCQkJCQkJPG9wdGlvbiB2YWx1ZT0iMSI+R3J1cG88L29wdGlvbj4KCQkJCQkJCTxvcHRpb24gdmFsdWU9IjAiPlDDumJsaWNvPC9vcHRpb24+CgkJCQkJCTwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJPHNwYW4+RmlsdHJvOjwvc3Bhbj4KCQkJCQkJPHNlbGVjdCBpZD0iZmlsdHJvUG9zdHMiPgoJCQkJCQkJPG9wdGlvbiB2YWx1ZT0iMSI+R3J1cG88L29wdGlvbj4KCQkJCQkJCTxvcHRpb24gdmFsdWU9IjAiPlDDumJsaWNvPC9vcHRpb24+CgkJCQkJCTwvc2VsZWN0Pgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -487,36 +492,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ3Bvc3RzJ10gPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ3Bvc3RzJ10gPQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsncG9zdHMnXSA9ICR0aGlzLT5wb3N0c19tb2RlbC0+Z2V0UG9zdHMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbXVyYWwgPSAkdGhpcy0+dXJpLT5zZWdtZW50KDMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsncG9zdHMnXSA9ICR0aGlzLT5wb3N0c19tb2RlbC0+Z2V0UG9zdHMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>Filtro</last-search>
+      <last-search>METHOD</last-search>
       <last-offset />
-      <last-pattern>Filtro</last-pattern>
+      <last-pattern>METHOD</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">c2hhcmVfZGVzY3JpcHRpb24g</entry>
-        <entry>se o espelho</entry>
-        <entry>E a linha</entry>
         <entry>Faça o teste</entry>
         <entry>col-md-6</entry>
         <entry>antiox</entry>
@@ -534,6 +536,9 @@
         <entry>formPost</entry>
         <entry>function muralMentorado</entry>
         <entry>Filtro</entry>
+        <entry>fs_method</entry>
+        <entry>method</entry>
+        <entry>METHOD</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
