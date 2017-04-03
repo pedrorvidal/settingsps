@@ -74,11 +74,12 @@
         <mark key="^" line="833" column="0" />
         <mark key="." line="833" column="0" />
       </file>
-      <file name="/tmp/fz3temp-1/functions.php" timestamp="1490647544732">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1410" column="0" />
-        <mark key="]" line="1410" column="0" />
-        <mark key="." line="1410" column="0" />
+      <file name="/tmp/fz3temp-1/functions.php" timestamp="1491242352773">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="1042" column="0" />
+        <mark key="]" line="1042" column="0" />
+        <mark key="." line="1042" column="0" />
+        <mark key="^" line="1042" column="0" />
       </file>
       <file name="$USER_HOME$/html/trajanoleiloes/application/controllers/pre_leiloes.php" timestamp="1490837889098">
         <mark key="'" line="22" column="32" />
@@ -254,11 +255,11 @@
         <mark key="]" line="31" column="348" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" timestamp="1491239871508">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="50" column="38" />
-        <mark key="." line="50" column="38" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" timestamp="1491243012412">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="54" column="11" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="50" column="38" />
       </file>
       <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488510634335">
@@ -282,12 +283,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/tmp/fz3temp-1/header.php" timestamp="1491232155486">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="36" column="111" />
+      <file name="/tmp/fz3temp-1/header.php" timestamp="1491243025969">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/assets/front/css/style.min.css" timestamp="1490903100804">
         <mark key="'" line="19" column="1" />
@@ -299,12 +300,12 @@
       <file name="$USER_HOME$/html/dm9/backend/assets/css/style.min.css" timestamp="1490902200681">
         <mark key="'" line="19" column="58" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491233085494">
-        <mark key="'" line="201" column="13" />
-        <mark key="[" line="1044" column="55" />
-        <mark key="]" line="1044" column="70" />
-        <mark key="." line="1044" column="70" />
-        <mark key="^" line="1044" column="70" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491242344425">
+        <mark key="'" line="1035" column="20" />
+        <mark key="[" line="1035" column="0" />
+        <mark key="]" line="1064" column="47" />
+        <mark key="." line="1027" column="0" />
+        <mark key="^" line="1026" column="0" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1490277723100">
         <mark key="'" line="193" column="51" />
@@ -376,12 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="33" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="370" column="63" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="204" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
-      <jump line="1421" column="0" filename="/tmp/fz3temp-1/functions.php" />
-      <jump line="1508" column="23" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="118" column="39" filename="/tmp/fz3temp-1/header.php" />
       <jump line="12" column="27" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
       <jump line="38" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
@@ -464,7 +459,6 @@
       <jump line="20" column="39" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
       <jump line="82" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
       <jump line="79" column="30" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="32" column="4" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
       <jump line="33" column="0" filename="/tmp/fz3temp-1/header.php" />
       <jump line="105" column="0" filename="/tmp/fz3temp-1/header.php" />
       <jump line="105" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
@@ -476,6 +470,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="201" column="13" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="45" column="8" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="22" column="0" filename="/tmp/fz3temp-1/functions.php" />
+      <jump line="1056" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="1035" column="20" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="32" column="22" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="9" column="28" filename="/tmp/fz3temp-1/header.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -491,34 +492,34 @@
         <text>description</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IicgLiBnZXRfdGhlX3Blcm1hbGluaygpIC4gJyIvPic7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHlsZT4KICAgICAgICAjdmlkZW8tbWFwYS1lc3RyYXRlZ2ljbyB7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDUwcHg7CiAgICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICB9CiAgICAgICAgI3ZpZGVvLW1hcGEtZXN0cmF0ZWdpY28gLnZpZGVvLXdyYXBwZXIgewogICAgICAgICAgICB3aWR0aDoxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IDA7CiAgICAgICAgICAgIHBhZGRpbmctdG9wOiA1Ni4yNSU7CiAgICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICB9CiAgICAgICAgI3ZpZGVvLW1hcGEtZXN0cmF0ZWdpY28gLnZpZGVvLXdyYXBwZXIgaWZyYW1lewogICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICAgICAgIHRvcDogMDsKICAgICAgICAgICAgbGVmdDogMDsKICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICAgIHdpZHRoOjEwMCU7CiAgICAgICAgICAgIGhlaWdodDoxMDAlOwogICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogYm90dG9tOwogICAgICAgIH0KICAgICAgICAucG9zdC1jb250ZW50IGEgewogICAgICAgICAgICBjb2xvcjogIzAwZDNmNzsKICAgICAgICB9CiAgICAgICAgLnBvc3QtY29udGVudCBhOmhvdmVyIHsKICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7CiAgICAgICAgfQoKCiAgICA8L3N0eWxlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxtZXRhIHByb3BlcnR5PSJmYjphZG1pbnMiIGNvbnRlbnQ9IiIvPic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQWZyZXNwIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIj4KCTxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IiI+Cgk8bWV0YSBwcm9wZXJ0eT0ib2c6c2l0ZV9uYW1lIiBjb250ZW50PSJBZnJlc3AiPgoJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJhc3NldHMvaW1nL3NoYXJlLmpwZyI+Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQWZyZXNwIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIj4KCTxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IiI+Cgk8bWV0YSBwcm9wZXJ0eT0ib2c6c2l0ZV9uYW1lIiBjb250ZW50PSJBZnJlc3AiPgoJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJhc3NldHMvaW1nL3NoYXJlLmpwZyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAjdmlkZW8tbWFwYS1lc3RyYXRlZ2ljbyB7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDUwcHg7CiAgICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICB9CiAgICAgICAgI3ZpZGVvLW1hcGEtZXN0cmF0ZWdpY28gLnZpZGVvLXdyYXBwZXIgewogICAgICAgICAgICB3aWR0aDoxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IDA7CiAgICAgICAgICAgIHBhZGRpbmctdG9wOiA1Ni4yNSU7CiAgICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICB9CiAgICAgICAgI3ZpZGVvLW1hcGEtZXN0cmF0ZWdpY28gLnZpZGVvLXdyYXBwZXIgaWZyYW1lewogICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICAgICAgIHRvcDogMDsKICAgICAgICAgICAgbGVmdDogMDsKICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICAgIHdpZHRoOjEwMCU7CiAgICAgICAgICAgIGhlaWdodDoxMDAlOwogICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogYm90dG9tOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQWZyZXNwIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIj4KCTxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IiI+Cgk8bWV0YSBwcm9wZXJ0eT0ib2c6c2l0ZV9uYW1lIiBjb250ZW50PSJBZnJlc3AiPgoJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJhc3NldHMvaW1nL3NoYXJlLmpwZyI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkZGVmYXVsdF9pbWFnZT0iIjsgLy9yZXBsYWNlIHRoaXMgd2l0aCBhIGRlZmF1bHQgaW1hZ2Ugb24geW91ciBzZXJ2ZXIgb3IgYW4gaW1hZ2UgaW4geW91ciBtZWRpYSBsaWJyYXJ5Cg==</text>
+        <text encoding="base64">CTxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSIiPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJPHNwYW4+RmlsdHJvOjwvc3Bhbj4KCQkJCQkJPHNlbGVjdCBpZD0iZmlsdHJvUG9zdHMiPgoJCQkJCQkJPG9wdGlvbiB2YWx1ZT0iMSI+R3J1cG88L29wdGlvbj4KCQkJCQkJCTxvcHRpb24gdmFsdWU9IjAiPlDDumJsaWNvPC9vcHRpb24+CgkJCQkJCTwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxtZXRhIHByb3BlcnR5PSJmYjphZG1pbnMiIGNvbnRlbnQ9IiIvPic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQWZyZXNwIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIj4KCTxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IiI+Cgk8bWV0YSBwcm9wZXJ0eT0ib2c6c2l0ZV9uYW1lIiBjb250ZW50PSJBZnJlc3AiPgoJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJhc3NldHMvaW1nL3NoYXJlLmpwZyI+Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQWZyZXNwIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIj4KCTxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IiI+Cgk8bWV0YSBwcm9wZXJ0eT0ib2c6c2l0ZV9uYW1lIiBjb250ZW50PSJBZnJlc3AiPgoJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJhc3NldHMvaW1nL3NoYXJlLmpwZyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
