@@ -292,6 +292,13 @@
       <file name="$USER_HOME$/html/dm9/backend/assets/css/style.min.css" timestamp="1490902200681">
         <mark key="'" line="19" column="58" />
       </file>
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491228630792">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="1040" column="50" />
+        <mark key="]" line="1040" column="55" />
+        <mark key="^" line="1040" column="55" />
+        <mark key="." line="1040" column="55" />
+      </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1490277723100">
         <mark key="'" line="193" column="51" />
         <mark key="[" line="2" column="20" />
@@ -362,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="7" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="341" column="16" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="1544" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
       <jump line="1402" column="5" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
@@ -462,6 +468,7 @@
       <jump line="19" column="58" filename="$USER_HOME$/html/dm9/backend/assets/css/style.min.css" />
       <jump line="0" column="0" filename="$USER_HOME$/html/dm9/backend/assets/front/css/style.min.css" />
       <jump line="19" column="1" filename="$USER_HOME$/html/dm9/backend/assets/front/css/style.min.css" />
+      <jump line="21" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -471,7 +478,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/projetos/pluralweb/afresp/000744web/</text>
+        <text>YOUR USER ID</text>
       </register>
       <register name="/" type="4">
         <text>METHOD</text>
@@ -515,7 +522,7 @@
       <last-offset />
       <last-pattern>METHOD</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
