@@ -254,6 +254,13 @@
         <mark key="]" line="31" column="348" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" timestamp="1491232165601">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488510634335">
         <mark key="'" line="85" column="25" />
         <mark key="[" line="97" column="0" />
@@ -275,12 +282,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/tmp/fz3temp-1/header.php" timestamp="1490796788421">
-        <mark key="'" line="113" column="16" />
-        <mark key="[" line="71" column="9" />
-        <mark key="]" line="71" column="35" />
-        <mark key="." line="71" column="9" />
-        <mark key="^" line="42" column="111" />
+      <file name="/tmp/fz3temp-1/header.php" timestamp="1491232155486">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="36" column="111" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/assets/front/css/style.min.css" timestamp="1490903100804">
         <mark key="'" line="19" column="1" />
@@ -292,12 +299,12 @@
       <file name="$USER_HOME$/html/dm9/backend/assets/css/style.min.css" timestamp="1490902200681">
         <mark key="'" line="19" column="58" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491228630792">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="1040" column="50" />
-        <mark key="]" line="1040" column="55" />
-        <mark key="^" line="1040" column="55" />
-        <mark key="." line="1040" column="55" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491233085494">
+        <mark key="'" line="201" column="13" />
+        <mark key="[" line="1044" column="55" />
+        <mark key="]" line="1044" column="70" />
+        <mark key="." line="1044" column="70" />
+        <mark key="^" line="1044" column="70" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1490277723100">
         <mark key="'" line="193" column="51" />
@@ -369,32 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="16" filename="/tmp/fz3temp-1/functions.php" />
-      <jump line="1544" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="1402" column="5" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="25" column="107" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="27" column="13" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="151" column="40" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="823" column="0" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="581" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="585" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="591" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="596" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="608" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="611" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="614" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="618" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="623" column="7" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="627" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="630" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="634" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="645" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="658" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="661" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="664" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="667" column="3" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="0" column="0" filename="/tmp/fz3temp-1/style.css" />
-      <jump line="578" column="3" filename="/tmp/fz3temp-1/style.css" />
       <jump line="225" column="16" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="93" column="33" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="370" column="63" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
@@ -469,6 +450,32 @@
       <jump line="0" column="0" filename="$USER_HOME$/html/dm9/backend/assets/front/css/style.min.css" />
       <jump line="19" column="1" filename="$USER_HOME$/html/dm9/backend/assets/front/css/style.min.css" />
       <jump line="21" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="1046" column="29" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="955" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="907" column="34" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="31" column="4" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="23" column="64" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="16" column="46" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="78" column="0" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="91" column="66" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="86" column="0" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="14" column="37" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="26" column="57" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="20" column="39" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="82" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="79" column="30" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="32" column="4" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="33" column="0" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="105" column="0" filename="/tmp/fz3temp-1/header.php" />
+      <jump line="105" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
+      <jump line="1055" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="34" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="35" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="36" column="19" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="37" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="201" column="13" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -478,56 +485,54 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>YOUR USER ID</text>
+        <text>teste description</text>
       </register>
       <register name="/" type="4">
-        <text>METHOD</text>
+        <text>description</text>
       </register>
-      <register name="0" type="4">
-        <text>/projetos/pluralweb/tri/site/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJzxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IicgLiBnZXRfdGhlX3Blcm1hbGluaygpIC4gJyIvPic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxtZXRhIHByb3BlcnR5PSJmYjphZG1pbnMiIGNvbnRlbnQ9IiIvPic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJPHNwYW4+RmlsdHJvOjwvc3Bhbj4KCQkJCQkJPHNlbGVjdCBpZD0iZmlsdHJvUG9zdHMiPgoJCQkJCQkJPG9wdGlvbiB2YWx1ZT0iMSI+R3J1cG88L29wdGlvbj4KCQkJCQkJCTxvcHRpb24gdmFsdWU9IjAiPlDDumJsaWNvPC9vcHRpb24+CgkJCQkJCTwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">CTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQWZyZXNwIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIj4KCTxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IiI+Cgk8bWV0YSBwcm9wZXJ0eT0ib2c6c2l0ZV9uYW1lIiBjb250ZW50PSJBZnJlc3AiPgoJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJhc3NldHMvaW1nL3NoYXJlLmpwZyI+Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQWZyZXNwIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIj4KCTxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IiI+Cgk8bWV0YSBwcm9wZXJ0eT0ib2c6c2l0ZV9uYW1lIiBjb250ZW50PSJBZnJlc3AiPgoJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJhc3NldHMvaW1nL3NoYXJlLmpwZyI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQWZyZXNwIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIj4KCTxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iIj4KCTxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9IiI+Cgk8bWV0YSBwcm9wZXJ0eT0ib2c6c2l0ZV9uYW1lIiBjb250ZW50PSJBZnJlc3AiPgoJPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJhc3NldHMvaW1nL3NoYXJlLmpwZyI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkZGVmYXVsdF9pbWFnZT0iIjsgLy9yZXBsYWNlIHRoaXMgd2l0aCBhIGRlZmF1bHQgaW1hZ2Ugb24geW91ciBzZXJ2ZXIgb3IgYW4gaW1hZ2UgaW4geW91ciBtZWRpYSBsaWJyYXJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ3Bvc3RzJ10gPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJPHNwYW4+RmlsdHJvOjwvc3Bhbj4KCQkJCQkJPHNlbGVjdCBpZD0iZmlsdHJvUG9zdHMiPgoJCQkJCQkJPG9wdGlvbiB2YWx1ZT0iMSI+R3J1cG88L29wdGlvbj4KCQkJCQkJCTxvcHRpb24gdmFsdWU9IjAiPlDDumJsaWNvPC9vcHRpb24+CgkJCQkJCTwvc2VsZWN0Pgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsncG9zdHMnXSA9ICR0aGlzLT5wb3N0c19tb2RlbC0+Z2V0UG9zdHMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>METHOD</last-search>
+      <last-search>description</last-search>
       <last-offset />
-      <last-pattern>METHOD</last-pattern>
+      <last-pattern>description</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Faça o teste</entry>
-        <entry>col-md-6</entry>
         <entry>antiox</entry>
         <entry>enqueue</entry>
         <entry>add_quiz_scripts</entry>
@@ -546,6 +551,8 @@
         <entry>fs_method</entry>
         <entry>method</entry>
         <entry>METHOD</entry>
+        <entry>template_dire</entry>
+        <entry>description</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
