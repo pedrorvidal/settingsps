@@ -171,6 +171,10 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/html/eureka/wp-config.php" timestamp="1491250299833">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="40" />
+      </file>
       <file name="$USER_HOME$/html/filmmelier/html/staticpages/static_page_filme.php" timestamp="1487686004169">
         <mark key="[" line="15" column="67" />
         <mark key="]" line="15" column="67" />
@@ -491,8 +495,8 @@
       <register name="/" type="4">
         <text>description</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZT4KICAgICAgICAjdmlkZW8tbWFwYS1lc3RyYXRlZ2ljbyB7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDUwcHg7CiAgICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICB9CiAgICAgICAgI3ZpZGVvLW1hcGEtZXN0cmF0ZWdpY28gLnZpZGVvLXdyYXBwZXIgewogICAgICAgICAgICB3aWR0aDoxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IDA7CiAgICAgICAgICAgIHBhZGRpbmctdG9wOiA1Ni4yNSU7CiAgICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICB9CiAgICAgICAgI3ZpZGVvLW1hcGEtZXN0cmF0ZWdpY28gLnZpZGVvLXdyYXBwZXIgaWZyYW1lewogICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICAgICAgIHRvcDogMDsKICAgICAgICAgICAgbGVmdDogMDsKICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICAgIHdpZHRoOjEwMCU7CiAgICAgICAgICAgIGhlaWdodDoxMDAlOwogICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogYm90dG9tOwogICAgICAgIH0KICAgICAgICAucG9zdC1jb250ZW50IGEgewogICAgICAgICAgICBjb2xvcjogIzAwZDNmNzsKICAgICAgICB9CiAgICAgICAgLnBvc3QtY29udGVudCBhOmhvdmVyIHsKICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7CiAgICAgICAgfQoKCiAgICA8L3N0eWxlPgo=</text>
+      <register name="0" type="4">
+        <text>mysql.pluralweb.inf.br</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
