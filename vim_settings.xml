@@ -254,12 +254,12 @@
         <mark key="]" line="31" column="348" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" timestamp="1491232165601">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" timestamp="1491239871508">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="50" column="38" />
+        <mark key="." line="50" column="38" />
+        <mark key="^" line="50" column="38" />
       </file>
       <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488510634335">
         <mark key="'" line="85" column="25" />
@@ -376,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="16" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="93" column="33" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
       <jump line="370" column="63" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
       <jump line="204" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" />
@@ -476,6 +475,7 @@
       <jump line="37" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="201" column="13" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="45" column="8" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -485,7 +485,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>teste description</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>description</text>
