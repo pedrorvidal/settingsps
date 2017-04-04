@@ -76,6 +76,13 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="42" column="35" />
       </file>
+      <file name="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" timestamp="1491325256021">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+      </file>
       <file name="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" timestamp="1490898009895">
         <mark key="'" line="9" column="16" />
         <mark key="[" line="454" column="0" />
@@ -160,8 +167,8 @@
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/quiz.css" timestamp="1490628769383">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/app/routes.js" timestamp="1491323780335">
-        <mark key="'" line="211" column="0" />
+      <file name="$USER_HOME$/html/filmmelier/ativsys/app/routes.js" timestamp="1491324541707">
+        <mark key="'" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/html/quizz/wp-config.php" timestamp="1487717586039">
         <mark key="'" line="76" column="60" />
@@ -247,8 +254,8 @@
       <file name="$USER_HOME$/html/filmmelier/html/serverfront.js" timestamp="1490817288238">
         <mark key="'" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" timestamp="1491323683066">
-        <mark key="'" line="113" column="0" />
+      <file name="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" timestamp="1491324557910">
+        <mark key="'" line="50" column="30" />
         <mark key="[" line="59" column="5" />
         <mark key="]" line="59" column="5" />
         <mark key="^" line="59" column="5" />
@@ -353,9 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" />
-      <jump line="118" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" />
-      <jump line="119" column="0" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" />
       <jump line="1531" column="59" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="1536" column="55" filename="/tmp/fz3temp-1/functions.php" />
       <jump line="0" column="0" filename="/tmp/fz3temp-1/functions.php" />
@@ -453,6 +457,9 @@
       <jump line="9" column="28" filename="/tmp/fz3temp-1/header.php" />
       <jump line="113" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="211" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/app/routes.js" />
+      <jump line="8" column="19" filename="$USER_HOME$/html/filmmelier/ativsys/app/routes.js" />
+      <jump line="50" column="30" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -462,57 +469,55 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">aW5wdXQgdHlwZT0iY2hlY2tib3giPiBDaGVjayBtZSBvdXQ=</text>
       </register>
       <register name="/" type="4">
-        <text>description</text>
+        <text>checkbox</text>
       </register>
       <register name="0" type="4">
         <text>mo1108</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJPGlucHV0IHR5cGU9ImNoZWNrYm94Ij4gQ2hlY2sgbWUgb3V0Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>function(){                 
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgaWRfbWVudG9yID0gJCh0aGlzKS5kYXRhKCdtZW50b3InKTsKICAgICAgICB2YXIgaWRfcHJvZmlsZSA9ICQodGhpcykuZGF0YSgncHJvZmlsZScpOwogICAgICAgIHZhciBpZF91c3VhcmlvID0gJCh0aGlzKS5kYXRhKCd1c3VhcmlvJyk7CiAgICAgICAgCiAgICAgICAgdmFyIG1lbnNhZ2VtX21lbnRvciA9ICQodGhpcykucGFyZW50KCkuZmluZCgnLm1zZ190ZXh0JykudmFsKCk7CiAgICAgICAgCiAgICAgICAgdmFyIGRhdGEgPSB7CiAgICAgICAgICAgICdtZW5zYWdlbV9tZW50b3InOiBtZW5zYWdlbV9tZW50b3IsCiAgICAgICAgICAgICdpZF9tZW50b3InOiBpZF9tZW50b3IsCiAgICAgICAgICAgICdpZF9wcm9maWxlJzogaWRfcHJvZmlsZSwKICAgICAgICAgICAgJ2lkX3VzdWFyaW8nOiBpZF91c3VhcmlvLAogICAgICAgIH07CgogICAgICAgICQucG9zdChiYXNlX3VybCArICdob21lL2luc2VydE1lbnNhZ2VtJywgZGF0YSwgZnVuY3Rpb24gKHJlc3VsdCkgeyAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICQoJy5jb252ZXJzYXRpb24tJytpZF91c3VhcmlvKS5odG1sKHJlc3VsdC5odG1sKTsgCgogICAgICAgICAgICAkKCcuY29udmVyc2F0aW9uLScraWRfdXN1YXJpbykuc2Nyb2xsVG9wKCQoJy5jb252ZXJzYXRpb24tJytpZF91c3VhcmlvKVswXS5zY3JvbGxIZWlnaHQpOwogICAgICAgIH0sJ2pzb24nKTsgICAgICAgICAgICAKCiAgICAgICAgJCh0aGlzKS5wYXJlbnQoKS5maW5kKCcubXNnX3RleHQnKS52YWwoIiIpOwoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICQucHJveHkoc3VibWl0X2NoYXRfbXNnLCB0aGlzKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJCgnLicpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gc3VibWl0X2NoYXRfbXNnKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJC5wcm94eShzdWJtaXRfY2hhdF9tc2csIHRoaXMpKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLm1zZ19tZW50b3JhZG8nKS47Cg==</text>
+        <text encoding="base64">cHIK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>description</last-search>
+      <last-search>checkbox</last-search>
       <last-offset />
-      <last-pattern>description</last-pattern>
+      <last-pattern>checkbox</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>antiox</entry>
-        <entry>enqueue</entry>
         <entry>add_quiz_scripts</entry>
         <entry>r</entry>
         <entry>Elixir</entry>
@@ -531,6 +536,8 @@
         <entry>METHOD</entry>
         <entry>template_dire</entry>
         <entry>description</entry>
+        <entry>novofilme</entry>
+        <entry>checkbox</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
