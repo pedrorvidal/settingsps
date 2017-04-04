@@ -76,12 +76,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="42" column="35" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" timestamp="1491326454249">
-        <mark key="'" line="17" column="97" />
-        <mark key="[" line="17" column="111" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" timestamp="1491335274250">
+        <mark key="'" line="18" column="97" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" timestamp="1490898009895">
         <mark key="'" line="9" column="16" />
@@ -158,6 +158,12 @@
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="38" />
       </file>
+      <file name="$USER_HOME$/html/filmmelier/ativsys/public/views/filmes-editar.html" timestamp="1491335297953">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="92" />
+        <mark key="^" line="17" column="92" />
+        <mark key="." line="17" column="92" />
+      </file>
       <file name="$USER_HOME$/html/filmmelier/ativsys/app/models/film.js" timestamp="1491328267251">
         <mark key="[" line="38" column="29" />
         <mark key="]" line="38" column="28" />
@@ -226,12 +232,12 @@
         <mark key="." line="27" column="282" />
         <mark key="^" line="27" column="282" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" timestamp="1491328227811">
+      <file name="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" timestamp="1491335527806">
         <mark key="'" line="300" column="0" />
-        <mark key="[" line="878" column="31" />
-        <mark key="]" line="878" column="36" />
-        <mark key="." line="878" column="36" />
-        <mark key="^" line="878" column="36" />
+        <mark key="[" line="1166" column="32" />
+        <mark key="]" line="1166" column="32" />
+        <mark key="." line="1166" column="32" />
+        <mark key="^" line="1166" column="32" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/partials/contribuicao-content.php" timestamp="1488466951017">
         <mark key="[" line="25" column="0" />
@@ -246,8 +252,12 @@
         <mark key="^" line="63" column="16" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/server.js" timestamp="1491328193346">
+      <file name="$USER_HOME$/html/filmmelier/ativsys/server.js" timestamp="1491335029186">
         <mark key="'" line="243" column="0" />
+        <mark key="[" line="275" column="41" />
+        <mark key="]" line="275" column="41" />
+        <mark key="^" line="275" column="41" />
+        <mark key="." line="275" column="41" />
       </file>
       <file name="/tmp/fz3temp-1/database.php" timestamp="1491314609056">
         <mark key="[" line="100" column="19" />
@@ -270,8 +280,8 @@
       <file name="$USER_HOME$/html/filmmelier/html/serverfront.js" timestamp="1490817288238">
         <mark key="'" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" timestamp="1491333516489">
-        <mark key="'" line="71" column="12" />
+      <file name="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" timestamp="1491335425984">
+        <mark key="'" line="103" column="0" />
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="3" />
         <mark key="^" line="121" column="3" />
@@ -380,9 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1518" column="52" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="1519" column="29" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/functions.php" />
-      <jump line="97" column="74" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" />
       <jump line="93" column="32" filename="/tmp/fz3temp-1/header.php" />
       <jump line="113" column="16" filename="/tmp/fz3temp-1/header.php" />
       <jump line="8" column="39" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
@@ -480,6 +487,9 @@
       <jump line="71" column="12" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="243" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
       <jump line="300" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" />
+      <jump line="69" column="41" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -492,55 +502,54 @@
         <text encoding="base64">PHRkPjwvdGQ+</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>id_moods</text>
       </register>
       <register name="/" type="4">
-        <text>films</text>
+        <text>carrega</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmaWxtLmlkX21vb2RzID0gcmVxLmJvZHkuaWRfbW9vZHM7Cg==</text>
+        <text encoding="base64">CQkJZmlsbS5pZF9tb29kcyA9IGlkX21vb2RzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9ImNoZWNrYm94Ij4KCQkJCQk8bGFiZWw+CgkJCQkJCTwhLS08aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImZpbG1lb2N1bHRvIiBuZy1tb2RlbD0iZm9ybURhdGFGaWxtZS5vY3VsdG8iIG5nLWNsaWNrPSIvL3VwZGF0ZVNlbGVjdGlvbigkaW5kZXgsIGZpbG1lcykiPi0tPgoJCQkJCQk8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImZpbG1lb2N1bHRvIiBuZy1tb2RlbD0iZm9ybURhdGFGaWxtZS5vY3VsdG8iPiBGaWxtZSBvY3VsdG8KCQkJCQkJPGJyPgoJCQkJCTwvbGFiZWw+CgkJCQk8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygkc2NvcGUuZm9ybURhdGFGaWxtZSk7Cg==</text>
+        <text encoding="base64">CQkJCQkJPCEtLXt7Zm9ybURhdGFGaWxtZS5vY3VsdG99fS0tPgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZygkc2NvcGUuZm9ybURhdGFGaWxtZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJLy8gY29uc29sZS5sb2coJHNjb3BlLmZvcm1EYXRhRmlsbWUuJHZhbGlkKTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">PHRkPjwvdGQ+</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJmaWxtZW9jdWx0byIgbmctbW9kZWw9ImZvcm1EYXRhRmlsbWUub2N1bHRvIj4=</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">PHRkPjwvdGQ+</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJmaWxtZW9jdWx0byIgbmctbW9kZWw9ImZvcm1EYXRhRmlsbWUub2N1bHRvIiBuZy1jbGljaz0idXBkYXRlU2VsZWN0aW9uKCRpbmRleCwgZmlsbWVzKSI+</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJmaWxtZW9jdWx0byIgbmctbW9kZWw9ImZvcm1EYXRhRmlsbWUub2N1bHRvIj4=</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">PHRkPjwvdGQ+</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJmaWxtZW9jdWx0byIgbmctbW9kZWw9ImZvcm1EYXRhRmlsbWUub2N1bHRvIj4=</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJmaWxtZW9jdWx0byIgbmctbW9kZWw9ImZvcm1EYXRhRmlsbWUub2N1bHRvIiBuZy1jbGljaz0idXBkYXRlU2VsZWN0aW9uKCRpbmRleCwgZmlsbWVzKSI+</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>films</last-search>
+      <last-search>carrega</last-search>
       <last-offset />
-      <last-pattern>films</last-pattern>
+      <last-pattern>carrega</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry>after</entry>
         <entry>quiz</entry>
         <entry>redis</entry>
@@ -560,6 +569,7 @@
         <entry>addFilme</entry>
         <entry>add</entry>
         <entry>films</entry>
+        <entry>carrega</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
