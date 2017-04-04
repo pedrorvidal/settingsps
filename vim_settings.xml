@@ -12,12 +12,6 @@
       <file name="/tmp/fz3temp-1/page-teste.php" timestamp="1490798191407">
         <mark key="'" line="390" column="35" />
       </file>
-      <file name="$USER_HOME$/html/trajanoleiloes/application/views/template/footer.php" timestamp="1490838737909">
-        <mark key="'" line="540" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/htdocs/dm9/backend/application/config/database.php" timestamp="1489004653867">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="95" column="1" />
@@ -34,12 +28,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" timestamp="1490824237755">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
       </file>
       <file name="/var/www/html/museudaimigracao/application/views/site/home.php" timestamp="1490216700593">
         <mark key="[" line="1" column="74" />
@@ -100,12 +88,6 @@
         <mark key="]" line="21" column="44" />
         <mark key="." line="21" column="44" />
         <mark key="^" line="21" column="44" />
-      </file>
-      <file name="$USER_HOME$/html/dm9/backend/application/controllers/Evento.php" timestamp="1489528837202">
-        <mark key="'" line="217" column="13" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/html/htct/application/config/database.php" timestamp="1487626793001">
         <mark key="[" line="72" column="17" />
@@ -220,12 +202,6 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/header.php" timestamp="1490796786110">
-        <mark key="'" line="97" column="74" />
-        <mark key="[" line="72" column="9" />
-        <mark key="]" line="72" column="34" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/html/mundoverde/wp-config.php" timestamp="1490287512044">
         <mark key="'" line="57" column="53" />
         <mark key="[" line="81" column="27" />
@@ -253,11 +229,9 @@
         <mark key="^" line="63" column="16" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/filmes/filmes.html" timestamp="1487868635003">
-        <mark key="'" line="23" column="74" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="348" />
-        <mark key="." line="21" column="0" />
+      <file name="/tmp/fz3temp-1/database.php" timestamp="1491314609056">
+        <mark key="[" line="100" column="19" />
+        <mark key="]" line="100" column="24" />
       </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" timestamp="1491243012412">
         <mark key="'" line="0" column="0" />
@@ -265,12 +239,6 @@
         <mark key="]" line="54" column="11" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="50" column="38" />
-      </file>
-      <file name="$USER_HOME$/html/quiz/wp-config.php" timestamp="1488510634335">
-        <mark key="'" line="85" column="25" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/html/trajanoleiloes/application/views/template/sidebar.php" timestamp="1490839751552">
         <mark key="'" line="29" column="20" />
@@ -318,9 +286,9 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1489004748222">
-        <mark key="[" line="79" column="19" />
-        <mark key="]" line="79" column="23" />
+      <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1491314584319">
+        <mark key="[" line="100" column="19" />
+        <mark key="]" line="100" column="24" />
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="23" />
       </file>
@@ -495,8 +463,8 @@
       <register name="/" type="4">
         <text>description</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICQoJy5tc2dfdGV4dCcpLm9uKCdrZXlwcmVzcycsIGZ1bmN0aW9uKGUpIHsKICAgICAgICBpZiAoZS53aGljaCA9PSAxMykgewogICAgICAgICAgICAkKCAiLm1zZ19tZW50b3JhbmRvIiApLnRyaWdnZXIoICJjbGljayIgKTsKICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIH0KICAgIH0pOwo=</text>
+      <register name="0" type="4">
+        <text>mo1108</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
