@@ -61,10 +61,10 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="42" column="35" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" timestamp="1491335274250">
-        <mark key="'" line="18" column="97" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="22" column="21" />
+      <file name="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" timestamp="1491339828196">
+        <mark key="'" line="14" column="39" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="170" column="21" />
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="16" />
       </file>
@@ -204,6 +204,13 @@
         <mark key="]" line="81" column="30" />
         <mark key="." line="81" column="30" />
         <mark key="^" line="81" column="30" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/ativsys/public/views/itunes.html" timestamp="1491339859727">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="255" column="136" />
+        <mark key="]" line="255" column="148" />
+        <mark key="." line="255" column="148" />
+        <mark key="^" line="255" column="148" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/template-parts/share-quiz.php" timestamp="1490642540331">
         <mark key="'" line="38" column="0" />
@@ -386,8 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="37" filename="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" />
-      <jump line="390" column="35" filename="/tmp/fz3temp-1/page-teste.php" />
       <jump line="10" column="46" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
       <jump line="12" column="19" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
       <jump line="11" column="28" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
@@ -486,6 +491,8 @@
       <jump line="119" column="33" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
       <jump line="122" column="21" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
       <jump line="34" column="8" filename="$USER_HOME$/html/filmmelier/ativsys/public/config/routeConfig.js" />
+      <jump line="14" column="39" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/itunes.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -498,13 +505,13 @@
         <text encoding="base64">ICAgIHRoaXMuZ2V0RmlsbWVCeVBlcm1hbGluayA9IGZ1bmN0aW9uIChwZXJtYWxpbmspIHsKICAgICAgICByZXR1cm4gJGh0dHAuZ2V0KGNvbmZpZy5iYXNlVXJsKyJhcGkvZmlsbXMvcGVybWFsaW5rLyIrcGVybWFsaW5rKyI/dG9rZW49Iiskcm9vdFNjb3BlLnRva2VuKTsKICAgIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>+&quot;?token=&quot;+$rootScope.token</text>
+        <text>formDataFilme</text>
       </register>
       <register name="/" type="4">
-        <text>permalink</text>
+        <text>netflix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0RmlsbWVCeVBlcm1hbGluayA9IGZ1bmN0aW9uIChwZXJtYWxpbmspIHsKICAgICAgICByZXR1cm4gJGh0dHAuZ2V0KGNvbmZpZy5iYXNlVXJsKyJhcGkvZmlsbXMvcGVybWFsaW5rLyIrcGVybWFsaW5rKyI/dG9rZW49Iiskcm9vdFNjb3BlLnRva2VuKTsKICAgIH07Cg==</text>
+        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgoJCQkJCTxpbWcgc3JjPSIvYXNzZXRzL2ljb25zL2J0bi1hbWF6b24tcHJpbWUucG5nIiBzdHlsZT0iZmxvYXQ6IGxlZnQ7Ij4KCQkJCQk8aW5wdXQgdHlwZT0idGV4dCIgc3R5bGU9IndpZHRoOiA2MCU7IiBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0LWxnIiBwbGFjZWhvbGRlcj0iQW1hem9uIFByaW1lIFZpZGVvIiBuZy1tb2RlbD0iZm9ybURhdGFGaWxtZS5saW5rX2FtYXpvbiI+CgkJCQk8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCkK</text>
@@ -538,16 +545,14 @@
       </register>
     </registers>
     <search>
-      <last-search>permalink</last-search>
+      <last-search>netflix</last-search>
       <last-offset />
-      <last-pattern>permalink</last-pattern>
+      <last-pattern>netflix</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>quiz</entry>
-        <entry>redis</entry>
         <entry>#modalNewsLetter</entry>
         <entry>posts</entry>
         <entry>formPost</entry>
@@ -566,6 +571,8 @@
         <entry>films</entry>
         <entry>carrega</entry>
         <entry>permalink</entry>
+        <entry>Amazon Prime</entry>
+        <entry>netflix</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
