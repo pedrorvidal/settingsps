@@ -147,11 +147,11 @@
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/elixir.php" timestamp="1489602742330">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/value/configValue.js" timestamp="1489774791526">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="44" />
-        <mark key="." line="2" column="44" />
-        <mark key="^" line="2" column="44" />
+      <file name="$USER_HOME$/html/filmmelier/html/value/configValue.js" timestamp="1491318549321">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="$USER_HOME$/html/eureka/wp-config.php" timestamp="1491252072972">
         <mark key="[" line="29" column="23" />
@@ -344,6 +344,12 @@
       <file name="$USER_HOME$/html/dm9/backend/assets/js/script.min.js" timestamp="1489769335257">
         <mark key="'" line="22574" column="42" />
       </file>
+      <file name="$USER_HOME$/html/filmmelier/ativsys/public/value/configValue.js" timestamp="1491318675732">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-teste.php" timestamp="1490798190359">
         <mark key="'" line="471" column="37" />
       </file>
@@ -458,7 +464,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>mentorando</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>description</text>
@@ -503,7 +509,7 @@
       <last-offset />
       <last-pattern>description</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
