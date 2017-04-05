@@ -139,9 +139,9 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/templates/lista-filmes.html" timestamp="1490195836875">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="48" />
+      <file name="$USER_HOME$/html/filmmelier/html/views/templates/lista-filmes.html" timestamp="1491413150902">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="84" />
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
@@ -265,7 +265,7 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/ativsys/server.js" timestamp="1491336547811">
+      <file name="$USER_HOME$/html/filmmelier/ativsys/server.js" timestamp="1491413115495">
         <mark key="'" line="122" column="21" />
         <mark key="[" line="275" column="41" />
         <mark key="]" line="275" column="41" />
@@ -296,12 +296,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491406030630">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="58" column="64" />
-        <mark key="]" line="58" column="64" />
-        <mark key="^" line="58" column="69" />
-        <mark key="." line="58" column="64" />
+      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491414372604">
+        <mark key="'" line="63" column="62" />
+        <mark key="[" line="90" column="194" />
+        <mark key="]" line="90" column="194" />
+        <mark key="^" line="90" column="194" />
+        <mark key="." line="90" column="194" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/services/filmesAPIService.js" timestamp="1491337061074">
         <mark key="[" line="10" column="72" />
@@ -319,7 +319,7 @@
         <mark key="^" line="121" column="3" />
         <mark key="." line="121" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491405976371">
+      <file name="/Dummy.txt" timestamp="1491413104097">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -425,9 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="17" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
-      <jump line="112" column="22" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
-      <jump line="15" column="15" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="114" column="4" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="118" column="7" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="16" column="0" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
@@ -525,6 +522,9 @@
       <jump line="53" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" />
       <jump line="97" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
       <jump line="61" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
+      <jump line="58" column="70" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
+      <jump line="64" column="63" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
+      <jump line="63" column="62" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -537,55 +537,54 @@
         <text encoding="base64">ICAgIHRoaXMuZ2V0RmlsbWVCeVBlcm1hbGluayA9IGZ1bmN0aW9uIChwZXJtYWxpbmspIHsKICAgICAgICByZXR1cm4gJGh0dHAuZ2V0KGNvbmZpZy5iYXNlVXJsKyJhcGkvZmlsbXMvcGVybWFsaW5rLyIrcGVybWFsaW5rKyI/dG9rZW49Iiskcm9vdFNjb3BlLnRva2VuKTsKICAgIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRlc3Rl</text>
+        <text>item.</text>
       </register>
       <register name="/" type="4">
-        <text>outras listas</text>
+        <text>filter</text>
       </register>
       <register name="0" type="4">
-        <text>mo1108</text>
+        <text>| filter : {permalink: '!' + lista[0].permalink}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1GaWxtLmZpbmQoeyBvY3VsdG86IHsgJG5lOiB0cnVlIH0gfSwgZnVuY3Rpb24oZXJyLCBmaWxtKSB7LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9ImNoZWNrYm94Ij4KCQkJCQk8bGFiZWw+CgkJCQkJCTwhLS08aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImZpbG1lb2N1bHRvIiBuZy1tb2RlbD0iZm9ybURhdGFGaWxtZS5vY3VsdG8iIG5nLWNsaWNrPSIvL3VwZGF0ZVNlbGVjdGlvbigkaW5kZXgsIGZpbG1lcykiPi0tPgoJCQkJCQk8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImZpbG1lb2N1bHRvIiBuZy1tb2RlbD0iZm9ybURhdGFGaWxtZS5vY3VsdG8iPiBGaWxtZSBvY3VsdG8KCQkJCQkJPGJyPgoJCQkJCTwvbGFiZWw+CgkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJPCEtLXt7Zm9ybURhdGFGaWxtZS5vY3VsdG99fS0tPgo=</text>
+        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9ImNoZWNrYm94Ij4KCQkJCQk8bGFiZWw+CgkJCQkJCTwhLS08aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImZpbG1lb2N1bHRvIiBuZy1tb2RlbD0iZm9ybURhdGFGaWxtZS5vY3VsdG8iIG5nLWNsaWNrPSIvL3VwZGF0ZVNlbGVjdGlvbigkaW5kZXgsIGZpbG1lcykiPi0tPgoJCQkJCQk8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImZpbG1lb2N1bHRvIiBuZy1tb2RlbD0iZm9ybURhdGFGaWxtZS5vY3VsdG8iPiBGaWxtZSBvY3VsdG8KCQkJCQkJPGJyPgoJCQkJCTwvbGFiZWw+CgkJCQk8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJPCEtLXt7Zm9ybURhdGFGaWxtZS5vY3VsdG99fS0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygkc2NvcGUuZm9ybURhdGFGaWxtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZygkc2NvcGUuZm9ybURhdGFGaWxtZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJLy8gY29uc29sZS5sb2coJHNjb3BlLmZvcm1EYXRhRmlsbWUuJHZhbGlkKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PHRkPjwvdGQ+</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJmaWxtZW9jdWx0byIgbmctbW9kZWw9ImZvcm1EYXRhRmlsbWUub2N1bHRvIj4=</text>
+        <text encoding="base64">PHRkPjwvdGQ+</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PHRkPjwvdGQ+</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJmaWxtZW9jdWx0byIgbmctbW9kZWw9ImZvcm1EYXRhRmlsbWUub2N1bHRvIj4=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>outras listas</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>outras listas</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>posts</entry>
         <entry>formPost</entry>
         <entry>function muralMentorado</entry>
         <entry>Filtro</entry>
@@ -605,6 +604,7 @@
         <entry>Amazon Prime</entry>
         <entry>netflix</entry>
         <entry>outras listas</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
