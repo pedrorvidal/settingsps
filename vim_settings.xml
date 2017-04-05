@@ -296,12 +296,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491416326674">
+      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491419262035">
         <mark key="'" line="63" column="62" />
         <mark key="[" line="88" column="197" />
-        <mark key="]" line="88" column="198" />
-        <mark key="^" line="90" column="194" />
-        <mark key="." line="88" column="198" />
+        <mark key="]" line="88" column="197" />
+        <mark key="^" line="88" column="197" />
+        <mark key="." line="88" column="197" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/services/filmesAPIService.js" timestamp="1491337061074">
         <mark key="[" line="10" column="72" />
@@ -537,7 +537,7 @@
         <text encoding="base64">ICAgIHRoaXMuZ2V0RmlsbWVCeVBlcm1hbGluayA9IGZ1bmN0aW9uIChwZXJtYWxpbmspIHsKICAgICAgICByZXR1cm4gJGh0dHAuZ2V0KGNvbmZpZy5iYXNlVXJsKyJhcGkvZmlsbXMvcGVybWFsaW5rLyIrcGVybWFsaW5rKyI/dG9rZW49Iiskcm9vdFNjb3BlLnRva2VuKTsKICAgIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>item.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
