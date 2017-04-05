@@ -252,8 +252,8 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" timestamp="1487708726753">
-        <mark key="'" line="31" column="48" />
+      <file name="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" timestamp="1491405100190">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="^" line="63" column="16" />
@@ -295,6 +295,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491405125710">
+        <mark key="'" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/services/filmesAPIService.js" timestamp="1491337061074">
         <mark key="[" line="10" column="72" />
@@ -418,8 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="46" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
-      <jump line="12" column="19" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
       <jump line="11" column="28" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
       <jump line="119" column="17" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="112" column="22" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
@@ -518,6 +519,8 @@
       <jump line="34" column="8" filename="$USER_HOME$/html/filmmelier/ativsys/public/config/routeConfig.js" />
       <jump line="14" column="39" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" />
       <jump line="0" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/itunes.html" />
+      <jump line="53" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" />
+      <jump line="97" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
