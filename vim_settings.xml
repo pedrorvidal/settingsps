@@ -296,8 +296,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491405125710">
-        <mark key="'" line="97" column="0" />
+      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491406030630">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="58" column="64" />
+        <mark key="]" line="58" column="64" />
+        <mark key="^" line="58" column="69" />
+        <mark key="." line="58" column="64" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/services/filmesAPIService.js" timestamp="1491337061074">
         <mark key="[" line="10" column="72" />
@@ -315,7 +319,7 @@
         <mark key="^" line="121" column="3" />
         <mark key="." line="121" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491399510365">
+      <file name="/Dummy.txt" timestamp="1491405976371">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -421,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="28" filename="$USER_HOME$/html/filmmelier/html/serverfront.js" />
       <jump line="119" column="17" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="112" column="22" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="15" column="15" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
@@ -521,6 +524,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/itunes.html" />
       <jump line="53" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" />
       <jump line="97" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
+      <jump line="61" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -533,10 +537,10 @@
         <text encoding="base64">ICAgIHRoaXMuZ2V0RmlsbWVCeVBlcm1hbGluayA9IGZ1bmN0aW9uIChwZXJtYWxpbmspIHsKICAgICAgICByZXR1cm4gJGh0dHAuZ2V0KGNvbmZpZy5iYXNlVXJsKyJhcGkvZmlsbXMvcGVybWFsaW5rLyIrcGVybWFsaW5rKyI/dG9rZW49Iiskcm9vdFNjb3BlLnRva2VuKTsKICAgIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>formDataFilme</text>
+        <text encoding="base64">IHRlc3Rl</text>
       </register>
       <register name="/" type="4">
-        <text>netflix</text>
+        <text>outras listas</text>
       </register>
       <register name="0" type="4">
         <text>mo1108</text>
@@ -573,15 +577,14 @@
       </register>
     </registers>
     <search>
-      <last-search>netflix</last-search>
+      <last-search>outras listas</last-search>
       <last-offset />
-      <last-pattern>netflix</last-pattern>
+      <last-pattern>outras listas</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>#modalNewsLetter</entry>
         <entry>posts</entry>
         <entry>formPost</entry>
         <entry>function muralMentorado</entry>
@@ -601,6 +604,7 @@
         <entry>permalink</entry>
         <entry>Amazon Prime</entry>
         <entry>netflix</entry>
+        <entry>outras listas</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
