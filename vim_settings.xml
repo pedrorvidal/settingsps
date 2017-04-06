@@ -299,12 +299,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491427378018">
-        <mark key="'" line="64" column="62" />
-        <mark key="[" line="85" column="16" />
-        <mark key="]" line="85" column="101" />
-        <mark key="." line="85" column="16" />
-        <mark key="^" line="85" column="15" />
+      <file name="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" timestamp="1491485554254">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="4" />
+        <mark key="." line="106" column="4" />
+        <mark key="^" line="105" column="9" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/services/filmesAPIService.js" timestamp="1491337061074">
         <mark key="[" line="10" column="72" />
@@ -428,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="7" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/html/filmmelier/html/controllers/newsletterCtrl.js" />
       <jump line="9" column="43" filename="$USER_HOME$/html/trajanoleiloes/application/controllers/pre_leiloes.php" />
       <jump line="22" column="32" filename="$USER_HOME$/html/trajanoleiloes/application/controllers/pre_leiloes.php" />
       <jump line="174" column="13" filename="$USER_HOME$/html/trajanoleiloes/application/views/template/header.php" />
@@ -526,8 +524,10 @@
       <jump line="61" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
       <jump line="58" column="70" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
       <jump line="64" column="63" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
-      <jump line="63" column="62" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
       <jump line="108" column="34" filename="$USER_HOME$/html/filmmelier/html/config/routeConfig.js" />
+      <jump line="63" column="5" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
+      <jump line="98" column="31" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
+      <jump line="87" column="0" filename="$USER_HOME$/html/filmmelier/html/views/listas/lista-interna.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -543,52 +543,51 @@
         <text>-lista-interna</text>
       </register>
       <register name="/" type="4">
-        <text>lista\/:permalink</text>
+        <text encoding="base64">PDw8PDw=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzY29wZS5saXN0YXNTaWRlYmFyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9InB1bGwtcmlnaHQgdmlzaWJsZS1sZyI+PGEgaHJlZj0iL2xpc3RhcyI+dmVyIG1haXM8L2E+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQkJPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIFRVIE5BTyBBQ0hBIFFVRSBBIERFSUEgRVNUw4EgTVVJVE8gQ0FMQURBIEhPSkU/CgkvLyBbICBdIFNJTQoJLy8gWyAgXSBOQU8KCS8vIFsgIF0gVE9NQVJBIFFVRSBNT1JSQQo=</text>
+        <text encoding="base64">PT09PT09PQoJCQk8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgoJCQkJPGRpdiBjbGFzcz0ibGlzdCI+CgkJCQkJPGRpdiBjbGFzcz0icm93Ij4KCQkJCQkJPGRpdiBjbGFzcz0iY29sLXhzLTEyIGNvbC1zbS02IGNvbC14cy0xMiBjb2wtbWQtNCBjb2wtbGctNCBpdGVtIiBzdHlsZT0ibWFyZ2luLXRvcDogMTBweCIgbmctcmVwZWF0PSJpdGVtIGluIGxpc3RhcyI+CgkJCQkJCQk8YSBocmVmPSIvbGlzdGEve3tpdGVtLnBlcm1hbGlua319Ij4KCQkJCQkJCQk8ZGl2IGNsYXNzPSJodnItc3dlZXAtdG8tcmlnaHQgaXRlbS1saXN0YS1pbnRlcm5hIiBzdHlsZT0iYmFja2dyb3VuZC1pbWFnZTogdXJsKCd7e2l0ZW0uaW1hZ2VfYmdfdGh1bWJ9fScpOyI+CgkJCQkJCQkJCTxkaXYgY2xhc3M9InRpdGxlLWxpc3RhIj4KCQkJCQkJCQkJCTxwPjxzcGFuPnt7aXRlbS50aXR1bG99fTwvc3Bhbj48L3A+CgkJCQkJCQkJCTwvZGl2Pgo+Pj4+Pj4+IGE3MmQ3ZjY3ZTI1YjFkOTNmZjRiZDFlOGMyOTdjNTljOWIwNTNjOTcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICRzY29wZS5saXN0YXNWZWphdGFtYmVtID0gJC5ncmVwKCRzY29wZS5saXN0YXMsIGZ1bmN0aW9uKGVsLCBpKSB7CiAgICAvLyAJcmV0dXJuCiAgICAvLyB9KTsKICAgIC8vJHNjb3BlLnNlbGVjYW9EaXJldG9yZXMgPSBzZWxlY2FvRGlyZXRvcmVzOwo=</text>
+        <text encoding="base64">PT09PT09PQoJPHNlY3Rpb24gY2xhc3M9ImNvbnRhaW5lciBjb250YWluZXItc29mYSB2ZWphLXRhbWJlbSIgc3R5bGU9Im1hcmdpbi10b3A6IDQwcHgiPgoJCTxkaXYgY2xhc3M9InJvdyI+CgkJCTxkaXYgY2xhc3M9ImNvbC14cy0xMiBjb2wtc20tMTIgY29sLWxnLTEyIj4KCQkJCTxkaXYgY2xhc3M9Im1lbnUtdGl0bGUtbGlzdGEtaW50ZXJuYSI+CgkJCQkJPHNwYW4gY2xhc3M9InB1bGwtbGVmdCB0aXRsZSI+VmVqYSB0YW1iw6ltPC9zcGFuPgoJCQkJPC9kaXY+Cj4+Pj4+Pj4gYTcyZDdmNjdlMjViMWQ5M2ZmNGJkMWU4YzI5N2M1OWM5YjA1M2M5Nwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5saXN0YXNTaWRlYmFyID0gJC5ncmVwKGxpc3RhcywgZnVuY3Rpb24oZWwsIGkpIHsKICAgIAlyZXR1cm4gZWwucGVybWFsaW5rICE9ICRyb3V0ZVBhcmFtcy5wZXJtYWxpbms7Cgl9KTsKCiAgICAkc2NvcGUubGltaXRTaWRlYmFyID0gMTA7CiAgICAkc2NvcGUubGltaXRWZWphVGFtYmVtID0gOTsKICAgICRzY29wZS5saXN0YXNWZWphVGFtYmVtID0gJHNjb3BlLmxpc3Rhc1NpZGViYXIuc2xpY2UoJHNjb3BlLmxpbWl0U2lkZWJhciwgJHNjb3BlLmxpc3Rhc1ZlamFUYW1iZW0pOwogICAgLy8gJHNjb3BlLmxpc3Rhc1ZlamF0YW1iZW0gPSAkLmdyZXAoJHNjb3BlLmxpc3RhcywgZnVuY3Rpb24oZWwsIGkpIHsKCS8vIAlyZXR1cm4KCS8vIH0pOwoJLy8kc2NvcGUuc2VsZWNhb0RpcmV0b3JlcyA9IHNlbGVjYW9EaXJldG9yZXM7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5saXN0YXNTaWRlYmFyID0gJC5ncmVwKGxpc3RhcywgZnVuY3Rpb24oZWwsIGkpIHsKICAgIAlyZXR1cm4gZWwucGVybWFsaW5rICE9ICRyb3V0ZVBhcmFtcy5wZXJtYWxpbms7Cgl9KTsKCiAgICAkc2NvcGUubGltaXRTaWRlYmFyID0gMTA7CiAgICAkc2NvcGUubGltaXRWZWphVGFtYmVtID0gOTsKICAgICRzY29wZS5saXN0YXNWZWphVGFtYmVtID0gJHNjb3BlLmxpc3Rhc1NpZGViYXIuc2xpY2UoJHNjb3BlLmxpbWl0U2lkZWJhciwgJHNjb3BlLmxpc3Rhc1ZlamFUYW1iZW0pOwo=</text>
+        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzY29wZS5saXN0YXNTaWRlYmFyKTsK</text>
+        <text encoding="base64">PT09PT09PQoJCQkJPGRpdiBjbGFzcz0iY29sLWxnLTEyIiBuZy1yZXBlYXQ9Iml0ZW0gaW4gbGlzdGFzIj4KCQkJCQk8ZGl2IHN0eWxlPSJtYXJnaW4tYm90dG9tOiAyMHB4Ij4KCQkJCQkJPGEgaHJlZj0iL2xpc3RhL3t7aXRlbS5wZXJtYWxpbmt9fSI+CgkJCQkJCQk8ZGl2IGNsYXNzPSJodnItc3dlZXAtdG8tcmlnaHQgaXRlbS1saXN0YS1pbnRlcm5hIiBzdHlsZT0iYmFja2dyb3VuZC1pbWFnZTogdXJsKCd7e2l0ZW0uaW1hZ2VfYmdfdGh1bWJ9fScpOyBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0OyBoZWlnaHQ6IDI1OHB4OyB3aWR0aDogMTAwJTsgYmFja2dyb3VuZC1wb3NpdGlvbjogNTAlIGNlbnRlcjsgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsiPgoJCQkJCQkJCTxkaXYgY2xhc3M9InRpdGxlLWxpc3RhIj4KCQkJCQkJCQkJPHA+PHNwYW4+e3tpdGVtLnRpdHVsb319PC9zcGFuPjwvcD4KCQkJCQkJCQk8L2Rpdj4KPj4+Pj4+PiBhNzJkN2Y2N2UyNWIxZDkzZmY0YmQxZThjMjk3YzU5YzliMDUzYzk3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnNvbGUubAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>lista\/:permalink</last-search>
+      <last-search encoding="base64">PDw8PDw=</last-search>
       <last-offset />
-      <last-pattern>lista\/:permalink</last-pattern>
+      <last-pattern encoding="base64">PDw8PDw=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>function muralMentorado</entry>
         <entry>Filtro</entry>
         <entry>fs_method</entry>
         <entry>method</entry>
@@ -608,6 +607,7 @@
         <entry>outras listas</entry>
         <entry>filter</entry>
         <entry>lista\/:permalink</entry>
+        <entry encoding="base64">PDw8PDw=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
