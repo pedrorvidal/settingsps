@@ -373,12 +373,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491590551897">
-        <mark key="'" line="356" column="0" />
-        <mark key="[" line="1101" column="21" />
-        <mark key="]" line="1102" column="11" />
-        <mark key="^" line="1102" column="11" />
-        <mark key="." line="1102" column="11" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491593392343">
+        <mark key="'" line="422" column="33" />
+        <mark key="[" line="1111" column="0" />
+        <mark key="]" line="1111" column="12" />
+        <mark key="." line="1111" column="12" />
+        <mark key="^" line="1088" column="42" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1490277723100">
         <mark key="'" line="193" column="51" />
@@ -439,19 +439,14 @@
         <mark key="." line="200" column="46" />
         <mark key="^" line="200" column="46" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491589750899">
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491592532784">
         <mark key="'" line="113" column="24" />
-        <mark key="[" line="399" column="0" />
-        <mark key="]" line="399" column="0" />
+        <mark key="[" line="318" column="46" />
+        <mark key="]" line="318" column="62" />
         <mark key="." line="399" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="14" column="37" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
-      <jump line="26" column="57" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="57" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
-      <jump line="20" column="39" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
       <jump line="82" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
       <jump line="79" column="30" filename="/tmp/fz3temp-1/header.php" />
       <jump line="33" column="0" filename="/tmp/fz3temp-1/header.php" />
@@ -547,6 +542,11 @@
       <jump line="497" column="38" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="1073" column="13" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="356" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="449" column="72" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="1066" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="320" column="23" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="346" column="24" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="422" column="33" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -559,57 +559,54 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>criado</text>
+        <text>nonce</text>
       </register>
       <register name="/" type="4">
-        <text>wp_die</text>
+        <text>user_meta</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlhamF4U3RhdHVzKCdlcnJvcicsICdOYWRhIHBhcmEgYXR1YWxpemFyLicpOwo=</text>
+      <register name="0" type="4">
+        <text>af_insc_seminario</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+YWRkX3JvbGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoICdPb29wcywgc29tZXRoaW5nIHdlbnQgd3JvbmcsIHBsZWFzZSB0cnkgYWdhaW4gbGF0ZXIuJyApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoICdPb29wcywgc29tZXRoaW5nIHdlbnQgd3JvbmcsIHBsZWFzZSB0cnkgYWdhaW4gbGF0ZXIuJyApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoICdPb29wcywgc29tZXRoaW5nIHdlbnQgd3JvbmcsIHBsZWFzZSB0cnkgYWdhaW4gbGF0ZXIuJyApOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQllY2hvICI8cHJlPiI7CgkJdmFyX2R1bXAoJGRhdGFbJ25vbWUnXSk7CgkJZWNobyAiPC9wcmU+IjsKCQlkaWUoJ2ZpbScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoICdPb29wcywgc29tZXRoaW5nIHdlbnQgd3JvbmcsIHBsZWFzZSB0cnkgYWdhaW4gbGF0ZXIuJyApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>wp_die</last-search>
+      <last-search>user_meta</last-search>
       <last-offset />
-      <last-pattern>wp_die</last-pattern>
+      <last-pattern>user_meta</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
-        <entry>films</entry>
-        <entry>carrega</entry>
         <entry>permalink</entry>
         <entry>Amazon Prime</entry>
         <entry>netflix</entry>
@@ -627,6 +624,9 @@
         <entry>form</entry>
         <entry>ajax</entry>
         <entry>wp_die</entry>
+        <entry>nonce</entry>
+        <entry>update_user</entry>
+        <entry>user_meta</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
