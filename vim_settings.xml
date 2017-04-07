@@ -213,8 +213,8 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-quero-contribuir.php" timestamp="1491513473398">
-        <mark key="'" line="77" column="60" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-quero-contribuir.php" timestamp="1491567414851">
+        <mark key="'" line="94" column="28" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="90" column="13" />
         <mark key="." line="78" column="4" />
@@ -415,16 +415,15 @@
         <mark key="." line="200" column="46" />
         <mark key="^" line="200" column="46" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491565216497">
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491567467137">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="83" column="31" />
-        <mark key="]" line="83" column="44" />
-        <mark key="." line="83" column="44" />
-        <mark key="^" line="83" column="44" />
+        <mark key="[" line="106" column="43" />
+        <mark key="]" line="106" column="43" />
+        <mark key="." line="106" column="43" />
+        <mark key="^" line="106" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="4" filename="$USER_HOME$/html/dm9/backend/assets/front/js/dev.js" />
       <jump line="537" column="6" filename="$USER_HOME$/html/dm9/backend/assets/front/js/dev.js" />
       <jump line="32" column="26" filename="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" />
       <jump line="9" column="16" filename="$USER_HOME$/html/dm9/backend/application/controllers/Home.php" />
@@ -524,6 +523,7 @@
       <jump line="24" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
       <jump line="111" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/sass/pages/_quero-contribuir.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/sass/pages/_quero-contribuir.scss" />
+      <jump line="94" column="28" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-quero-contribuir.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -536,7 +536,7 @@
         <text encoding="base64">ICAgIHRoaXMuZ2V0RmlsbWVCeVBlcm1hbGluayA9IGZ1bmN0aW9uIChwZXJtYWxpbmspIHsKICAgICAgICByZXR1cm4gJGh0dHAuZ2V0KGNvbmZpZy5iYXNlVXJsKyJhcGkvZmlsbXMvcGVybWFsaW5rLyIrcGVybWFsaW5rKyI/dG9rZW49Iiskcm9vdFNjb3BlLnRva2VuKTsKICAgIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1em</text>
+        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5Om5vbmUi</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
