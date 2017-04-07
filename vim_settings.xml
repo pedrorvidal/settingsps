@@ -435,12 +435,12 @@
         <mark key="." line="200" column="46" />
         <mark key="^" line="200" column="46" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491575776346">
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491576646003">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="326" column="40" />
-        <mark key="." line="326" column="40" />
-        <mark key="^" line="326" column="40" />
+        <mark key="[" line="332" column="52" />
+        <mark key="]" line="332" column="66" />
+        <mark key="." line="332" column="66" />
+        <mark key="^" line="332" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -556,7 +556,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>else { //não null</text>
+        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5OiBub25lOyI=</text>
       </register>
       <register name="/" type="4">
         <text>intro</text>
