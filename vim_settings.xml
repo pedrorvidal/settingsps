@@ -280,11 +280,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491585041654">
-        <mark key="'" line="8" column="27" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="51" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491588119194">
+        <mark key="'" line="34" column="29" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="50" />
+        <mark key="." line="39" column="50" />
+        <mark key="^" line="39" column="50" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/ativsys/server.js" timestamp="1491413115495">
         <mark key="'" line="122" column="21" />
@@ -345,7 +346,11 @@
         <mark key="^" line="121" column="3" />
         <mark key="." line="121" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491584288439">
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/modules/poll.js" timestamp="1491587939415">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="30" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491587779765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -368,12 +373,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491242344425">
-        <mark key="'" line="1036" column="20" />
-        <mark key="[" line="1036" column="0" />
-        <mark key="]" line="1065" column="47" />
-        <mark key="." line="1028" column="0" />
-        <mark key="^" line="1027" column="0" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491590551897">
+        <mark key="'" line="356" column="0" />
+        <mark key="[" line="1101" column="21" />
+        <mark key="]" line="1102" column="11" />
+        <mark key="^" line="1102" column="11" />
+        <mark key="." line="1102" column="11" />
       </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/page-quiz.php" timestamp="1490277723100">
         <mark key="'" line="193" column="51" />
@@ -434,25 +439,14 @@
         <mark key="." line="200" column="46" />
         <mark key="^" line="200" column="46" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491585150584">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="92" column="15" />
-        <mark key="." line="113" column="65" />
-        <mark key="^" line="113" column="65" />
+      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491589750899">
+        <mark key="'" line="113" column="24" />
+        <mark key="[" line="399" column="0" />
+        <mark key="]" line="399" column="0" />
+        <mark key="." line="399" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="1" filename="$USER_HOME$/html/dm9/backend/assets/front/css/style.min.css" />
-      <jump line="21" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="1046" column="29" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="955" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="907" column="34" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="31" column="4" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
-      <jump line="23" column="64" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="16" column="46" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="78" column="0" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="91" column="66" filename="/tmp/fz3temp-1/header.php" />
       <jump line="86" column="0" filename="/tmp/fz3temp-1/header.php" />
       <jump line="14" column="37" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
       <jump line="26" column="57" filename="/tmp/fz3temp-1/header.php" />
@@ -519,7 +513,6 @@
       <jump line="366" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
       <jump line="62" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
       <jump line="66" column="19" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
-      <jump line="73" column="7" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
       <jump line="1" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/sass/pages/_inscricao-seminario.scss" />
       <jump line="659" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/sass/pages/_inscricao-seminario.scss" />
       <jump line="65" column="41" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
@@ -543,6 +536,17 @@
       <jump line="8" column="27" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
       <jump line="717" column="4" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/sass/pages/_inscricao-seminario.scss" />
       <jump line="730" column="22" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/sass/pages/_inscricao-seminario.scss" />
+      <jump line="412" column="44" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="71" column="24" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="73" column="226" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="91" column="324" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="113" column="24" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="35" column="29" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
+      <jump line="1038" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="497" column="38" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="1073" column="13" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="356" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -555,57 +559,54 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>criado</text>
       </register>
       <register name="/" type="4">
-        <text>intro</text>
+        <text>wp_die</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9InRleHRvLWluc2NyaWNhby1zZW1pbmFyaW8iPgogICAgICAgICAgICAgICAgTyBTZW1pbsOhcmlvIHNlcsOhIHJlYWxpemFkbyBub3MgZGlhcyAyOSBlIDMwIGRlIG1haW8gbm8gSG90ZWwgUmVuYWlzc2FuY2UgLSBTw6NvIFBhdWxvIC0gZSBhIHBhcnRpY2lwYcOnw6NvIMOpIGFiZXJ0YSBhbyBww7pibGljbyBpbnRlcmVzc2Fkby4gQXMgdmFnYXMsIHBvcsOpbSwgc8OjbyBsaW1pdGFkYXMgZSBhcyBpbnNjcmnDp8O1ZXMgZXN0YXLDo28gYWJlcnRhcyBhIHBhcnRpciBkZSBNYWlvLiBQcmVlbmNoYSBvIGZvcm11bMOhcmlvIGFiYWl4byBjb20gc2V1cyBkYWRvcyBlIGdhcmFudGEgYSBzdWEgcHLDqS1pbnNjcmnDp8OjbyBwYXJhIG8gU2VtaW7DoXJpby4KICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">CQlhamF4U3RhdHVzKCdlcnJvcicsICdOYWRhIHBhcmEgYXR1YWxpemFyLicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnRleHRvLWluc2NyaWNhby1zZW1pbmFyaW8nKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnRleHRvLWluc2NyaWNhby1zZW1pbmFyaW8nKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoICdPb29wcywgc29tZXRoaW5nIHdlbnQgd3JvbmcsIHBsZWFzZSB0cnkgYWdhaW4gbGF0ZXIuJyApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLmNhZGFzdHJvLW5hby1hc3NvY2lhZG8nKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnByZS1jYWRhc3Ryby1zZW1pbmFyaW8nKS5oaWRlKCk7CiAgICAgICAgICAgICQoJy5wcmUtY2FkYXN0cm8tc2VtaW5hcmlvJykuaGlkZSgpOwogICAgICAgICAgICAkKCcucHJlLWNhZGFzdHJvLXNlbWluYXJpbycpLmhpZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoICdPb29wcywgc29tZXRoaW5nIHdlbnQgd3JvbmcsIHBsZWFzZSB0cnkgYWdhaW4gbGF0ZXIuJyApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLicpLmhpZGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgICAgICAKCg==</text>
+        <text encoding="base64">CQllY2hvICI8cHJlPiI7CgkJdmFyX2R1bXAoJGRhdGFbJ25vbWUnXSk7CgkJZWNobyAiPC9wcmU+IjsKCQlkaWUoJ2ZpbScpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbCBtZC02IGZpZWxkLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9ImFyZWEtbG90YWNhbyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImxhYmVsIj5Mb2NhbCBkZSBleGVyY8OtY2lvOjwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJpbmxpbmUtZmllbGQiPgoJCQkJCQkJCQkJPHNwYW4gY2xhc3M9Im5pY2UtcmFkaW8iPgoJCQkJCQkJCQkJCTxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0idG9nZ2xlX2xvdGFjYW8iIHZhbHVlPSJjYXRfZ2FiaW5ldGUiIHJlcXVpcmVkPgoJCQkJCQkJCQkJCTxzcGFuIGNsYXNzPSJzdGF0ZSI+PC9zcGFuPgoJCQkJCQkJCQkJCUNBVAoJCQkJCQkJCQkJPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJpbmxpbmUtZmllbGQiPgoJCQkJCQkJCQkJPHNwYW4gY2xhc3M9Im5pY2UtcmFkaW8iPgoJCQkJCQkJCQkJCTxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0idG9nZ2xlX2xvdGFjYW8iIHZhbHVlPSJjdGciIHJlcXVpcmVkPgoJCQkJCQkJCQkJCTxzcGFuIGNsYXNzPSJzdGF0ZSI+PC9zcGFuPgoJCQkJCQkJCQkJCUNURwoJCQkJCQkJCQkJPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgLyogPz48bGFiZWwgY2xhc3M9ImlubGluZS1maWVsZCI+CgkJCQkJCQkJCQk8c3BhbiBjbGFzcz0ibmljZS1yYWRpbyI+CgkJCQkJCQkJCQkJPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJ0b2dnbGVfbG90YWNhbyIgdmFsdWU9ImRydCIgcmVxdWlyZWQ+CgkJCQkJCQkJCQkJPHNwYW4gY2xhc3M9InN0YXRlIj48L3NwYW4+CgkJCQkJCQkJCQkJRFJUcy9EVEpzCgkJCQkJCQkJCQk8L3NwYW4+CgkJCQkJCQkJCTwvbGFiZWw+PD9waHAgKi8gPz4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIGZpZWxkLXdyYXBwZXIgZmllbGQtdG9nZ2xlIiBpZD0iY2F0X2dhYmluZXRlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iQ0FUIEdhYmluZXRlIj5DQVQgR2FiaW5ldGU8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJDVCI+Q1Q8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJERUFUIj5ERUFUPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iREVURUMiPkRFVEVDPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iREEiPkRBPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iREkiPkRJPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iRFJGIj5EUkY8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEUlQvRFRKIj5EUlQvRFRKPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iVElUIj5USVQ8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIGZpZWxkLXdyYXBwZXIgZmllbGQtdG9nZ2xlIiBpZD0iY3RnIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iQ0dUIEdhYmluZXRlIj5DR1QgR2FiaW5ldGU8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJGQVpFU1AiPkZBWkVTUDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRUSSI+RFRJPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIGZpZWxkLXdyYXBwZXIiIGlkPSJkcnQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IG5hbWU9InN1YmFyZWFkcnQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iRFJUQzEgLSBTw6NvIFBhdWxvIj5EUlRDMSAtIFPDo28gUGF1bG88L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRSVEMyIC0gU8OjbyBQYXVsbyI+RFJUQzIgLSBTw6NvIFBhdWxvPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEUlRDMyAtIFPDo28gUGF1bG8iPkRSVEMzIC0gU8OjbyBQYXVsbzwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iRFJUIDIgLSBMaXRvcmFsIj5EUlQgMiAtIExpdG9yYWw8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRSVCAzIC0gVmFsZSBkbyBQYXJhw61iYSI+RFJUIDMgLSBWYWxlIGRvIFBhcmHDrWJhPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEUlQgNCAtIFNvcm9jYWJhIj5EUlQgNCAtIFNvcm9jYWJhPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEUlQgNSAtIENhbXBpbmFzIj5EUlQgNSAtIENhbXBpbmFzPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEUlQgNiAtIFJpYmVpcsOjbyBQcmV0byI+RFJUIDYgLSBSaWJlaXLDo28gUHJldG88L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRSVCA3IC0gQmF1cnUiPkRSVCA3IC0gQmF1cnU8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRSVCA4IC0gU8OjbyBKb3PDqSBkbyBSaW8gUHJldG8iPkRSVCA4IC0gU8OjbyBKb3PDqSBkbyBSaW8gUHJldG88L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRSVCA5IC0gQXJhw6dhdHViYSI+RFJUIDkgLSBBcmHDp2F0dWJhPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEUlQgMTAgLSBQcmVzaWRlbnRlIFBydWRlbnRlIj5EUlQgMTAgLSBQcmVzaWRlbnRlIFBydWRlbnRlPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEUlQgMTEgLSBNYXLDrWxpYSI+RFJUIDExIC0gTWFyw61saWE8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRSVCAxMiAtIEFCQ0QiPkRSVCAxMiAtIEFCQ0Q8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRSVCAxMyAtIEd1YXJ1bGhvcyI+RFJUIDEzIC0gR3VhcnVsaG9zPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEUlQgMTQgLSBPc2FzY28iPkRSVCAxNCAtIE9zYXNjbzwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iRFJUIDE1IC0gQXJhcmFxdWFyYSI+RFJUIDE1IC0gQXJhcmFxdWFyYTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iRFJUIDE2IC0gSnVuZGlhw60iPkRSVCAxNiAtIEp1bmRpYcOtPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sIG1kLTYiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkLWdyb3VwIGZpZWxkLXdyYXBwZXIiIGlkPSJzdGF0dXMtd3JhcHBlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImxhYmVsIj5TdGF0dXM6PC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImlubGluZS1maWVsZCI+CgkJCQkJCQkJCQk8c3BhbiBjbGFzcz0ibmljZS1yYWRpbyI+CgkJCQkJCQkJCQkJPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJzdGF0dXMtdG9nZ2xlIiB2YWx1ZT0iQXRpdm8iIHJlcXVpcmVkPgoJCQkJCQkJCQkJCTxzcGFuIGNsYXNzPSJzdGF0ZSI+PC9zcGFuPgoJCQkJCQkJCQkJCUF0aXZvCgkJCQkJCQkJCQk8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaW5saW5lLWZpZWxkIj4KCQkJCQkJCQkJCTxzcGFuIGNsYXNzPSJuaWNlLXJhZGlvIj4KCQkJCQkJCQkJCQk8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN0YXR1cy10b2dnbGUiIHZhbHVlPSJBcG9zZW50YWRvIiByZXF1aXJlZD4KCQkJCQkJCQkJCQk8c3BhbiBjbGFzcz0ic3RhdGUiPjwvc3Bhbj4KCQkJCQkJCQkJCQlBcG9zZW50YWRvCgkJCQkJCQkJCQk8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkLWdyb3VwIGZpZWxkLXRvZ2dsZSBmaWVsZC13cmFwcGVyIiBpZD0iYXRpdmlkYWRlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibGFiZWwiPkF0aXZpZGFkZTo8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImhpZGRlbi1maWVsZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN0YXR1cyIgdmFsdWU9IkFwb3NlbnRhZG8iIGlkPSJpbnB1dC1hcG9zZW50YWRvIiBjaGVja2VkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaW5saW5lLWZpZWxkIj4KCQkJCQkJCQkJCTxzcGFuIGNsYXNzPSJuaWNlLXJhZGlvIj4KCQkJCQkJCQkJCQk8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN0YXR1cyIgdmFsdWU9IkF0aXZvIC0gSW50ZXJubyI+CgkJCQkJCQkJCQkJPHNwYW4gY2xhc3M9InN0YXRlIj48L3NwYW4+CgkJCQkJCQkJCQkJSW50ZXJuYQoJCQkJCQkJCQkJPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImlubGluZS1maWVsZCI+CgkJCQkJCQkJCQk8c3BhbiBjbGFzcz0ibmljZS1yYWRpbyI+CgkJCQkJCQkJCQkJPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJzdGF0dXMiIHZhbHVlPSJBdGl2byAtIEZpc2NhbGl6YcOnw6NvIERpcmV0YSBkZSBUcmlidXRvcyI+CgkJCQkJCQkJCQkJPHNwYW4gY2xhc3M9InN0YXRlIj48L3NwYW4+CgkJCQkJCQkJCQkJRmlzY2FsaXphw6fDo28gRGlyZXRhIGRlIFRyaWJ1dG9zCgkJCQkJCQkJCQk8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmaWVsZCBmaWVsZC10b2dnbGUgZmllbGQtd3JhcHBlciIgaWQ9ImZ1bmNhby13cmFwcGVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgbmFtZT0iYXRpdmlkYWRlIiBpZD0iZnVuY2FvIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJDb29yZGVuYWRvciI+Q29vcmRlbmFkb3I8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEaXJldG9yIj5EaXJldG9yPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iRGVsZWdhZG9zIC0gRFJUL0RUSiI+RGVsZWdhZG9zIC0gRFJUL0RUSjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkNoZWZlcyBkZSBVbmlkYWRlIj5DaGVmZXMgZGUgVW5pZGFkZTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkFzc2lzdGVudGVzIj5Bc3Npc3RlbnRlczwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Ikluc3BldG9yIj5JbnNwZXRvcjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmdW5jYW8iPlF1YWwgc3VhIGZ1bsOnw6NvPzwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQk/Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>intro</last-search>
+      <last-search>wp_die</last-search>
       <last-offset />
-      <last-pattern>intro</last-pattern>
+      <last-pattern>wp_die</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>checkbox</entry>
-        <entry>ng-click</entry>
-        <entry>addFilme</entry>
         <entry>add</entry>
         <entry>films</entry>
         <entry>carrega</entry>
@@ -623,6 +624,9 @@
         <entry>select-contri</entry>
         <entry>question</entry>
         <entry>intro</entry>
+        <entry>form</entry>
+        <entry>ajax</entry>
+        <entry>wp_die</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
