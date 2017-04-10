@@ -167,11 +167,6 @@
         <mark key="^" line="766" column="32" />
         <mark key="." line="763" column="0" />
       </file>
-      <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/sass/pages/_quero-contribuir.scss" timestamp="1491570753605">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="108" column="6" />
-      </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/sass/pages/_cadastre-se.scss" timestamp="1491573795001">
         <mark key="'" line="330" column="3" />
         <mark key="[" line="9" column="18" />
@@ -229,12 +224,12 @@
         <mark key="." line="61" column="19" />
         <mark key="^" line="61" column="19" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491850026405">
-        <mark key="'" line="6" column="35" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-        <mark key="^" line="7" column="1" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491856940834">
+        <mark key="'" line="117" column="8" />
+        <mark key="[" line="134" column="10" />
+        <mark key="]" line="134" column="10" />
+        <mark key="." line="134" column="10" />
+        <mark key="^" line="135" column="11" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/routes.php" timestamp="1490885456473">
         <mark key="[" line="68" column="24" />
@@ -323,12 +318,12 @@
         <mark key="^" line="275" column="41" />
         <mark key="." line="275" column="41" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491849869455">
-        <mark key="'" line="87" column="52" />
-        <mark key="[" line="468" column="0" />
-        <mark key="]" line="468" column="0" />
-        <mark key="." line="468" column="0" />
-        <mark key="^" line="462" column="101" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491856413437">
+        <mark key="'" line="338" column="28" />
+        <mark key="[" line="362" column="47" />
+        <mark key="]" line="362" column="54" />
+        <mark key="." line="362" column="54" />
+        <mark key="^" line="362" column="54" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/config/routeConfig.js" timestamp="1491425226659">
         <mark key="'" line="108" column="34" />
@@ -393,7 +388,7 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="30" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491845453902">
+      <file name="/Dummy.txt" timestamp="1491854262777">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -430,6 +425,10 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/modules/form-masks.js" timestamp="1491854305411">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/database.php" timestamp="1491398618282">
         <mark key="[" line="100" column="19" />
         <mark key="]" line="100" column="24" />
@@ -449,10 +448,10 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1491849846794">
-        <mark key="'" line="96" column="13" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="57" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1491855822625">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="45" column="3" />
         <mark key="^" line="89" column="25" />
         <mark key="." line="89" column="25" />
       </file>
@@ -497,18 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/app/routes.js" />
-      <jump line="8" column="19" filename="$USER_HOME$/html/filmmelier/ativsys/app/routes.js" />
-      <jump line="50" column="30" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" />
-      <jump line="119" column="38" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novalista.html" />
-      <jump line="90" column="41" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novalista.html" />
-      <jump line="90" column="75" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" />
-      <jump line="16" column="140" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" />
-      <jump line="17" column="97" filename="$USER_HOME$/html/filmmelier/ativsys/public/views/novo-filme.html" />
-      <jump line="7" column="26" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
-      <jump line="70" column="19" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
-      <jump line="123" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="111" column="11" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="71" column="12" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="243" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
@@ -582,7 +569,6 @@
       <jump line="1177" column="33" filename="/var/www/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="240" column="63" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" />
       <jump line="52" column="23" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
-      <jump line="46" column="21" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
       <jump line="55" column="41" filename="/var/www/html/afresp/wp-content/themes/afresp/template-quero-contribuir.php" />
       <jump line="79" column="0" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" />
       <jump line="6" column="35" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
@@ -594,31 +580,47 @@
       <jump line="85" column="17" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
       <jump line="93" column="38" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
       <jump line="94" column="32" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
-      <jump line="95" column="13" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
       <jump line="96" column="13" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
       <jump line="87" column="52" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="132" column="29" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="143" column="44" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="348" column="57" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="361" column="66" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="362" column="44" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="142" column="57" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="360" column="69" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="374" column="44" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="373" column="57" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="95" column="40" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="14" column="22" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="46" column="76" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
+      <jump line="338" column="28" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="117" column="8" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>$formData</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICRmb3JtLmFkZENsYXNzKCdsb2FkaW5nJyk7CiAgICAkKCcubG9hZGluZy1wYW5lbCcpLnNob3coKTsK</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>&quot;&quot;</text>
+      <register name="b" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7CiAgICAgICAgICAgICRmb3JtLmhpZGUoKTsK</text>
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7CiAgICAgICAgICAgICRmb3JtLmhpZGUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>cpf</text>
+        <text>formUsuario</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAkKCcjZGF0YW5hc2MnKS5tYXNrKCcwMC8wMC8wMDAwJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>('#form_usuario')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0uaGlkZSgpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -627,19 +629,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgJCgnI2Zvcm1fdXN1YXJpbycpLmFkZENsYXNzKCdsb2FkaW5nJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbW9zdHJhciBzdWNlc3NvCiAgICAgICAgICAgIC8vICQoJy5sb2FkZXItdm90bycpLmhpZGUoKTsKICAgICAgICAgICAgLy8gJCgnLnN1Y2Nlc3Mtdm90by1jb250cmlidWljYW8nKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZm9ybS5yZW1vdmVDbGFzcygnbG9hZGluZycpOwogICAgICAgICQoJy5sb2FkaW5nLXBhbmVsJykuaGlkZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkKCcjdGVsZWZvbmUnKS5tYXNrKCcoMDApIDAwMDAwLTAwMDAnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlY3Rpb24K</text>
+        <text encoding="base64">ICAkKCcjY3BmLCAjY3BmbmFvYXNzb2MnKS5tYXNrKCcwMDAuMDAwLjAwMC0wMCcpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -649,18 +651,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cpf</last-search>
+      <last-search>formUsuario</last-search>
       <last-offset />
-      <last-pattern>cpf</last-pattern>
+      <last-pattern>formUsuario</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>filter</entry>
-        <entry>lista\/:permalink</entry>
-        <entry encoding="base64">PDw8PDw=</entry>
-        <entry>anonimo</entry>
         <entry>o Seminário terá</entry>
         <entry>O Seminário terá como foco</entry>
         <entry>echo</entry>
@@ -676,7 +674,11 @@
         <entry>seminario</entry>
         <entry>Falha na inscri</entry>
         <entry>spinner</entry>
+        <entry>rg</entry>
         <entry>cpf</entry>
+        <entry>telefone</entry>
+        <entry>mask</entry>
+        <entry>formUsuario</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>

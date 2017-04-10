@@ -4,17 +4,16 @@
     <property name="created">2017-02-20T16:24:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-04-10T10:53:05</property>
+    <property name="modified">2017-04-10T17:12:16</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Roboto Mono Medium for Powerline" />
+    <option name="EDITOR_FONT_NAME" value="Fira Mono Medium for Powerline" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
