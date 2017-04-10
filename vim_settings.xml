@@ -229,12 +229,12 @@
         <mark key="." line="61" column="19" />
         <mark key="^" line="61" column="19" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491847192404">
-        <mark key="'" line="46" column="21" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="59" column="49" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491850026405">
+        <mark key="'" line="6" column="35" />
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/routes.php" timestamp="1490885456473">
         <mark key="[" line="68" column="24" />
@@ -323,8 +323,8 @@
         <mark key="^" line="275" column="41" />
         <mark key="." line="275" column="41" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491847066527">
-        <mark key="'" line="52" column="23" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491849869455">
+        <mark key="'" line="87" column="52" />
         <mark key="[" line="468" column="0" />
         <mark key="]" line="468" column="0" />
         <mark key="." line="468" column="0" />
@@ -369,8 +369,8 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="43" column="33" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" timestamp="1491845341413">
-        <mark key="'" line="79" column="0" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" timestamp="1491849716094">
+        <mark key="'" line="297" column="23" />
         <mark key="[" line="300" column="34" />
         <mark key="]" line="300" column="45" />
         <mark key="^" line="300" column="45" />
@@ -449,7 +449,8 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1491838165456">
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1491849846794">
+        <mark key="'" line="96" column="13" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="57" />
         <mark key="^" line="89" column="25" />
@@ -496,18 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="201" column="13" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="45" column="8" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
-      <jump line="22" column="0" filename="/tmp/fz3temp-1/functions.php" />
-      <jump line="1056" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="1035" column="20" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="32" column="22" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
-      <jump line="9" column="28" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="113" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="211" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/app/routes.js" />
       <jump line="8" column="19" filename="$USER_HOME$/html/filmmelier/ativsys/app/routes.js" />
       <jump line="50" column="30" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
@@ -596,6 +585,18 @@
       <jump line="46" column="21" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
       <jump line="55" column="41" filename="/var/www/html/afresp/wp-content/themes/afresp/template-quero-contribuir.php" />
       <jump line="79" column="0" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" />
+      <jump line="6" column="35" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
+      <jump line="355" column="69" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="297" column="23" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" />
+      <jump line="9" column="36" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="73" column="39" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="77" column="20" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="85" column="17" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="93" column="38" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="94" column="32" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="95" column="13" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="96" column="13" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" />
+      <jump line="87" column="52" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -611,10 +612,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>spinner</text>
+        <text>cpf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7CiAgICAgICAgICAgICRmb3JtLmhpZGUoKTsKICAgICAgICAgICAgJCgnLnN1Y2Vzc28tbmFvLWFzc29jaWFkbycpLnNob3coKTsK</text>
+        <text encoding="base64">ICAkKCcjZGF0YW5hc2MnKS5tYXNrKCcwMC8wMC8wMDAwJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -648,15 +649,14 @@
       </register>
     </registers>
     <search>
-      <last-search>spinner</last-search>
+      <last-search>cpf</last-search>
       <last-offset />
-      <last-pattern>spinner</last-pattern>
+      <last-pattern>cpf</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>outras listas</entry>
         <entry>filter</entry>
         <entry>lista\/:permalink</entry>
         <entry encoding="base64">PDw8PDw=</entry>
@@ -676,6 +676,7 @@
         <entry>seminario</entry>
         <entry>Falha na inscri</entry>
         <entry>spinner</entry>
+        <entry>cpf</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
