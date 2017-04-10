@@ -15,6 +15,9 @@
         <mark key="." line="90" column="14" />
         <mark key="^" line="90" column="14" />
       </file>
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-quero-contribuir.php" timestamp="1491845316651">
+        <mark key="'" line="55" column="41" />
+      </file>
       <file name="/a.dummy" timestamp="1490126793817">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -226,11 +229,12 @@
         <mark key="." line="61" column="19" />
         <mark key="^" line="61" column="19" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491838609327">
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="44" />
-        <mark key="." line="60" column="44" />
-        <mark key="^" line="60" column="44" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491845046811">
+        <mark key="'" line="46" column="21" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/routes.php" timestamp="1490885456473">
         <mark key="[" line="68" column="24" />
@@ -319,12 +323,12 @@
         <mark key="^" line="275" column="41" />
         <mark key="." line="275" column="41" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491838674288">
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491845718395">
         <mark key="'" line="52" column="23" />
-        <mark key="[" line="445" column="41" />
-        <mark key="]" line="445" column="60" />
-        <mark key="." line="445" column="60" />
-        <mark key="^" line="445" column="60" />
+        <mark key="[" line="448" column="117" />
+        <mark key="]" line="448" column="120" />
+        <mark key="." line="448" column="120" />
+        <mark key="^" line="448" column="120" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/config/routeConfig.js" timestamp="1491425226659">
         <mark key="'" line="108" column="34" />
@@ -365,10 +369,12 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="43" column="33" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" timestamp="1491838287646">
-        <mark key="'" line="240" column="63" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="81" column="29" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" timestamp="1491845341413">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="300" column="34" />
+        <mark key="]" line="300" column="45" />
+        <mark key="^" line="300" column="45" />
+        <mark key="." line="300" column="45" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/services/filmesAPIService.js" timestamp="1491337061074">
         <mark key="[" line="10" column="72" />
@@ -387,7 +393,7 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="30" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491598215340">
+      <file name="/Dummy.txt" timestamp="1491845453902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -490,9 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="35" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
-      <jump line="36" column="19" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="37" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="0" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="201" column="13" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
@@ -590,6 +593,9 @@
       <jump line="1177" column="33" filename="/var/www/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="240" column="63" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" />
       <jump line="52" column="23" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
+      <jump line="46" column="21" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
+      <jump line="55" column="41" filename="/var/www/html/afresp/wp-content/themes/afresp/template-quero-contribuir.php" />
+      <jump line="79" column="0" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -599,43 +605,43 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>$formData</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Seu cadastro</text>
+        <text>Login</text>
       </register>
       <register name="/" type="4">
         <text>spinner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoJy5sb2FkaW5nLXBhbmVsJykuaGlkZSgpOwo=</text>
+        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJhbGlnbi1jZW50ZXIiIHN0eWxlPSJtYXJnaW4tdG9wOiAyMHB4OyBtYXJnaW4tYm90dG9tOiAyMHB4Ij4KCQkJCQkJPGEgaHJlZj0iPD9waHAgZWNobyBob21lX3VybCgpOyA/PiIgY2xhc3M9ImJ0IGJ0LXJhaXNlZCBidC1sb2dpbi1ob21lIiBzdHlsZT0id2lkdGg6IDE4MHB4OyI+TG9naW48L2E+CgkJCQkJPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGlnbi1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSI8P3BocCBlY2hvIGhvbWVfdXJsKCk7ID8+IiBjbGFzcz0iYnQgYnQtcmFpc2VkIGJ0LWxvZ2luLWhvbWUiIHN0eWxlPSJ3aWR0aDogMTgwcHg7Ij5Mb2dpbjwvYT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPD9waHAgLyogPz48YSBocmVmPSIjIiBjbGFzcz0ibGluay1mYWNlYm9vayI+CgkJCQkJCTxzdmcgY2xhc3M9Imljb24iPjx1c2UgeGxpbms6aHJlZj0iPD9waHAgZWNobyBlc2NfdXJsKCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpICk7ID8+L2Fzc2V0cy9pbWcvaWNvbnMuc3ZnI2ZhY2Vib29rIj48L3VzZT48L3N2Zz4KCQkJCQkJQWNlc3NlIG5vc3NvIGdydXBvIG5vIEZhY2Vib29rCgkJCQkJPC9hPjw/cGhwICovID8+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwogICAgICAgICAgICB2YXJfZHVtcCgkdXNlcik7CiAgICAgICAgICAgIGVjaG8gIjwvcHJlPiI7CiAgICAgICAgICAgIGRpZSgnZmltJyk7Cgo=</text>
+      <register name="3" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAK</text>
+      <register name="4" type="4">
+        <text>json</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgdmFyX2R1bXAoJGZvcm1EYXRhKTsKICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgIGRpZSgnZmltJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocAo=</text>
+        <text encoding="base64">ICAgIC8vZXNjb25kZXIgZm9ybQogICAgLy8gbW9zdHJhciBsb2FkaW5nCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA/Pgo=</text>
+        <text encoding="base64">ICAgIC8vIDEgc2VyaWFsaXplIGZvcm0KICAgIC8vIDIgYWpheAogICAgLy8gcGVnYXIgcmVzcG9uc2UKICAgIC8vIG1vc3RyYXIgZGl2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
