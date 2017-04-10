@@ -194,6 +194,12 @@
         <mark key="." line="15" column="67" />
         <mark key="^" line="15" column="67" />
       </file>
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/main.js" timestamp="1491836640558">
+        <mark key="[" line="136" column="77" />
+        <mark key="]" line="136" column="83" />
+        <mark key="^" line="136" column="83" />
+        <mark key="." line="136" column="83" />
+      </file>
       <file name="$USER_HOME$/html/quizz/wp-config.php" timestamp="1487717586039">
         <mark key="'" line="76" column="60" />
         <mark key="[" line="30" column="0" />
@@ -220,11 +226,11 @@
         <mark key="." line="61" column="19" />
         <mark key="^" line="61" column="19" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491831922166">
-        <mark key="[" line="49" column="30" />
-        <mark key="]" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-        <mark key="^" line="49" column="31" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" timestamp="1491838609327">
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="44" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="$USER_HOME$/html/dm9/backend/application/config/routes.php" timestamp="1490885456473">
         <mark key="[" line="68" column="24" />
@@ -280,12 +286,12 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491835665700">
-        <mark key="'" line="817" column="0" />
-        <mark key="[" line="1207" column="35" />
-        <mark key="]" line="1207" column="35" />
-        <mark key="." line="1207" column="35" />
-        <mark key="^" line="1207" column="35" />
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/functions.php" timestamp="1491837467094">
+        <mark key="'" line="1177" column="33" />
+        <mark key="[" line="1202" column="89" />
+        <mark key="]" line="1202" column="98" />
+        <mark key="." line="1202" column="89" />
+        <mark key="^" line="1174" column="60" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/views/listas/listas.html" timestamp="1491405100190">
         <mark key="'" line="53" column="0" />
@@ -312,6 +318,13 @@
         <mark key="]" line="275" column="41" />
         <mark key="^" line="275" column="41" />
         <mark key="." line="275" column="41" />
+      </file>
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491838674288">
+        <mark key="'" line="52" column="23" />
+        <mark key="[" line="445" column="41" />
+        <mark key="]" line="445" column="60" />
+        <mark key="." line="445" column="60" />
+        <mark key="^" line="445" column="60" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/config/routeConfig.js" timestamp="1491425226659">
         <mark key="'" line="108" column="34" />
@@ -351,6 +364,11 @@
         <mark key="]" line="43" column="33" />
         <mark key="." line="43" column="33" />
         <mark key="^" line="43" column="33" />
+      </file>
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" timestamp="1491838287646">
+        <mark key="'" line="240" column="63" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="81" column="29" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/services/filmesAPIService.js" timestamp="1491337061074">
         <mark key="[" line="10" column="72" />
@@ -425,6 +443,12 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/cadastre-se.js" timestamp="1491838165456">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="57" />
+        <mark key="^" line="89" column="25" />
+        <mark key="." line="89" column="25" />
+      </file>
       <file name="$USER_HOME$/html/afresp/wp-content/themes/afresp/template-home.php" timestamp="1491513013609">
         <mark key="'" line="193" column="58" />
         <mark key="[" line="202" column="0" />
@@ -466,9 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="/tmp/fz3temp-1/header.php" />
-      <jump line="105" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/header.php" />
-      <jump line="1055" column="0" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="34" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="35" column="17" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="36" column="19" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/functions.php" />
@@ -566,68 +587,69 @@
       <jump line="23" column="37" filename="$USER_HOME$/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
       <jump line="987" column="53" filename="/var/www/html/afresp/wp-content/themes/afresp/functions.php" />
       <jump line="817" column="0" filename="/var/www/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="1177" column="33" filename="/var/www/html/afresp/wp-content/themes/afresp/functions.php" />
+      <jump line="240" column="63" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastre-se.php" />
+      <jump line="52" column="23" filename="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">JHVzZXItPklE</text>
+        <text>$formData</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="+" type="4">
-        <text encoding="base64">JHVzZXItPklE</text>
+        <text>$formData</text>
       </register>
       <register name="-" type="4">
-        <text>À</text>
+        <text>Seu cadastro</text>
       </register>
       <register name="/" type="4">
-        <text>seminario</text>
+        <text>spinner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VyLT5hZGRfcm9sZSgnaW5zY3JpdG9fc2VtaW5hcmlvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoJy5sb2FkaW5nLXBhbmVsJykuaGlkZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGlnbi1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSI8P3BocCBlY2hvIGhvbWVfdXJsKCk7ID8+IiBjbGFzcz0iYnQgYnQtcmFpc2VkIGJ0LWxvZ2luLWhvbWUiIHN0eWxlPSJ3aWR0aDogMTgwcHg7Ij5Mb2dpbjwvYT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZvcmVhY2goJGRhdGFBcnJheSBhcyAka2V5PT4kdmFsdWUpIHsKICAgICAgICAgICAgICAgIC8vIAkkc3RhdHVzID0gdXBkYXRlX3VzZXJfbWV0YSgkdXNlcl9JRCwgJGtleSwgJHZhbHVlKTsKICAgICAgICAgICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwogICAgICAgICAgICB2YXJfZHVtcCgkdXNlcik7CiAgICAgICAgICAgIGVjaG8gIjwvcHJlPiI7CiAgICAgICAgICAgIGRpZSgnZmltJyk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJG5vbmNlID0gJGRhdGFbJ25vbmNlJ107CiAgICAgICAgICAgIC8vICR1c2VyX0lEID0gZ2V0X2N1cnJlbnRfdXNlcl9pZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSBnZXRfdXNlcl9ieSgnZW1haWwnLCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5vbWUgPSAkZm9ybURhdGFbJ25vbWUnXTsKICAgICAgICAgICAgJG5hbWVzID0gZXhwbG9kZSgnICcsICRub21lLCAyKTsKICAgICAgICAgICAgJGZpcnN0X25hbWUgPSAkbmFtZXNbMF07CiAgICAgICAgICAgICRsYXN0X25hbWUgPSAkbmFtZXNbMV07CgogICAgICAgICAgICAkdXNlcmRhdGEgPSBhcnJheSgKICAgICAgICAgICAgICAgICd1c2VyX2xvZ2luJyA9PiAkZm9ybURhdGFbJ2VtYWlsJ10sCiAgICAgICAgICAgICAgICAndXNlcl9wYXNzJyA9PiAnJywKICAgICAgICAgICAgICAgICd1c2VyX2VtYWlsJyA9PiAkZm9ybURhdGFbJ2VtYWlsJ10sCiAgICAgICAgICAgICAgICAnZmlyc3RfbmFtZScgPT4gJGZpcnN0X25hbWUsCiAgICAgICAgICAgICAgICAnbmlja25hbWUnID0+ICRmb3JtRGF0YVsnbm9tZSddLAogICAgICAgICAgICApOwogICAgICAgICAgICBpZiAoZW1haWxfZXhpc3RzKCRmb3JtRGF0YVsnZW1haWwnXSkpIDoKICAgICAgICAgICAgICAgIGFqYXhTdGF0dXMoJ2Vycm8nLCAnVXN1w6FyaW8gasOhIGluc2NyaXRvLicpOwogICAgICAgICAgICBlbHNlIDoKICAgICAgICAgICAgICAgICR1c2VyX2lkID0gd3BfaW5zZXJ0X3VzZXIoJHVzZXJkYXRhKTsKICAgICAgICAgICAgICAgICR1c2VyID0gbmV3IFdQX1VzZXIoJHVzZXJfaWQpOwogICAgICAgICAgICAgICAgJHVzZXItPmFkZF9yb2xlKCdpbnNjcml0b19zZW1pbmFyaW8nKTsKICAgICAgICAgICAgICAgICR1c2VyLT5yZW1vdmVfcm9sZSgnc3Vic2NyaWJlcicpOwoKICAgICAgICAgICAgICAgICRzdGF0dXNbJ2NwZiddID0gdXBkYXRlX3VzZXJfbWV0YSgoaW50KSR1c2VyX2lkLCAnY3BmJywgJGZvcm1EYXRhWydjcGYnXSk7CiAgICAgICAgICAgICAgICAkc3RhdHVzWydyZyddID0gdXBkYXRlX3VzZXJfbWV0YSgoaW50KSR1c2VyX2lkLCAncmcnLCAkZm9ybURhdGFbJ3JnJ10pOwogICAgICAgICAgICAgICAgJHN0YXR1c1sndGVsZWZvbmUnXSA9IHVwZGF0ZV91c2VyX21ldGEoKGludCkkdXNlcl9pZCwgJ3RlbGVmb25lJywgJGZvcm1EYXRhWyd0ZWxlZm9uZSddKTsKICAgICAgICAgICAgICAgICRzdGF0dXNbJ2RhdGFuYXNjJ10gPSB1cGRhdGVfdXNlcl9tZXRhKChpbnQpJHVzZXJfaWQsICdkYXRhX2RlX25hc2NpbWVudG8nLCAkZm9ybURhdGFbJ2RhdGFuYXNjJ10pOwogICAgICAgICAgICAgICAgJHN0YXR1c1snb3JnYW5pemFjYW8nXSA9IHVwZGF0ZV91c2VyX21ldGEoKGludCkkdXNlcl9pZCwgJ29yZ2FuaXphY2FvJywgJGZvcm1EYXRhWydvcmdhbml6YWNhbyddKTsKICAgICAgICAgICAgICAgICRzdGF0dXNbJ2NhcmdvJ10gPSB1cGRhdGVfdXNlcl9tZXRhKChpbnQpJHVzZXJfaWQsICdjYXJnbycsICRmb3JtRGF0YVsnY2FyZ28nXSk7CiAgICAgICAgICAgICAgICAkc3RhdHVzWydmaXN0X25hbWUnXSA9IHVwZGF0ZV91c2VyX21ldGEoKGludCkkdXNlcl9pZCwnZmlyc3RfbmFtZScsICRmaXJzdF9uYW1lKTsKICAgICAgICAgICAgICAgICRzdGF0dXNbJ2xhc3RfbmFtZSddID0gdXBkYXRlX3VzZXJfbWV0YSgoaW50KSR1c2VyX2lkLCdsYXN0X25hbWUnLCAkbGFzdF9uYW1lKTsKCi8vICAgICAgICAgICAgICAgICR0byA9ICRmb3JtRGF0YVsnZW1haWwnXTsgLy9lbWFpbCBwLyB1c2VyCi8vICAgICAgICAgICAgICAgICRzdWJqZWN0ID0gJ1tTZW1pbsOhcmlvIEFGUkVTUF0gLSBQcsOpLWluc2NyacOnw6NvIHJlYWxpemFkYSBjb20gc3VjZXNzbyEnOwovLyAgICAgICAgICAgICAgICAkaGVhZGVycyA9IGFycmF5KCdDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD1VVEYtOCcpOwovLyAgICAgICAgICAgICAgICAkYXR0YWNobWVudHMgPSAnJzsKLy8gICAgICAgICAgICAgICAgJG1lc3NhZ2UgPSBmaWxlX2dldF9jb250ZW50cyhBQlNQQVRILidlbWFpbHMvdGVtcGxhdGUtY2FkYXN0cm8tdXNlci5odG1sJyk7Ci8vICAgICAgICAgICAgICAgICRtZXNzYWdlID0gc3RyX3JlcGxhY2UoJ19fTk9NRV9ET19VU1VBUklPX18nLCAkdXNlci0+ZGlzcGxheV9uYW1lLCAkbWVzc2FnZSk7Ci8vICAgICAgICAgICAgICAgICRtZXNzYWdlID0gc3RyX3JlcGxhY2UoJ19fQlROX0xPR0lOX18nLCBob21lX3VybCgpLCAkbWVzc2FnZSk7Ci8vICAgICAgICAgICAgICAgICR0bzIgPSAncGVkcm9AcGx1cmFsd2ViLmJpeixhbmRyZWlhQHBsdXJhbHdlYi5iaXosY29udGF0b0Btb3ZpbWVudG92aXZhLm9yZy5icixsZW5pdGFAYWZyZXNwLm9yZy5icix3aWxzb25hbGVncmV0dGlAYWZyZXNwLm9yZy5icic7IC8vIGVtYWlsIHAvYWRtaW4KLy8gICAgICAgICAgICAgICAgJG1lc3NhZ2UyID0gZmlsZV9nZXRfY29udGVudHMoQUJTUEFUSC4nZW1haWxzL3RlbXBsYXRlLWNhZGFzdHJvLWFkbWluLmh0bWwnKTsKLy8gICAgICAgICAgICAgICAgJG1lc3NhZ2UyID0gc3RyX3JlcGxhY2UoJ19fTk9NRV9ET19VU1VBUklPX18nLCAkbm9tZSwgJG1lc3NhZ2UyKTsKLy8gICAgICAgICAgICAgICAgJG1lc3NhZ2UyID0gc3RyX3JlcGxhY2UoJ19fTlVNRVJPX0RFX0FTU09DSUFET19fJywgJGRhdGFBcnJheVsnYXNzb2NpYWRvJ10sICRtZXNzYWdlMik7Ci8vICAgICAgICAgICAgICAgICRtZXNzYWdlMiA9IHN0cl9yZXBsYWNlKCdfX0xPQ0FMX0RFX0VYRVJDSUNJT19fJywgJGRhdGFBcnJheVsnYXJlYV9sb3RhY2FvJ10sICRtZXNzYWdlMik7Ci8vICAgICAgICAgICAgICAgICRtZXNzYWdlMiA9IHN0cl9yZXBsYWNlKCdfX1NUQVRVU19fJywgJGRhdGFBcnJheVsnc3RhdHVzJ10sICRtZXNzYWdlMik7Ci8vICAgICAgICAgICAgICAgICRtZXNzYWdlMiA9IHN0cl9yZXBsYWNlKCdfX0JUTl9MSU5LX18nLCBob21lX3VybCgnL3dwLWFkbWluL3VzZXJzLnBocCcpLCAkbWVzc2FnZTIpOwovLyAgICAgICAgICAgICAgICAkc3ViamVjdDIgPSAnW01vdmltZW50byBWaXZhIC0gQURNSU5dIC0gQ2FkYXN0cm8gRWZldHVhZG8nOwovLwovLyAgICAgICAgICAgICAgICAkZW1haWwgPSB3cF9tYWlsKCAkdG8sICRzdWJqZWN0LCAkbWVzc2FnZSwgJGhlYWRlcnMsICRhdHRhY2htZW50cyApOwovLyAgICAgICAgICAgICAgICAkZW1haWwyID0gd3BfbWFpbCggJHRvMiwgJHN1YmplY3QyLCAkbWVzc2FnZTIsICRoZWFkZXJzLCAkYXR0YWNobWVudHMgKTsKLy8KLy8gICAgICAgICAgICAgICAgaWYgKCEkZW1haWwpIHsKLy8gICAgICAgICAgICAgICAgICAgIGFqYXhTdGF0dXMoJ2Vycm9yJywgJ0ZhbGhhIG5vIGVudmlvIGRhIG1lbnNhZ2VtLicsICRkYXRhKTsKLy8gICAgICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgICAgIGFqYXhTdGF0dXMoJ3N1Y2Nlc3MnLCAkc3RhdHVzLCAkZGF0YSk7Ci8vICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAvLyBSZXR1cm4KICAgICAgICAgICAgICAgIGlmICghaXNfd3BfZXJyb3IoJHVzZXJfaWQpKSB7CiAgICAgICAgICAgICAgICAgICAgYWpheFN0YXR1cygnc3VjZXNzbycsICdVc3XDoXJpbyBjcmlhZG8gY29tIHN1Y2Vzc28uJyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGFqYXhTdGF0dXMoJ2Vycm8nLCAkdXNlcl9pZC0+Z2V0X2Vycm9yX21lc3NhZ2UoKSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICBlbmRpZjsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgdmFyX2R1bXAoJGZvcm1EYXRhKTsKICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgIGRpZSgnZmltJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8P3BocAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA/Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>seminario</last-search>
+      <last-search>spinner</last-search>
       <last-offset />
-      <last-pattern>seminario</last-pattern>
+      <last-pattern>spinner</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Amazon Prime</entry>
-        <entry>netflix</entry>
         <entry>outras listas</entry>
         <entry>filter</entry>
         <entry>lista\/:permalink</entry>
@@ -646,6 +668,8 @@
         <entry>update_user</entry>
         <entry>user_meta</entry>
         <entry>seminario</entry>
+        <entry>Falha na inscri</entry>
+        <entry>spinner</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
