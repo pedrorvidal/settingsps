@@ -57,6 +57,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-o-projeto.php" timestamp="1492027611411">
+        <mark key="[" line="83" column="49" />
+        <mark key="]" line="83" column="49" />
+        <mark key="." line="83" column="49" />
+        <mark key="^" line="83" column="49" />
+      </file>
       <file name="$USER_HOME$/html/mundoverde/wp-content/themes/twentysixteen/css/style.css" timestamp="1489608916108">
         <mark key="'" line="574" column="0" />
         <mark key="[" line="833" column="0" />
@@ -603,7 +609,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7CiAgICAgICAgICAgICRmb3JtLmhpZGUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>formUsuario</text>
