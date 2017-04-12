@@ -136,7 +136,6 @@
         <mark key="." line="49" column="3" />
         <mark key="^" line="49" column="3" />
       </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/package.json" timestamp="1491828844606" />
       <file name="$USER_HOME$/html/mundoverde/bigdump/bigdump.php" timestamp="1488489946119">
         <mark key="[" line="43" column="16" />
         <mark key="]" line="43" column="20" />
@@ -317,13 +316,6 @@
         <mark key="]" line="275" column="41" />
         <mark key="^" line="275" column="41" />
         <mark key="." line="275" column="41" />
-      </file>
-      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-cadastro-seminario.php" timestamp="1491856413437">
-        <mark key="'" line="338" column="28" />
-        <mark key="[" line="362" column="47" />
-        <mark key="]" line="362" column="54" />
-        <mark key="." line="362" column="54" />
-        <mark key="^" line="362" column="54" />
       </file>
       <file name="$USER_HOME$/html/filmmelier/html/config/routeConfig.js" timestamp="1491425226659">
         <mark key="'" line="108" column="34" />
@@ -655,7 +647,7 @@
       <last-offset />
       <last-pattern>formUsuario</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
