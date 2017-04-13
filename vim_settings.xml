@@ -142,6 +142,11 @@
         <mark key="." line="49" column="3" />
         <mark key="^" line="49" column="3" />
       </file>
+      <file name="/var/www/html/afresp/teste.php" timestamp="1492083565112">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/html/mundoverde/bigdump/bigdump.php" timestamp="1488489946119">
         <mark key="[" line="43" column="16" />
         <mark key="]" line="43" column="20" />
@@ -609,7 +614,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7CiAgICAgICAgICAgICRmb3JtLmhpZGUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>formUsuario</text>
@@ -618,31 +623,31 @@
         <text>('#form_usuario')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0uaGlkZSgpOwo=</text>
+        <text encoding="base64">PD9waHAKICAgIGVjaG8gInRlc3RlIjsKICAgIGVjaG8gIm1haXMgdW0gdGVzdGUiOwovLyAgICBlIGFnb3JhPwo/Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0uaGlkZSgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJCgnI2Zvcm1fdXN1YXJpbycpLmFkZENsYXNzKCdsb2FkaW5nJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZm9ybS5yZW1vdmVDbGFzcygnbG9hZGluZycpOwogICAgICAgICQoJy5sb2FkaW5nLXBhbmVsJykuaGlkZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgJCgnI2Zvcm1fdXN1YXJpbycpLmFkZENsYXNzKCdsb2FkaW5nJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZm9ybS5yZW1vdmVDbGFzcygnbG9hZGluZycpOwogICAgICAgICQoJy5sb2FkaW5nLXBhbmVsJykuaGlkZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAkKCcjdGVsZWZvbmUnKS5tYXNrKCcoMDApIDAwMDAwLTAwMDAnKTsK</text>
+        <text encoding="base64">ICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkKCcjY3BmLCAjY3BmbmFvYXNzb2MnKS5tYXNrKCcwMDAuMDAwLjAwMC0wMCcpOwo=</text>
+        <text encoding="base64">ICAkKCcjdGVsZWZvbmUnKS5tYXNrKCcoMDApIDAwMDAwLTAwMDAnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkKCcjY3BmLCAjY3BmbmFvYXNzb2MnKS5tYXNrKCcwMDAuMDAwLjAwMC0wMCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
