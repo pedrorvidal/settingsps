@@ -309,6 +309,13 @@
         <mark key="^" line="63" column="16" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="/var/www/html/afresp/wp-content/themes/afresp/template-seminario.php" timestamp="1493303934513">
+        <mark key="'" line="384" column="70" />
+        <mark key="[" line="390" column="0" />
+        <mark key="]" line="390" column="0" />
+        <mark key="." line="390" column="0" />
+        <mark key="^" line="385" column="63" />
+      </file>
       <file name="$USER_HOME$/html/filmmelier/html/controllers/filmeDetalheCtrl.js" timestamp="1491336799851">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="4" column="29" />
@@ -513,9 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
-      <jump line="300" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/serveradm.js" />
-      <jump line="69" column="41" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="103" column="0" filename="$USER_HOME$/html/filmmelier/ativsys/public/controllers/filmesCtrl.js" />
       <jump line="54" column="29" filename="$USER_HOME$/html/filmmelier/ativsys/server.js" />
@@ -613,6 +617,9 @@
       <jump line="117" column="8" filename="/var/www/html/afresp/wp-content/themes/afresp/src/js/pages/inscricao-seminario.js" />
       <jump line="19" column="59" filename="/var/www/html/votorantin/backend/application/controllers/Home.php" />
       <jump line="19" column="63" filename="/tmp/fz3temp-1/Home.php" />
+      <jump line="0" column="0" filename="/var/www/html/afresp/wp-content/themes/afresp/template-seminario.php" />
+      <jump line="66" column="32" filename="/var/www/html/afresp/wp-content/themes/afresp/template-seminario.php" />
+      <jump line="385" column="70" filename="/var/www/html/afresp/wp-content/themes/afresp/template-seminario.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -624,59 +631,58 @@
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7CiAgICAgICAgICAgICRmb3JtLmhpZGUoKTsK</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7CiAgICAgICAgICAgICRmb3JtLmhpZGUoKTsK</text>
+      <register name="+" type="4">
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>$campo['</text>
       </register>
       <register name="/" type="4">
-        <text>formUsuario</text>
+        <text>patrocinadores</text>
       </register>
       <register name="0" type="4">
         <text>('#form_usuario')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD9waHAKICAgIGVjaG8gInRlc3RlIjsKICAgIGVjaG8gIm1haXMgdW0gdGVzdGUiOwovLyAgICBlIGFnb3JhPwo/Pgo=</text>
+        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJjb2wgbGctMyI+CgkJCQkJCTxzcGFuIGNsYXNzPSJpdGVtLWxvZ28iPgoJCQkJCQkJPGltZyBzcmM9Imh0dHBzOi8vc2F0eXIuaW8vMTgweDgyIiBhbHQ9IiI+CgkJCQkJCTwvc3Bhbj4KCQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0uaGlkZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIjxwcmU+IjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkY2FtcG8pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIjwvcHJlPiI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vc2F0eXIuaW8vMTgweDgyIiBhbHQ9IiI+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJCgnI2Zvcm1fdXN1YXJpbycpLmFkZENsYXNzKCdsb2FkaW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaWUoJ2ZpbScpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZm9ybS5yZW1vdmVDbGFzcygnbG9hZGluZycpOwogICAgICAgICQoJy5sb2FkaW5nLXBhbmVsJykuaGlkZSgpOwo=</text>
+      <register name="6" type="4">
+        <text>''</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm0ucmVtb3ZlQ2xhc3MoJ2xvYWRpbmcnKTsKICAgICAgJCgnLmxvYWRpbmctcGFuZWwnKS5oaWRlKCk7Cg==</text>
+      <register name="7" type="4">
+        <text>term_id</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkKCcjdGVsZWZvbmUnKS5tYXNrKCcoMDApIDAwMDAwLTAwMDAnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCAkaW1nID0gID8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkKCcjY3BmLCAjY3BmbmFvYXNzb2MnKS5tYXNrKCcwMDAuMDAwLjAwMC0wMCcpOwo=</text>
+        <text encoding="base64">CQkJCQllY2hvICI8cHJlPiI7CgkJCQkJdmFyX2R1bXAoJHBhdHJvY2luYWRvcmVzKTsKCQkJCQllY2hvICI8L3ByZT4iOwoJCQkJCWRpZSgnZmltJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>formUsuario</last-search>
+      <last-search>patrocinadores</last-search>
       <last-offset />
-      <last-pattern>formUsuario</last-pattern>
+      <last-pattern>patrocinadores</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>o Seminário terá</entry>
         <entry>O Seminário terá como foco</entry>
         <entry>echo</entry>
         <entry>select-contri</entry>
@@ -696,6 +702,7 @@
         <entry>telefone</entry>
         <entry>mask</entry>
         <entry>formUsuario</entry>
+        <entry>patrocinadores</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
